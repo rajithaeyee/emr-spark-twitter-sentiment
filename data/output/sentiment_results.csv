@@ -1,0 +1,1001 @@
+author,content,cleaned_content,sentiment_score,sentiment_label,subjectivity,content_length,date_time,language,country,number_of_likes,number_of_shares,id
+techguru42,Just upgraded to the new smartphone and I'm absolutely loving the camera quality! The night mode is incredible 📸,Just upgraded to the new smartphone and I'm absolutely loving the camera quality! The night mode is incredible 📸,0.5954546,positive,0.7681818,112,2024-01-15T10:30:00.000Z,en,USA,1523,342,1001
+foodie_sarah,Worst restaurant experience ever. Cold food and terrible service. Never going back!,Worst restaurant experience ever. Cold food and terrible service. Never going back!,-0.65,negative,0.75,83,2024-01-15T11:45:00.000Z,en,UK,234,89,1002
+naturelover22,Beautiful sunrise this morning at the beach. Nature never fails to amaze me 🌅,Beautiful sunrise this morning at the beach. Nature never fails to amaze me 🌅,0.55,positive,0.65,77,2024-01-15T06:00:00.000Z,en,Australia,3421,567,1003
+gamer_mike,The new game update is fantastic! They fixed all the bugs and added amazing new features,The new game update is fantastic! They fixed all the bugs and added amazing new features,0.17878787,positive,0.55151516,88,2024-01-15T14:20:00.000Z,en,Canada,892,123,1004
+fitness_jane,Completed my first marathon today! 26.2 miles of pure determination. Feeling proud and exhausted,Completed my first marathon today! 26.2 miles of pure determination. Feeling proud and exhausted,0.23169643,positive,0.6333333,96,2024-01-15T16:30:00.000Z,en,USA,5672,890,1005
+bookworm88,Just finished reading the latest bestseller. Disappointing plot and predictable ending,Just finished reading the latest bestseller. Disappointing plot and predictable ending,-0.1,neutral,0.7,86,2024-01-15T20:00:00.000Z,en,India,456,67,1006
+coffeelover,Perfect morning with a delicious cappuccino and croissant at my favorite café ☕,Perfect morning with a delicious cappuccino and croissant at my favorite café ☕,0.8333333,positive,1.0,79,2024-01-15T08:30:00.000Z,en,France,2341,234,1007
+sportsfan23,Our team lost again. This season is a complete disaster. Time for management changes!,Our team lost again. This season is a complete disaster. Time for management changes!,0.125,positive,0.4,85,2024-01-15T22:00:00.000Z,en,USA,567,234,1008
+travelbuddy,Exploring Tokyo for the first time. The culture and food are absolutely amazing! 🍜,Exploring Tokyo for the first time. The culture and food are absolutely amazing! 🍜,0.5,positive,0.6166667,82,2024-01-16T12:00:00.000Z,en,Japan,4567,789,1009
+musicfan99,The concert last night was mind-blowing! Best live performance I've ever seen 🎵,The concert last night was mind-blowing! Best live performance I've ever seen 🎵,0.37878788,positive,0.2888889,79,2024-01-16T09:00:00.000Z,en,UK,3456,567,1010
+techguru42,Software update broke my laptop. Lost hours of work. So frustrated right now!,Software update broke my laptop. Lost hours of work. So frustrated right now!,-0.17142858,negative,0.36785713,77,2024-01-16T15:30:00.000Z,en,USA,890,234,1011
+foodie_sarah,Discovered an amazing Thai restaurant downtown. The pad thai is to die for! 🍜,Discovered an amazing Thai restaurant downtown. The pad thai is to die for! 🍜,0.75,positive,0.9,77,2024-01-16T19:00:00.000Z,en,UK,2345,456,1012
+naturelover22,Plastic pollution on our beaches is heartbreaking. We need to act now!,Plastic pollution on our beaches is heartbreaking. We need to act now!,0.0,neutral,0.0,70,2024-01-16T07:30:00.000Z,en,Australia,1234,890,1013
+gamer_mike,Server maintenance during peak hours? Really? This is unacceptable!,Server maintenance during peak hours? Really? This is unacceptable!,0.25,positive,0.2,67,2024-01-16T20:00:00.000Z,en,Canada,234,56,1014
+fitness_jane,Rest day vibes. Sometimes doing nothing is exactly what your body needs 😌,Rest day vibes. Sometimes doing nothing is exactly what your body needs 😌,0.25,positive,0.25,73,2024-01-16T11:00:00.000Z,en,USA,3456,234,1015
+moviebuff77,Just watched the new blockbuster. Stunning visuals but weak storyline,Just watched the new blockbuster. Stunning visuals but weak storyline,0.08712121,neutral,0.6931818,69,2024-01-16T21:30:00.000Z,en,Germany,678,123,1016
+petlover45,My dog learned a new trick today! So proud of my furry friend 🐕,My dog learned a new trick today! So proud of my furry friend 🐕,0.4852273,positive,0.72727275,63,2024-01-17T10:00:00.000Z,en,Brazil,5678,890,1017
+artistan,Finished my latest painting after weeks of work. Feeling accomplished!,Finished my latest painting after weeks of work. Feeling accomplished!,0.375,positive,0.7,70,2024-01-17T14:00:00.000Z,en,Italy,2345,345,1018
+techguru42,Privacy concerns with the new app are serious. Read the terms carefully!,Privacy concerns with the new app are serious. Read the terms carefully!,-0.10732323,negative,0.7070707,72,2024-01-17T16:00:00.000Z,en,USA,1234,567,1019
+foodie_sarah,Cooking experiment gone wrong. Kitchen looks like a disaster zone 😅,Cooking experiment gone wrong. Kitchen looks like a disaster zone 😅,-0.5,negative,0.9,67,2024-01-17T18:30:00.000Z,en,UK,3456,234,1020
+startup_founder,Just secured funding for our startup! Dreams do come true with hard work 🚀,Just secured funding for our startup! Dreams do come true with hard work 🚀,0.029166667,neutral,0.59583336,74,2024-01-17T09:00:00.000Z,en,USA,8901,1234,1021
+teacher_amy,Students surprised me with thank you cards. Teaching is so rewarding ❤️,Students surprised me with thank you cards. Teaching is so rewarding ❤️,0.3,positive,0.95,71,2024-01-17T15:30:00.000Z,en,Canada,4567,678,1022
+photograher_pro,Golden hour photography session was magical. Nature is the best studio,Golden hour photography session was magical. Nature is the best studio,0.6,positive,0.6,70,2024-01-17T19:00:00.000Z,en,Spain,3456,456,1023
+developer_dan,Finally fixed that bug that's been haunting me for days! Victory! 💻,Finally fixed that bug that's been haunting me for days! Victory! 💻,0.15625,positive,0.2,67,2024-01-18T11:30:00.000Z,en,India,2345,345,1024
+fashionista,New collection dropped and I'm obsessed! Take my money! 💸,New collection dropped and I'm obsessed! Take my money! 💸,-0.3224432,negative,0.72727275,57,2024-01-18T14:00:00.000Z,en,France,5678,789,1025
+environmentalist,Beach cleanup event was a huge success. Together we can make a difference!,Beach cleanup event was a huge success. Together we can make a difference!,0.3875,positive,0.45,74,2024-01-18T08:00:00.000Z,en,Australia,3456,890,1026
+gamer_mike,Finally reached the top rank! Months of practice paid off 🏆,Finally reached the top rank! Months of practice paid off 🏆,-0.16666667,negative,0.8,59,2024-01-18T23:00:00.000Z,en,Canada,4567,567,1027
+news_junkie,Can't believe what's happening in the world today. Staying informed is crucial,Can't believe what's happening in the world today. Staying informed is crucial,0.0,neutral,1.0,78,2024-01-18T12:00:00.000Z,en,USA,1234,890,1028
+wellness_guru,Morning meditation changed my entire day. Mindfulness is powerful 🧘,Morning meditation changed my entire day. Mindfulness is powerful 🧘,0.15,positive,0.8125,67,2024-01-18T06:30:00.000Z,en,India,3456,456,1029
+comedy_fan,That joke had me laughing for hours! Comedy shows are the best therapy 😂,That joke had me laughing for hours! Comedy shows are the best therapy 😂,1.0,positive,0.3,72,2024-01-18T20:30:00.000Z,en,UK,5678,678,1030
+tech_enthusiast,New AI features are revolutionary! The future is here and it's exciting 🤖,New AI features are revolutionary! The future is here and it's exciting 🤖,0.15681818,positive,0.4598485,73,2024-01-19T08:15:00.000Z,en,USA,4523,672,1031
+food_critic,Michelin star experience was overrated. Sometimes simple food is the best,Michelin star experience was overrated. Sometimes simple food is the best,0.5,positive,0.32857144,73,2024-01-19T12:30:00.000Z,en,France,789,123,1032
+nature_photographer,Captured a rare bird species today! Patience finally paid off 📷,Captured a rare bird species today! Patience finally paid off 📷,0.1875,positive,0.95,63,2024-01-19T05:45:00.000Z,en,Brazil,6789,1023,1033
+gaming_pro,Lost the tournament finals. Devastated but coming back stronger,Lost the tournament finals. Devastated but coming back stronger,0.0,neutral,0.0,63,2024-01-19T16:00:00.000Z,en,Germany,234,45,1034
+reader_anna,Book club meeting was amazing! Love discussing literature with friends,Book club meeting was amazing! Love discussing literature with friends,0.625,positive,0.75,70,2024-01-19T19:30:00.000Z,en,UK,1234,234,1036
+coffee_addict,Trying to quit caffeine. Day 1 and already missing my espresso,Trying to quit caffeine. Day 1 and already missing my espresso,-0.2,negative,0.05,62,2024-01-19T09:00:00.000Z,en,Italy,567,89,1037
+sports_analyst,Incredible comeback in tonight's game! That's why we love sports,Incredible comeback in tonight's game! That's why we love sports,0.3,positive,0.6333333,64,2024-01-19T22:45:00.000Z,en,USA,2345,345,1038
+wanderlust_soul,Backpacking through South America. Every day is an adventure! 🎒,Backpacking through South America. Every day is an adventure! 🎒,0.0,neutral,0.0,63,2024-01-20T13:00:00.000Z,en,Spain,5678,789,1039
+music_producer,Just dropped a new beat. Let me know what you think! 🎧,Just dropped a new beat. Let me know what you think! 🎧,0.17045455,positive,0.45454547,54,2024-01-20T15:30:00.000Z,en,Canada,3456,567,1040
+techie_sam,Cybersecurity breach at major company. Protect your data people!,Cybersecurity breach at major company. Protect your data people!,0.078125,neutral,0.5,64,2024-01-20T10:00:00.000Z,en,India,1234,890,1041
+foodlover_mike,Homemade pasta disaster. Ordering pizza instead 🍕,Homemade pasta disaster. Ordering pizza instead 🍕,0.0,neutral,0.0,49,2024-01-20T18:00:00.000Z,en,USA,2345,234,1042
+eco_warrior,Solar panels installed! One step closer to sustainable living ☀️,Solar panels installed! One step closer to sustainable living ☀️,0.0,neutral,0.0,64,2024-01-20T11:30:00.000Z,en,Germany,4567,678,1043
+gamer_girl,First female to win this championship! Breaking barriers 🎮,First female to win this championship! Breaking barriers 🎮,0.41666666,positive,0.3,58,2024-01-20T20:00:00.000Z,en,Japan,8901,1234,1044
+yoga_instructor,Find your balance on and off the mat. Namaste 🙏,Find your balance on and off the mat. Namaste 🙏,0.0,neutral,0.0,47,2024-01-20T06:00:00.000Z,en,India,3456,456,1045
+movie_reviewer,Oscar nominations are out! Some surprising snubs this year,Oscar nominations are out! Some surprising snubs this year,0.7,positive,0.5,58,2024-01-20T14:00:00.000Z,en,USA,5678,789,1046
+pet_parent,Cat vs Christmas tree: tree lost. Again. 🎄😹,Cat vs Christmas tree: tree lost. Again. 🎄😹,0.0,neutral,0.0,43,2024-01-21T09:30:00.000Z,en,UK,6789,890,1047
+artist_life,Art exhibition opening was a success! Sold three pieces,Art exhibition opening was a success! Sold three pieces,0.375,positive,0.0,55,2024-01-21T17:00:00.000Z,en,France,2345,345,1048
+coder_life,Deployed to production on Friday. What could go wrong? 😅,Deployed to production on Friday. What could go wrong? 😅,-0.5,negative,0.9,56,2024-01-21T16:30:00.000Z,en,USA,1234,567,1049
+foodie_adventures,Street food in Bangkok is unbeatable! My taste buds are in heaven,Street food in Bangkok is unbeatable! My taste buds are in heaven,0.0,neutral,0.0,65,2024-01-21T12:00:00.000Z,en,Japan,3456,234,1050
+startup_life,Pivot or persevere? The eternal startup dilemma,Pivot or persevere? The eternal startup dilemma,0.0,neutral,0.0,47,2024-01-21T10:00:00.000Z,en,USA,4567,678,1051
+teacher_life,Parent-teacher conferences done. Wine time! 🍷,Parent-teacher conferences done. Wine time! 🍷,0.0,neutral,0.0,45,2024-01-21T19:00:00.000Z,en,Canada,2345,345,1052
+photo_daily,Rainy day photography. Sometimes bad weather makes the best shots,Rainy day photography. Sometimes bad weather makes the best shots,0.15,positive,0.48333332,65,2024-01-21T08:00:00.000Z,en,Australia,5678,789,1053
+dev_humor,My code works and I have no idea why. This is worse than it not working,My code works and I have no idea why. This is worse than it not working,-0.4,negative,0.6,71,2024-01-22T11:00:00.000Z,en,India,3456,456,1054
+fashion_daily,Thrift store find of the century! Vintage Chanel for $50,Thrift store find of the century! Vintage Chanel for $50,0.0,neutral,0.0,56,2024-01-22T14:30:00.000Z,en,France,6789,890,1055
+green_living,Composting update: my plants have never been happier! 🌱,Composting update: my plants have never been happier! 🌱,0.0,neutral,0.0,55,2024-01-22T07:30:00.000Z,en,Germany,1234,234,1056
+gaming_news,New console shortage again. Scalpers are the worst,New console shortage again. Scalpers are the worst,-0.4318182,negative,0.72727275,50,2024-01-22T21:00:00.000Z,en,USA,2345,567,1057
+news_update,Breaking: Major scientific discovery announced today!,Breaking: Major scientific discovery announced today!,0.078125,neutral,0.5,53,2024-01-22T13:00:00.000Z,en,UK,4567,890,1058
+mindful_living,Digital detox day 3: Actually talking to people. It's nice!,Digital detox day 3: Actually talking to people. It's nice!,0.25,positive,0.36666667,59,2024-01-22T09:00:00.000Z,en,Australia,3456,345,1059
+comedy_central,My plants are all dying. Guess I'll stick to plastic ones 🌵,My plants are all dying. Guess I'll stick to plastic ones 🌵,0.0,neutral,0.0,59,2024-01-22T18:30:00.000Z,en,Canada,5678,678,1060
+adventure_seeker,Skydiving was incredible! Already booking the next jump 🪂,Skydiving was incredible! Already booking the next jump 🪂,0.5,positive,0.45,57,2024-01-23T10:00:00.000Z,en,USA,7890,1023,1061
+chef_life,Restaurant critic gave us 5 stars! Hard work pays off,Restaurant critic gave us 5 stars! Hard work pays off,-0.29166666,negative,0.5416667,53,2024-01-23T20:00:00.000Z,en,Italy,4567,567,1062
+nature_calls,Hiking trail was muddy but the view was worth it! 🏔️,Hiking trail was muddy but the view was worth it! 🏔️,0.375,positive,0.1,52,2024-01-23T06:30:00.000Z,en,Brazil,3456,456,1063
+esports_fan,That clutch play in the finals! Esports is real sports,That clutch play in the finals! Esports is real sports,0.2,positive,0.3,54,2024-01-23T22:00:00.000Z,en,Germany,2345,234,1064
+wellness_tips,Hydration reminder: Your body will thank you! 💧,Hydration reminder: Your body will thank you! 💧,0.0,neutral,0.0,47,2024-01-23T08:00:00.000Z,en,India,5678,789,1065
+bookish_life,Library sale haul! 20 books for $10. I may have a problem,Library sale haul! 20 books for $10. I may have a problem,0.0,neutral,0.0,57,2024-01-23T15:30:00.000Z,en,UK,1234,123,1066
+coffee_thoughts,Discovered a new local roaster. RIP my wallet ☕,Discovered a new local roaster. RIP my wallet ☕,0.06818182,neutral,0.22727273,47,2024-01-23T07:00:00.000Z,en,Australia,3456,345,1067
+sports_talk,Draft day drama! Can't believe who went first pick,Draft day drama! Can't believe who went first pick,0.25,positive,0.33333334,50,2024-01-23T19:00:00.000Z,en,USA,4567,678,1068
+travel_gram,Missed my flight. Adventure starts now I guess! ✈️,Missed my flight. Adventure starts now I guess! ✈️,0.0,neutral,0.0,50,2024-01-24T11:00:00.000Z,en,Spain,2345,234,1069
+beats_daily,Studio session until 4am. This album is going to be fire 🔥,Studio session until 4am. This album is going to be fire 🔥,0.0,neutral,0.0,58,2024-01-24T04:30:00.000Z,en,Canada,5678,890,1070
+tech_news,Data breach affects millions. Change your passwords now!,Data breach affects millions. Change your passwords now!,0.0,neutral,0.0,56,2024-01-24T09:00:00.000Z,en,USA,3456,1234,1071
+homecook_fail,Smoke alarm is not a cooking timer. Lesson learned,Smoke alarm is not a cooking timer. Lesson learned,0.0,neutral,0.0,50,2024-01-24T19:30:00.000Z,en,France,1234,234,1072
+gaming_rage,Lag killed me in the final circle. I'm done for today!,Lag killed me in the final circle. I'm done for today!,-0.1,neutral,0.5,54,2024-01-24T23:00:00.000Z,en,Japan,234,45,1074
+fitness_journey,Down 10 pounds! Consistency is key 💪,Down 10 pounds! Consistency is key 💪,-0.097222224,neutral,0.64444447,36,2024-01-24T06:00:00.000Z,en,USA,6789,890,1075
+cinema_love,Movie theater popcorn hits different. Worth the price!,Movie theater popcorn hits different. Worth the price!,0.1875,positive,0.35,54,2024-01-24T20:30:00.000Z,en,India,2345,345,1076
+pet_adventures,Dog park drama: my pup stole everyone's tennis balls 🎾,Dog park drama: my pup stole everyone's tennis balls 🎾,0.0,neutral,0.0,54,2024-01-25T16:00:00.000Z,en,UK,5678,678,1077
+art_therapy,Painting my feelings. Art heals the soul,Painting my feelings. Art heals the soul,0.0,neutral,0.0,40,2024-01-25T13:00:00.000Z,en,Italy,3456,456,1078
+food_heaven,Found the perfect taco truck. This is my happy place 🌮,Found the perfect taco truck. This is my happy place 🌮,0.9,positive,1.0,54,2024-01-25T14:00:00.000Z,en,Spain,4567,567,1080
+investor_diary,Stock market rollercoaster today. Hold on tight! 📈📉,Stock market rollercoaster today. Hold on tight! 📈📉,-0.22321428,negative,0.2857143,51,2024-01-25T15:30:00.000Z,en,USA,3456,890,1081
+educator_thoughts,Every student can succeed with the right support ❤️,Every student can succeed with the right support ❤️,0.2857143,positive,0.53571427,51,2024-01-25T11:00:00.000Z,en,Canada,5678,678,1082
+lens_life,Street photography in the rain. Moody shots all day,Street photography in the rain. Moody shots all day,0.0,neutral,0.0,51,2024-01-25T17:30:00.000Z,en,Australia,2345,345,1083
+dev_struggles,Documentation? We don't do that here apparently,Documentation? We don't do that here apparently,0.05,neutral,0.35,47,2024-01-26T12:00:00.000Z,en,India,3456,456,1084
+style_diary,Outfit of the day: pajamas. Working from home perks,Outfit of the day: pajamas. Working from home perks,0.0,neutral,0.0,51,2024-01-26T08:30:00.000Z,en,France,1234,123,1085
+planet_first,Beach cleanup found 200kg of trash. We must do better,Beach cleanup found 200kg of trash. We must do better,0.5,positive,0.5,53,2024-01-26T07:00:00.000Z,en,Brazil,6789,1234,1086
+game_on,New DLC is amazing! Worth every penny,New DLC is amazing! Worth every penny,0.39545456,positive,0.4848485,37,2024-01-26T21:00:00.000Z,en,Germany,4567,567,1087
+breaking_news,Election results are in! Historic turnout reported,Election results are in! Historic turnout reported,0.0,neutral,0.0,50,2024-01-26T22:00:00.000Z,en,UK,8901,2345,1088
+zen_mode,Sunrise yoga on the beach. Perfect start to the day 🧘‍♀️,Sunrise yoga on the beach. Perfect start to the day 🧘‍♀️,1.0,positive,1.0,56,2024-01-26T06:30:00.000Z,en,USA,3456,456,1089
+laugh_track,Standup comedy attempt: audience was too kind 😂,Standup comedy attempt: audience was too kind 😂,0.6,positive,0.9,47,2024-01-26T20:00:00.000Z,en,Canada,2345,234,1090
+travel_mishap,Lost in translation but found amazing food! Win-win,Lost in translation but found amazing food! Win-win,0.75,positive,0.9,51,2024-01-27T12:30:00.000Z,en,Japan,5678,789,1091
+music_vibes,Vinyl collection growing. There's something special about analog 🎵,Vinyl collection growing. There's something special about analog 🎵,0.35714287,positive,0.5714286,66,2024-01-27T14:00:00.000Z,en,USA,3456,345,1092
+safety_first,Reminder: backup your data! Learned this the hard way,Reminder: backup your data! Learned this the hard way,-0.29166666,negative,0.5416667,53,2024-01-27T16:00:00.000Z,en,India,1234,890,1093
+kitchen_wins,Meal prep Sunday success! Healthy week ahead,Meal prep Sunday success! Healthy week ahead,0.4375,positive,0.25,44,2024-01-27T10:00:00.000Z,en,Germany,4567,567,1094
+green_thumb,Garden is thriving! Nothing beats homegrown veggies 🥬,Garden is thriving! Nothing beats homegrown veggies 🥬,0.0,neutral,0.0,53,2024-01-27T08:00:00.000Z,en,Australia,2345,234,1095
+rage_quit,Uninstalling this game. My sanity is worth more,Uninstalling this game. My sanity is worth more,0.13333334,positive,0.33333334,47,2024-01-27T23:30:00.000Z,en,UK,567,89,1096
+fit_life,Morning run in the rain. Feeling unstoppable! 🏃‍♀️,Morning run in the rain. Feeling unstoppable! 🏃‍♀️,0.0,neutral,0.0,50,2024-01-27T05:30:00.000Z,en,USA,6789,890,1097
+film_buff,Film festival lineup looks incredible this year!,Film festival lineup looks incredible this year!,1.0,positive,0.9,48,2024-01-27T18:00:00.000Z,en,France,3456,456,1098
+furry_friend,Cat judgment intensifies as I work from bed,Cat judgment intensifies as I work from bed,0.0,neutral,0.0,43,2024-01-28T09:00:00.000Z,en,Canada,5678,678,1099
+create_daily,Writer's block defeated! 2000 words today 📝,Writer's block defeated! 2000 words today 📝,0.0,neutral,0.0,43,2024-01-28T15:00:00.000Z,en,Italy,2345,345,1100
+taste_test,Food truck festival was heaven! Trying everything,Food truck festival was heaven! Trying everything,0.0,neutral,0.0,49,2024-01-28T19:00:00.000Z,en,Brazil,4567,678,1102
+money_moves,Investment portfolio up 15%! Patience pays off 💰,Investment portfolio up 15%! Patience pays off 💰,0.0,neutral,0.0,48,2024-01-28T11:00:00.000Z,en,India,5678,890,1103
+teach_inspire,Student's aha moment made my whole week!,Student's aha moment made my whole week!,0.25,positive,0.4,40,2024-01-28T16:30:00.000Z,en,UK,6789,789,1104
+photo_magic,Northern lights captured! Bucket list checked ✅,Northern lights captured! Bucket list checked ✅,0.0,neutral,0.0,47,2024-01-28T02:00:00.000Z,en,Canada,8901,1234,1105
+code_life,Refactoring code from 2019. Past me was... creative,Refactoring code from 2019. Past me was... creative,0.125,positive,0.625,51,2024-01-29T10:00:00.000Z,en,Germany,1234,234,1106
+fashion_finds,Vintage shopping score! 1960s jacket in perfect condition,Vintage shopping score! 1960s jacket in perfect condition,1.0,positive,1.0,57,2024-01-29T13:00:00.000Z,en,France,3456,456,1107
+gamer_win,Speedrun world record! Years of practice paid off,Speedrun world record! Years of practice paid off,0.0,neutral,0.0,49,2024-01-29T22:00:00.000Z,en,Japan,7890,1023,1109
+news_flash,Space mission launches successfully! History in the making,Space mission launches successfully! History in the making,0.9375,positive,0.95,58,2024-01-29T18:00:00.000Z,en,USA,5678,890,1110
+comedy_gold,Autocorrect made that text so much worse 😅,Autocorrect made that text so much worse 😅,-0.4,negative,0.6,42,2024-01-29T12:00:00.000Z,en,UK,6789,678,1112
+adventure_time,Spontaneous road trip! No plan is the best plan,Spontaneous road trip! No plan is the best plan,0.875,positive,0.6,47,2024-01-30T08:00:00.000Z,en,USA,3456,456,1113
+chef_mode,Mastered grandma's secret recipe! Family approved,Mastered grandma's secret recipe! Family approved,-0.5,negative,0.7,49,2024-01-30T19:30:00.000Z,en,Italy,4567,567,1114
+hiking_high,Summit reached! The view makes every step worth it 🏔️,Summit reached! The view makes every step worth it 🏔️,0.3,positive,0.1,53,2024-01-30T05:00:00.000Z,en,Brazil,5678,789,1115
+esports_life,Team practice paid off. Tournament ready! 💪,Team practice paid off. Tournament ready! 💪,0.25,positive,0.5,43,2024-01-30T15:00:00.000Z,en,Germany,2345,234,1116
+health_tips,Sleep is not optional. Your body needs rest!,Sleep is not optional. Your body needs rest!,0.0,neutral,0.0,44,2024-01-30T21:00:00.000Z,en,India,3456,345,1117
+book_love,Reading challenge: 5 books this month. Let's go! 📚,Reading challenge: 5 books this month. Let's go! 📚,0.0,neutral,0.0,50,2024-01-30T17:00:00.000Z,en,Canada,1234,123,1118
+sports_drama,Overtime thriller! My heart can't take this,Overtime thriller! My heart can't take this,0.0,neutral,0.0,43,2024-01-30T22:30:00.000Z,en,USA,5678,890,1120
+wander_more,Getting lost in new cities is how you find gems,Getting lost in new cities is how you find gems,0.13636364,positive,0.45454547,47,2024-01-31T11:00:00.000Z,en,France,3456,456,1121
+music_life,Acoustic session in the park. Music brings people together,Acoustic session in the park. Music brings people together,0.0,neutral,0.0,58,2024-01-31T14:30:00.000Z,en,UK,2345,345,1122
+tech_fail,Smart home got too smart. It locked me out,Smart home got too smart. It locked me out,0.21428572,positive,0.64285713,42,2024-01-31T16:00:00.000Z,en,USA,1234,567,1123
+cook_win,Dinner party success! Everyone asked for recipes,Dinner party success! Everyone asked for recipes,0.375,positive,0.0,48,2024-01-31T21:00:00.000Z,en,Spain,6789,890,1124
+eco_warrior,Solar power running the whole house! Future is bright ☀️,Solar power running the whole house! Future is bright ☀️,0.31666666,positive,0.44166666,56,2024-01-31T12:00:00.000Z,en,Germany,4567,678,1125
+game_rage,Controller may have hit the wall. Oops,Controller may have hit the wall. Oops,0.0,neutral,0.0,38,2024-01-31T23:30:00.000Z,en,Japan,567,89,1126
+gym_life,New personal record! Hard work shows results,New personal record! Hard work shows results,-0.051767677,neutral,0.4320707,44,2024-01-31T06:30:00.000Z,en,USA,5678,789,1127
+movie_night,Plot twist I didn't see coming! Mind blown,Plot twist I didn't see coming! Mind blown,0.0,neutral,0.0,42,2024-01-31T20:00:00.000Z,en,India,3456,456,1128
+pet_love,Dog's reaction to snow is pure joy! ❄️🐕,Dog's reaction to snow is pure joy! ❄️🐕,0.60714287,positive,0.35,39,2024-02-01T08:00:00.000Z,en,Canada,7890,1023,1129
+art_flow,Creative block broken! Inspiration everywhere,Creative block broken! Inspiration everywhere,0.0,neutral,0.7,45,2024-02-01T14:00:00.000Z,en,Italy,2345,345,1130
+dev_win,Code compiled on first try. Suspicious...,Code compiled on first try. Suspicious...,0.25,positive,0.33333334,41,2024-02-01T11:30:00.000Z,en,USA,3456,567,1131
+foodie_find,Hidden gem restaurant discovered! New favorite spot,Hidden gem restaurant discovered! New favorite spot,0.14267677,positive,0.5959596,51,2024-02-01T19:00:00.000Z,en,Brazil,4567,678,1132
+market_watch,Crypto rollercoaster continues. Hold or fold?,Crypto rollercoaster continues. Hold or fold?,0.0,neutral,0.0,45,2024-02-01T09:00:00.000Z,en,UK,5678,890,1133
+teacher_win,Class presentation went perfectly! Proud teacher moment,Class presentation went perfectly! Proud teacher moment,0.8,positive,1.0,55,2024-02-01T15:30:00.000Z,en,Australia,3456,456,1134
+photo_day,City lights at golden hour. Photography gold! 📸,City lights at golden hour. Photography gold! 📸,0.375,positive,0.5,47,2024-02-01T18:00:00.000Z,en,France,6789,789,1135
+debug_pain,Semicolon was missing. 3 hours of my life gone,Semicolon was missing. 3 hours of my life gone,-0.2,negative,0.05,46,2024-02-02T13:00:00.000Z,en,India,1234,234,1136
+style_win,Thrift flip turned out amazing! DIY success,Thrift flip turned out amazing! DIY success,0.525,positive,0.45,43,2024-02-02T10:00:00.000Z,en,Germany,2345,345,1137
+nature_first,Adopted a highway! Keeping it clean monthly,Adopted a highway! Keeping it clean monthly,0.36666667,positive,0.7,43,2024-02-02T08:30:00.000Z,en,USA,4567,567,1138
+gaming_fun,Couch co-op with friends. Best night ever!,Couch co-op with friends. Best night ever!,1.0,positive,0.3,42,2024-02-02T21:00:00.000Z,en,Canada,5678,678,1139
+news_alert,New policy changes everything! Stay informed,New policy changes everything! Stay informed,0.17045455,positive,0.45454547,44,2024-02-02T12:00:00.000Z,en,Spain,3456,890,1140
+peace_found,Meditation app changed my life. Calmer already,Meditation app changed my life. Calmer already,0.0,neutral,0.0,46,2024-02-02T07:00:00.000Z,en,Japan,2345,234,1141
+funny_fail,Tried to be smooth. Walked into glass door,Tried to be smooth. Walked into glass door,0.4,positive,0.5,42,2024-02-02T16:30:00.000Z,en,UK,6789,678,1142
+explore_more,Found a waterfall on random hike! Nature wins,Found a waterfall on random hike! Nature wins,-0.1625,negative,0.35,45,2024-02-03T10:00:00.000Z,en,Australia,4567,567,1143
+dj_life,Crowd went wild! Best set I've ever played 🎧,Crowd went wild! Best set I've ever played 🎧,0.5625,positive,0.35,44,2024-02-03T23:00:00.000Z,en,USA,5678,789,1144
+secure_tip,Two-factor authentication saved my account!,Two-factor authentication saved my account!,0.0,neutral,0.0,43,2024-02-03T14:00:00.000Z,en,India,1234,345,1145
+bake_fail,Cake looks nothing like Pinterest. Tastes good though!,Cake looks nothing like Pinterest. Tastes good though!,0.875,positive,0.6,54,2024-02-03T17:30:00.000Z,en,France,3456,456,1146
+plant_parent,Succulent collection taking over. No regrets! 🌵,Succulent collection taking over. No regrets! 🌵,0.0625,neutral,0.2,47,2024-02-03T09:00:00.000Z,en,Germany,2345,234,1147
+noob_gamer,Finally beat the tutorial after 50 tries!,Finally beat the tutorial after 50 tries!,-0.0625,neutral,0.7,41,2024-02-03T20:00:00.000Z,en,Brazil,4567,567,1148
+fit_progress,Yoga every day for 30 days. Feeling flexible!,Yoga every day for 30 days. Feeling flexible!,0.0,neutral,0.0,45,2024-02-03T06:00:00.000Z,en,USA,6789,890,1149
+film_fest,Independent film blew my mind. Support indie creators!,Independent film blew my mind. Support indie creators!,0.0,neutral,0.0625,54,2024-02-03T19:00:00.000Z,en,Canada,3456,345,1150
+cat_life,Cat brought me a sock. I've been chosen,Cat brought me a sock. I've been chosen,0.0,neutral,0.0,39,2024-02-04T07:30:00.000Z,en,Italy,5678,678,1151
+write_on,Chapter 10 complete! This book might actually happen,Chapter 10 complete! This book might actually happen,0.0625,neutral,0.25,52,2024-02-04T15:00:00.000Z,en,UK,2345,234,1152
+tech_help,Helped grandma with WiFi. I'm the family IT now,Helped grandma with WiFi. I'm the family IT now,0.0,neutral,0.0,47,2024-02-04T11:00:00.000Z,en,USA,3456,567,1153
+food_love,Farmers market haul! Fresh everything 🥕,Farmers market haul! Fresh everything 🥕,0.3,positive,0.5,39,2024-02-04T08:00:00.000Z,en,Spain,4567,678,1154
+invest_smart,Diversified portfolio paying off. Slow and steady,Diversified portfolio paying off. Slow and steady,-0.06666667,neutral,0.45,49,2024-02-04T13:30:00.000Z,en,India,5678,890,1155
+inspire_kids,Science fair was amazing! Future scientists everywhere,Science fair was amazing! Future scientists everywhere,0.48333332,positive,0.64166665,54,2024-02-04T16:00:00.000Z,en,Australia,6789,789,1156
+snap_happy,Photography walk found amazing street art,Photography walk found amazing street art,0.6,positive,0.9,41,2024-02-04T10:30:00.000Z,en,France,3456,456,1157
+code_review,Code review: This is cursed but it works,Code review: This is cursed but it works,0.0,neutral,0.0,40,2024-02-05T09:00:00.000Z,en,Germany,1234,234,1158
+fashion_fun,Mixed patterns and it worked! Fashion rules broken,Mixed patterns and it worked! Fashion rules broken,-0.2,negative,0.325,50,2024-02-05T13:00:00.000Z,en,Japan,2345,345,1159
+earth_hero,Zero waste week complete! It's easier than you think,Zero waste week complete! It's easier than you think,-0.0375,neutral,0.2,52,2024-02-05T07:00:00.000Z,en,USA,4567,567,1160
+gg_wp,Tournament champion! Team effort pays off 🏆,Tournament champion! Team effort pays off 🏆,0.0,neutral,0.0,43,2024-02-05T22:00:00.000Z,en,Canada,7890,1023,1161
+current_events,Community rallies together after storm. Humanity wins,Community rallies together after storm. Humanity wins,0.3,positive,0.2,53,2024-02-05T18:00:00.000Z,en,UK,5678,890,1162
+calm_vibes,Unplugged weekend was exactly what I needed,Unplugged weekend was exactly what I needed,0.25,positive,0.25,43,2024-02-05T20:00:00.000Z,en,Brazil,2345,345,1163
+lol_moment,Zoom filter stuck during meeting. I'm a potato now,Zoom filter stuck during meeting. I'm a potato now,0.0,neutral,0.0,50,2024-02-05T14:30:00.000Z,en,USA,6789,678,1164
+road_trip,Cross-country adventure begins! First stop amazing,Cross-country adventure begins! First stop amazing,0.425,positive,0.6166667,50,2024-02-06T06:00:00.000Z,en,Australia,3456,456,1165
+producer_grind,Album almost done! Late nights worth it,Album almost done! Late nights worth it,0.0,neutral,0.35,39,2024-02-06T03:00:00.000Z,en,India,4567,567,1166
+hack_alert,Password manager is essential! Secure your accounts,Password manager is essential! Secure your accounts,0.2,positive,0.45,51,2024-02-06T11:00:00.000Z,en,Germany,1234,890,1167
+taste_buds,Fusion cuisine experiment success! New recipe unlocked,Fusion cuisine experiment success! New recipe unlocked,0.2556818,positive,0.22727273,54,2024-02-06T19:30:00.000Z,en,France,3456,345,1168
+go_green,Bike commute saving money and the planet 🚴,Bike commute saving money and the planet 🚴,0.0,neutral,0.0,42,2024-02-06T08:30:00.000Z,en,Spain,2345,234,1169
+clutch_play,Last second victory! Heart still racing,Last second victory! Heart still racing,0.0,neutral,0.033333335,39,2024-02-06T23:30:00.000Z,en,USA,5678,789,1170
+study_motivation,Finals week survival mode activated ☕📚,Finals week survival mode activated ☕📚,0.0,neutral,0.0,38,2024-02-06T02:00:00.000Z,en,Canada,3456,456,1171
+binge_watch,Finished entire series in one day. No regrets,Finished entire series in one day. No regrets,0.025,neutral,0.4125,45,2024-02-06T21:00:00.000Z,en,UK,4567,567,1172
+good_boy,Dog graduated training class! Proud parent moment,Dog graduated training class! Proud parent moment,0.8,positive,1.0,49,2024-02-07T16:00:00.000Z,en,Italy,6789,890,1173
+paint_life,Mural project complete! Community art matters,Mural project complete! Community art matters,0.125,positive,0.4,45,2024-02-07T14:00:00.000Z,en,Brazil,2345,345,1174
+bug_hunt,Found the memory leak! Victory dance time,Found the memory leak! Victory dance time,0.0,neutral,0.0,41,2024-02-07T17:30:00.000Z,en,USA,3456,567,1175
+nom_nom,Food coma incoming. Worth every bite,Food coma incoming. Worth every bite,0.1,neutral,0.05,36,2024-02-07T12:30:00.000Z,en,Japan,4567,678,1176
+stocks_up,Best trading day ever! Celebration time 🎉,Best trading day ever! Celebration time 🎉,1.0,positive,0.3,41,2024-02-07T15:00:00.000Z,en,India,5678,890,1177
+teach_moment,Student teaching student. Best teaching method,Student teaching student. Best teaching method,1.0,positive,0.3,46,2024-02-07T10:00:00.000Z,en,Australia,3456,456,1178
+shutter_bug,Wildlife photography requires so much patience!,Wildlife photography requires so much patience!,0.25,positive,0.2,47,2024-02-07T06:30:00.000Z,en,Germany,2345,234,1179
+git_commit,Commit message: Fixed stuff - Future me will hate this,Commit message: Fixed stuff - Future me will hate this,-0.23333333,negative,0.40833333,54,2024-02-08T11:00:00.000Z,en,France,1234,345,1180
+outfit_win,Dressed up for video call. Pajama bottoms secret safe,Dressed up for video call. Pajama bottoms secret safe,0.05,neutral,0.6,53,2024-02-08T09:00:00.000Z,en,USA,3456,567,1181
+eco_hack,Repurposed old jars into planters. Pinterest worthy!,Repurposed old jars into planters. Pinterest worthy!,0.25833333,positive,0.6,52,2024-02-08T13:30:00.000Z,en,Canada,4567,678,1182
+rage_mode,Campers in every corner. This game tests me,Campers in every corner. This game tests me,-0.4,negative,0.4,43,2024-02-08T22:00:00.000Z,en,UK,567,89,1183
+sweat_equity,Gym playlist hit different today. PRs everywhere!,Gym playlist hit different today. PRs everywhere!,0.0,neutral,0.6,49,2024-02-08T07:00:00.000Z,en,Spain,6789,890,1184
+critic_mode,Book-to-movie adaptation ruined everything,Book-to-movie adaptation ruined everything,0.0,neutral,0.0,42,2024-02-08T20:30:00.000Z,en,Brazil,2345,234,1185
+doggo_day,Dog park made 10 new friends. Social butterfly!,Dog park made 10 new friends. Social butterfly!,0.08901515,neutral,0.26060605,47,2024-02-09T16:00:00.000Z,en,USA,5678,678,1186
+creative_mode,3D printing project complete! Future is now,3D printing project complete! Future is now,0.0625,neutral,0.2625,43,2024-02-09T12:00:00.000Z,en,Italy,3456,456,1187
+syntax_error,Missing bracket caused 2-hour debugging session,Missing bracket caused 2-hour debugging session,-0.2,negative,0.05,47,2024-02-09T14:30:00.000Z,en,India,1234,234,1188
+yum_time,Grandma's recipe attempted. Not quite the same but close!,Grandma's recipe attempted. Not quite the same but close!,0.0,neutral,0.125,57,2024-02-09T18:00:00.000Z,en,Germany,4567,567,1189
+money_saved,Coupon game strong! Saved 70% on groceries,Coupon game strong! Saved 70% on groceries,0.07083333,neutral,0.56666666,42,2024-02-09T10:00:00.000Z,en,Australia,2345,345,1190
+wisdom_share,Mentoring session went great. Paying it forward,Mentoring session went great. Paying it forward,0.8,positive,0.75,47,2024-02-09T15:00:00.000Z,en,France,5678,789,1191
+lens_master,Drone photography opens new perspectives! 🚁,Drone photography opens new perspectives! 🚁,0.17045455,positive,0.45454547,43,2024-02-09T08:30:00.000Z,en,Japan,6789,890,1192
+deploy_day,Production deployment successful! Fingers still crossed,Production deployment successful! Fingers still crossed,0.9375,positive,0.95,55,2024-02-10T16:00:00.000Z,en,USA,3456,567,1193
+trend_alert,Tried viral recipe. Actually works! Shocked,Tried viral recipe. Actually works! Shocked,-0.35,negative,0.45,43,2024-02-10T19:00:00.000Z,en,Canada,2345,234,1194
+green_win,Community garden harvest! Sharing with neighbors,Community garden harvest! Sharing with neighbors,0.0,neutral,0.0,48,2024-02-10T11:00:00.000Z,en,UK,4567,678,1195
+noob_moment,Accidentally streamed to thousands. Awkward but fun!,Accidentally streamed to thousands. Awkward but fun!,-0.1125,negative,0.6,52,2024-02-10T21:00:00.000Z,en,Brazil,5678,789,1196
+newsworthy,Local hero saves the day! Faith in humanity restored,Local hero saves the day! Faith in humanity restored,0.0,neutral,0.0,52,2024-02-10T13:00:00.000Z,en,USA,3456,890,1197
+zen_achieved,Morning routine perfected. Day starts right,Morning routine perfected. Day starts right,0.2857143,positive,0.53571427,43,2024-02-10T05:30:00.000Z,en,India,2345,345,1198
+oops_moment,Reply all disaster. Changing my name now,Reply all disaster. Changing my name now,0.0,neutral,0.0,40,2024-02-10T14:30:00.000Z,en,Spain,6789,678,1199
+bucket_list,Bungee jumping checked off! Adrenaline rush insane,Bungee jumping checked off! Adrenaline rush insane,-1.0,negative,1.0,50,2024-02-11T09:00:00.000Z,en,Australia,4567,567,1200
+mix_master,DJ set recordings getting recognition! Dream coming true,DJ set recordings getting recognition! Dream coming true,0.35,positive,0.65,56,2024-02-11T22:00:00.000Z,en,Germany,5678,789,1201
+privacy_matters,Deleted social media apps. Peace at last,Deleted social media apps. Peace at last,0.016666668,neutral,0.06666667,40,2024-02-11T10:00:00.000Z,en,France,1234,345,1202
+chef_kiss,Meal prep mastered! Sundays are for cooking,Meal prep mastered! Sundays are for cooking,0.0,neutral,0.0,43,2024-02-11T15:00:00.000Z,en,Italy,3456,456,1203
+planet_love,Electric car purchase! Future looking cleaner,Electric car purchase! Future looking cleaner,0.0,neutral,0.125,45,2024-02-11T12:00:00.000Z,en,USA,4567,567,1204
+gg_ez,Speedrun record broken! Practice makes perfect,Speedrun record broken! Practice makes perfect,0.25,positive,0.7,46,2024-02-11T20:00:00.000Z,en,Canada,2345,234,1205
+knowledge_share,Study group saved my grades! Teamwork wins,Study group saved my grades! Teamwork wins,0.3,positive,0.2,42,2024-02-11T18:00:00.000Z,en,Japan,5678,678,1206
+watchlist,Documentary changed my perspective completely,Documentary changed my perspective completely,0.05,neutral,0.2,45,2024-02-11T21:30:00.000Z,en,UK,3456,890,1207
+pup_life,Puppy's first snow! Pure happiness captured 📸,Puppy's first snow! Pure happiness captured 📸,0.40892857,positive,0.34444445,45,2024-02-12T07:00:00.000Z,en,Brazil,6789,789,1208
+doodle_day,Sketchbook filled! Time for a new one,Sketchbook filled! Time for a new one,0.3181818,positive,0.67727274,37,2024-02-12T13:00:00.000Z,en,USA,2345,345,1209
+stack_overflow,Copy-paste from Stack Overflow. We all do it,Copy-paste from Stack Overflow. We all do it,0.0,neutral,0.0,44,2024-02-12T11:30:00.000Z,en,India,3456,567,1210
+feast_mode,Potluck dinner success! Everyone brought their A-game,Potluck dinner success! Everyone brought their A-game,0.375,positive,0.0,53,2024-02-12T19:00:00.000Z,en,Germany,4567,678,1211
+profit_time,Side hustle becoming main hustle! Dreams happening,Side hustle becoming main hustle! Dreams happening,0.32916668,positive,0.59166664,50,2024-02-12T14:00:00.000Z,en,Australia,5678,890,1212
+learn_forever,Online course completed! New skills unlocked,Online course completed! New skills unlocked,0.13636364,positive,0.45454547,44,2024-02-12T16:30:00.000Z,en,France,3456,456,1213
+capture_this,Time-lapse of sunrise perfection! Worth the early wake,Time-lapse of sunrise perfection! Worth the early wake,0.2,positive,0.2,54,2024-02-12T06:00:00.000Z,en,Spain,2345,234,1214
+merge_conflict,Git merge nightmare. Why is this my life?,Git merge nightmare. Why is this my life?,0.0,neutral,0.0,41,2024-02-13T10:00:00.000Z,en,Canada,1234,345,1215
+glam_time,DIY spa day! Self-care doesn't need to be expensive,DIY spa day! Self-care doesn't need to be expensive,-0.5,negative,0.7,51,2024-02-13T20:00:00.000Z,en,USA,3456,567,1216
+recycle_win,Composting system working perfectly! Zero waste goals,Composting system working perfectly! Zero waste goals,0.4,positive,0.5,53,2024-02-13T08:00:00.000Z,en,UK,4567,678,1217
+tryhard_mode,12-hour gaming marathon. Send help and snacks,12-hour gaming marathon. Send help and snacks,0.0,neutral,0.0,45,2024-02-13T23:00:00.000Z,en,Japan,2345,234,1218
+breaking_story,Major breakthrough in science! Exciting times,Major breakthrough in science! Exciting times,0.1890625,positive,0.65,45,2024-02-13T17:00:00.000Z,en,Brazil,5678,890,1219
+inner_peace,Anxiety managed with breathing exercises. It works!,Anxiety managed with breathing exercises. It works!,0.0,neutral,0.0,51,2024-02-13T09:30:00.000Z,en,India,3456,456,1220
+joke_time,Dad jokes are my superpower. Sorry not sorry,Dad jokes are my superpower. Sorry not sorry,-0.125,negative,1.0,44,2024-02-13T15:00:00.000Z,en,Germany,6789,678,1221
+adventure_calls,Backpacking gear ready! Month-long trip starts tomorrow,Backpacking gear ready! Month-long trip starts tomorrow,0.25,positive,0.5,55,2024-02-14T11:00:00.000Z,en,Australia,4567,567,1222
+beat_drop,New track dropping tonight! Years in the making,New track dropping tonight! Years in the making,0.17045455,positive,0.45454547,47,2024-02-14T20:00:00.000Z,en,USA,5678,789,1223
+security_win,Phishing attempt spotted! Stay vigilant everyone,Phishing attempt spotted! Stay vigilant everyone,0.0,neutral,0.0,48,2024-02-14T13:00:00.000Z,en,France,1234,890,1224
+bake_love,Valentine's cookies for everyone! Spreading love,Valentine's cookies for everyone! Spreading love,0.5,positive,0.6,48,2024-02-14T14:00:00.000Z,en,Italy,3456,345,1225
+earth_day,Renewable energy installation complete! Going green,Renewable energy installation complete! Going green,-0.0375,neutral,0.35,51,2024-02-14T09:00:00.000Z,en,Canada,2345,234,1226
+clutch_master,Carried the whole team! MVP feels good,Carried the whole team! MVP feels good,0.475,positive,0.5,38,2024-02-14T22:30:00.000Z,en,Spain,4567,567,1227
+knowledge_power,Library card is the best investment ever made,Library card is the best investment ever made,1.0,positive,0.3,45,2024-02-14T16:00:00.000Z,en,UK,5678,678,1228
+movie_magic,Home theater setup complete! Cinema experience achieved,Home theater setup complete! Cinema experience achieved,0.125,positive,0.4,55,2024-02-14T19:30:00.000Z,en,Japan,3456,890,1229
+best_friend,Surprise party for dog's birthday! He loved it 🎂,Surprise party for dog's birthday! He loved it 🎂,0.7,positive,0.8,48,2024-02-15T17:00:00.000Z,en,Brazil,6789,789,1230
+create_more,Art challenge day 30! Creativity muscle growing,Art challenge day 30! Creativity muscle growing,0.0,neutral,0.0,47,2024-02-15T12:00:00.000Z,en,USA,2345,345,1231
+debug_win,Fixed production bug in 5 minutes! Hero moment,Fixed production bug in 5 minutes! Hero moment,0.125,positive,0.2,46,2024-02-15T15:30:00.000Z,en,Germany,3456,567,1232
+food_coma,All-you-can-eat was a mistake. Send help,All-you-can-eat was a mistake. Send help,0.0,neutral,0.0,40,2024-02-15T20:00:00.000Z,en,India,4567,678,1233
+fortune_favor,Lottery ticket won $100! Luck is real,Lottery ticket won $100! Luck is real,0.2,positive,0.3,37,2024-02-15T10:00:00.000Z,en,Australia,5678,890,1234
+teach_love,Former student became a teacher! Full circle moment,Former student became a teacher! Full circle moment,0.175,positive,0.275,51,2024-02-15T14:00:00.000Z,en,France,3456,456,1235
+photo_bomb,Accidentally photobombed wedding. Made it better!,Accidentally photobombed wedding. Made it better!,0.625,positive,0.5,49,2024-02-15T16:30:00.000Z,en,Canada,2345,234,1236
+version_control,Learned Git the hard way. Backups are important,Learned Git the hard way. Backups are important,0.054166667,neutral,0.7708333,47,2024-02-16T09:00:00.000Z,en,USA,1234,345,1237
+style_icon,Confidence is the best accessory! Feeling myself,Confidence is the best accessory! Feeling myself,1.0,positive,0.3,48,2024-02-16T18:00:00.000Z,en,Spain,3456,567,1238
+ocean_clean,Beach cleanup crew growing! Making waves,Beach cleanup crew growing! Making waves,0.0,neutral,0.0,40,2024-02-16T07:30:00.000Z,en,UK,4567,678,1239
+boss_fight,Final boss defeated after 100 attempts! Perseverance,Final boss defeated after 100 attempts! Perseverance,0.0,neutral,1.0,52,2024-02-16T23:00:00.000Z,en,Italy,2345,234,1240
+headline_news,Local community center saved! People power wins,Local community center saved! People power wins,0.058333334,neutral,0.1,47,2024-02-16T13:00:00.000Z,en,Brazil,5678,890,1241
+balance_found,Work-life balance achieved! It's possible,Work-life balance achieved! It's possible,0.0,neutral,1.0,41,2024-02-16T17:30:00.000Z,en,Japan,3456,456,1242
+humor_heals,Laughter yoga class was weird but wonderful,Laughter yoga class was weird but wonderful,0.25,positive,1.0,43,2024-02-16T11:00:00.000Z,en,India,6789,678,1243
+travel_bug,Flight deals found! Next adventure booked ✈️,Flight deals found! Next adventure booked ✈️,0.0,neutral,0.0,44,2024-02-17T08:00:00.000Z,en,Germany,4567,567,1244
+remix_time,Classic song remix going viral! Dreams come true,Classic song remix going viral! Dreams come true,0.27916667,positive,0.40833333,48,2024-02-17T21:00:00.000Z,en,Australia,5678,789,1245
+data_safe,Backup saved my project! Always backup twice,Backup saved my project! Always backup twice,0.0,neutral,0.0,44,2024-02-17T14:00:00.000Z,en,USA,1234,890,1246
+cook_off,Cooking competition won! MasterChef here I come,Cooking competition won! MasterChef here I come,0.0,neutral,0.0,47,2024-02-17T19:00:00.000Z,en,France,3456,345,1247
+solar_power,Energy bill down 80%! Solar panels worth it,Energy bill down 80%! Solar panels worth it,0.05277778,neutral,0.19444445,43,2024-02-17T11:30:00.000Z,en,Canada,2345,234,1248
+team_win,Esports championship secured! Team synergy perfect,Esports championship secured! Team synergy perfect,1.0,positive,1.0,50,2024-02-17T22:00:00.000Z,en,UK,4567,567,1249
+class_act,Perfect attendance award! Dedication recognized,Perfect attendance award! Dedication recognized,1.0,positive,1.0,47,2024-02-17T15:00:00.000Z,en,Spain,5678,678,1250
+cinema_night,Drive-in movie experience magical! Nostalgia overload,Drive-in movie experience magical! Nostalgia overload,0.625,positive,1.0,53,2024-02-17T20:30:00.000Z,en,Italy,3456,890,1251
+rescue_dog,Adopted senior dog! Best decision ever made ❤️,Adopted senior dog! Best decision ever made ❤️,1.0,positive,0.3,46,2024-02-18T09:00:00.000Z,en,Brazil,6789,789,1252
+sketch_daily,365 days of sketching complete! Art journey continues,365 days of sketching complete! Art journey continues,0.125,positive,0.4,53,2024-02-18T13:00:00.000Z,en,Japan,2345,345,1253
+code_clean,Refactored legacy code. It's actually readable now!,Refactored legacy code. It's actually readable now!,0.0,neutral,0.1,51,2024-02-18T10:30:00.000Z,en,USA,3456,567,1254
+brunch_time,Bottomless mimosas were a great/terrible idea,Bottomless mimosas were a great/terrible idea,0.0,neutral,0.0,45,2024-02-18T12:00:00.000Z,en,Germany,4567,678,1255
+side_hustle,First client for freelance work! Business starting,First client for freelance work! Business starting,0.15625,positive,0.21666667,50,2024-02-18T16:00:00.000Z,en,India,5678,890,1256
+student_life,Group project where everyone contributed! Miracle,Group project where everyone contributed! Miracle,0.0,neutral,0.0,49,2024-02-18T18:30:00.000Z,en,Australia,3456,456,1257
+algorithm_win,Optimization reduced runtime by 90%! Efficiency king,Optimization reduced runtime by 90%! Efficiency king,0.0,neutral,0.0,52,2024-02-19T14:00:00.000Z,en,Canada,1234,345,1259
+fashion_fail,Wore shirt inside out all day. New trend?,Wore shirt inside out all day. New trend?,0.13636364,positive,0.45454547,41,2024-02-19T17:00:00.000Z,en,USA,3456,567,1260
+eco_life,Month without plastic complete! Challenging but worth it,Month without plastic complete! Challenging but worth it,0.30833334,positive,0.5,56,2024-02-19T08:00:00.000Z,en,UK,4567,678,1261
+victory_royale,First solo win! Heart still pounding,First solo win! Heart still pounding,0.625,positive,0.36666667,36,2024-02-19T23:30:00.000Z,en,Spain,2345,234,1262
+fact_check,Misinformation debunked! Always verify sources,Misinformation debunked! Always verify sources,0.0,neutral,0.0,46,2024-02-19T11:00:00.000Z,en,Brazil,5678,890,1263
+meditation_win,30 days of meditation. Mind clearer than ever,30 days of meditation. Mind clearer than ever,0.0,neutral,0.0,45,2024-02-19T06:00:00.000Z,en,Italy,3456,456,1264
+comedy_night,Open mic went well! Crowd actually laughed,Open mic went well! Crowd actually laughed,0.35,positive,0.35,42,2024-02-19T20:00:00.000Z,en,Japan,6789,678,1265
+nomad_life,Working from beach cafe. Living the dream,Working from beach cafe. Living the dream,0.0,neutral,0.0,41,2024-02-20T10:00:00.000Z,en,Germany,4567,567,1266
+vinyl_love,Record collection hit 500! Addiction confirmed,Record collection hit 500! Addiction confirmed,0.4,positive,1.0,46,2024-02-20T15:00:00.000Z,en,Australia,5678,789,1267
+protect_data,VPN essential for public WiFi! Stay safe online,VPN essential for public WiFi! Stay safe online,0.16666667,positive,0.2888889,47,2024-02-20T12:30:00.000Z,en,India,1234,890,1268
+pasta_perfect,Homemade pasta from scratch! Nonna would be proud,Homemade pasta from scratch! Nonna would be proud,0.8,positive,1.0,49,2024-02-20T18:00:00.000Z,en,USA,3456,345,1269
+clean_energy,Entire neighborhood going solar! Community power,Entire neighborhood going solar! Community power,0.0,neutral,0.625,48,2024-02-20T09:30:00.000Z,en,France,2345,234,1270
+ranked_up,Finally hit Diamond rank! Grind was worth it,Finally hit Diamond rank! Grind was worth it,-0.23333333,negative,0.6666667,44,2024-02-20T22:00:00.000Z,en,Canada,4567,567,1271
+exam_ace,Perfect score on final exam! Study paid off,Perfect score on final exam! Study paid off,0.5,positive,1.0,43,2024-02-20T16:00:00.000Z,en,UK,5678,678,1272
+film_lover,Movie marathon weekend planned. Snacks ready,Movie marathon weekend planned. Snacks ready,0.2,positive,0.5,44,2024-02-20T19:30:00.000Z,en,Spain,3456,890,1273
+furry_love,Cat cafe visit was heaven! Adopted two,Cat cafe visit was heaven! Adopted two,0.0,neutral,0.0,38,2024-02-21T14:00:00.000Z,en,Brazil,6789,789,1274
+paint_day,Community mural bringing everyone together,Community mural bringing everyone together,0.0,neutral,0.0,42,2024-02-21T11:00:00.000Z,en,Italy,2345,345,1275
+bug_free,Code review found zero issues! Personal record,Code review found zero issues! Personal record,0.0,neutral,0.3,46,2024-02-21T13:30:00.000Z,en,Japan,3456,567,1276
+taste_win,Recipe went viral! Food blog taking off,Recipe went viral! Food blog taking off,0.0,neutral,0.0,39,2024-02-21T17:00:00.000Z,en,USA,4567,678,1277
+bull_run,Portfolio hit all-time high! Investment strategy working,Portfolio hit all-time high! Investment strategy working,0.2,positive,0.54,56,2024-02-21T15:00:00.000Z,en,Germany,5678,890,1278
+inspire_daily,Motivational speaking gig went perfectly!,Motivational speaking gig went perfectly!,1.0,positive,1.0,41,2024-02-21T10:00:00.000Z,en,India,3456,456,1279
+lens_life,Photography exhibition opening tonight! Nervous excited,Photography exhibition opening tonight! Nervous excited,0.375,positive,0.75,55,2024-02-21T18:00:00.000Z,en,Australia,2345,234,1280
+push_code,Deployed on Friday and nothing broke! Miracle,Deployed on Friday and nothing broke! Miracle,0.0,neutral,0.0,45,2024-02-22T16:30:00.000Z,en,France,1234,345,1281
+trend_setter,Started local fashion trend! Influence growing,Started local fashion trend! Influence growing,0.0,neutral,0.0,46,2024-02-22T12:00:00.000Z,en,Canada,3456,567,1282
+planet_first,Carbon footprint reduced 50%! Every bit helps,Carbon footprint reduced 50%! Every bit helps,0.0,neutral,0.0,45,2024-02-22T08:00:00.000Z,en,UK,4567,678,1283
+gg_no_re,Ragequit after epic comeback. They earned it,Ragequit after epic comeback. They earned it,0.1,neutral,0.4,44,2024-02-22T23:00:00.000Z,en,Spain,2345,234,1284
+news_flash,Historic peace agreement signed! Hope restored,Historic peace agreement signed! Hope restored,0.0,neutral,0.0,46,2024-02-22T19:00:00.000Z,en,Brazil,5678,890,1285
+zen_master,Stress levels at all-time low. Lifestyle changes work,Stress levels at all-time low. Lifestyle changes work,0.0,neutral,0.3,53,2024-02-22T07:00:00.000Z,en,USA,3456,456,1286
+fail_forward,Startup pitch rejected. Learning and improving!,Startup pitch rejected. Learning and improving!,0.0,neutral,0.0,47,2024-02-22T14:00:00.000Z,en,Italy,6789,678,1287
+world_tour,Visited 10 countries this year! Passport full,Visited 10 countries this year! Passport full,0.35,positive,0.55,45,2024-02-23T11:00:00.000Z,en,Japan,4567,567,1288
+bass_drop,Festival lineup announced! Can't wait,Festival lineup announced! Can't wait,0.0,neutral,0.0,37,2024-02-23T20:00:00.000Z,en,Germany,5678,789,1289
+stay_safe,Security camera caught package thief! Justice served,Security camera caught package thief! Justice served,0.0,neutral,0.0,52,2024-02-23T13:00:00.000Z,en,India,1234,890,1290
+sweet_tooth,Dessert before dinner. Adult privileges!,Dessert before dinner. Adult privileges!,0.125,positive,0.3,40,2024-02-23T18:30:00.000Z,en,Australia,3456,345,1291
+plastic_free,Store went completely plastic-free! Supporting always,Store went completely plastic-free! Supporting always,0.1875,positive,0.325,53,2024-02-23T09:00:00.000Z,en,France,2345,234,1292
+team_carry,Solo queue nightmare but we won somehow,Solo queue nightmare but we won somehow,0.0,neutral,0.0,39,2024-02-23T22:30:00.000Z,en,Canada,4567,567,1293
+study_buddy,Study app made learning fun! Tech for good,Study app made learning fun! Tech for good,0.5375,positive,0.4,42,2024-02-23T15:00:00.000Z,en,USA,5678,678,1294
+series_finale,Show ending was perfect! Rare these days,Show ending was perfect! Rare these days,0.65,positive,0.95,40,2024-02-23T21:00:00.000Z,en,UK,3456,890,1295
+goodest_boy,Dog saved neighbor's cat! Local hero 🦸‍♂️,Dog saved neighbor's cat! Local hero 🦸‍♂️,0.0,neutral,0.0,41,2024-02-24T10:00:00.000Z,en,Spain,6789,789,1296
+art_sells,First painting sold! Artist dreams validated,First painting sold! Artist dreams validated,0.3125,positive,0.33333334,44,2024-02-24T14:30:00.000Z,en,Brazil,2345,345,1297
+clean_code,Comments actually helpful! Future me thankful,Comments actually helpful! Future me thankful,0.0,neutral,0.1125,45,2024-02-24T11:30:00.000Z,en,Italy,3456,567,1298
+meal_prep,Sunday cooking marathon complete! Week sorted,Sunday cooking marathon complete! Week sorted,0.125,positive,0.4,45,2024-02-24T16:00:00.000Z,en,Japan,4567,678,1299
+crypto_win,Timed the market perfectly! Luck or skill?,Timed the market perfectly! Luck or skill?,1.0,positive,1.0,42,2024-02-24T12:00:00.000Z,en,Germany,5678,890,1300
+mentor_moment,Helped junior dev debug. Teaching is learning,Helped junior dev debug. Teaching is learning,0.0,neutral,0.0,45,2024-02-24T09:00:00.000Z,en,USA,3456,456,1301
+photo_joy,Street photography workshop was inspiring! New perspective unlocked,Street photography workshop was inspiring! New perspective unlocked,0.3806818,positive,0.72727275,67,2024-02-24T14:00:00.000Z,en,USA,3456,567,1302
+code_warrior,Hackathon victory! 48 hours no sleep worth it 🏆,Hackathon victory! 48 hours no sleep worth it 🏆,0.3,positive,0.1,47,2024-02-24T23:00:00.000Z,en,Canada,5678,789,1303
+eco_champion,Plastic-free grocery shopping achieved! Small steps matter,Plastic-free grocery shopping achieved! Small steps matter,-0.25,negative,0.4,58,2024-02-25T09:00:00.000Z,en,UK,2345,234,1304
+gamer_rage,Lag spike cost me the match. Internet why?!,Lag spike cost me the match. Internet why?!,0.0,neutral,0.0,43,2024-02-25T21:00:00.000Z,en,Germany,1234,345,1305
+fitness_win,Marathon training week 1 complete! 26.2 here I come,Marathon training week 1 complete! 26.2 here I come,0.125,positive,0.4,51,2024-02-25T06:00:00.000Z,en,Australia,4567,678,1306
+foodie_heaven,Found the perfect ramen spot. Life complete 🍜,Found the perfect ramen spot. Life complete 🍜,0.55,positive,0.7,45,2024-02-25T12:30:00.000Z,en,Japan,6789,890,1307
+tech_fail,Accidentally deleted production database. Career over,Accidentally deleted production database. Career over,0.0,neutral,0.0,53,2024-02-25T15:00:00.000Z,en,USA,890,1234,1308
+nature_peace,Sunrise hike worth the 4am wake up call,Sunrise hike worth the 4am wake up call,0.3,positive,0.1,39,2024-02-25T05:30:00.000Z,en,Brazil,3456,456,1309
+music_love,Vinyl collection organizing day. Pure bliss,Vinyl collection organizing day. Pure bliss,0.21428572,positive,0.5,43,2024-02-25T14:00:00.000Z,en,France,2345,345,1310
+startup_grind,Pitch deck version 47. Getting closer!,Pitch deck version 47. Getting closer!,0.0,neutral,0.0,38,2024-02-25T22:00:00.000Z,en,India,1234,234,1311
+teacher_tired,Report cards done! Wine o'clock activated,Report cards done! Wine o'clock activated,0.0,neutral,0.0,41,2024-02-25T19:00:00.000Z,en,Canada,3456,567,1312
+photo_fail,Lens cap was on for entire shoot. Professional photographer here,Lens cap was on for entire shoot. Professional photographer here,0.05,neutral,0.3625,64,2024-02-25T16:00:00.000Z,en,Italy,2345,456,1313
+dev_life,Git merge conflict resolved! Only took 3 hours,Git merge conflict resolved! Only took 3 hours,0.0,neutral,1.0,46,2024-02-26T10:00:00.000Z,en,Germany,3456,678,1314
+fashion_score,Thrift store Gucci find! Best $20 spent,Thrift store Gucci find! Best $20 spent,0.45,positive,0.2,39,2024-02-26T13:00:00.000Z,en,USA,5678,789,1315
+green_goals,Solar panels installed! Energy independence loading,Solar panels installed! Energy independence loading,0.0,neutral,0.0,51,2024-02-26T11:00:00.000Z,en,Australia,4567,567,1316
+gaming_achievement,100% completion finally! No life confirmed,100% completion finally! No life confirmed,0.2,positive,1.0,42,2024-02-26T02:00:00.000Z,en,UK,2345,234,1317
+wellness_journey,Meditation streak: 60 days! Mind=blown,Meditation streak: 60 days! Mind=blown,0.0,neutral,0.0,38,2024-02-26T07:00:00.000Z,en,Spain,3456,456,1318
+comedy_attempt,Stand up comedy debut. Only mom laughed,Stand up comedy debut. Only mom laughed,0.35,positive,0.6,39,2024-02-26T21:00:00.000Z,en,Brazil,1234,123,1319
+travel_vibes,Passport stamp collection growing! 50 countries down,Passport stamp collection growing! 50 countries down,-0.15555556,negative,0.2888889,52,2024-02-26T09:00:00.000Z,en,Japan,6789,890,1320
+beats_life,Studio session magic! Hit song incoming,Studio session magic! Hit song incoming,0.625,positive,1.0,39,2024-02-27T03:00:00.000Z,en,France,4567,678,1321
+security_alert,Two factor auth saved my account! Enable it now,Two factor auth saved my account! Enable it now,0.0,neutral,0.0,47,2024-02-27T11:00:00.000Z,en,USA,3456,890,1322
+baking_disaster,Cake exploded in oven. Ordering pizza,Cake exploded in oven. Ordering pizza,0.0,neutral,0.0,37,2024-02-27T18:00:00.000Z,en,India,2345,234,1323
+plant_mom,Succulent babies thriving! Green thumb achieved,Succulent babies thriving! Green thumb achieved,-0.2,negative,0.3,47,2024-02-27T14:00:00.000Z,en,Canada,5678,567,1324
+esports_dream,Signed by pro team! Dreams do come true,Signed by pro team! Dreams do come true,0.35,positive,0.65,39,2024-02-27T20:00:00.000Z,en,Germany,7890,1023,1325
+study_success,Scholarship awarded! Hard work recognized,Scholarship awarded! Hard work recognized,-0.29166666,negative,0.5416667,41,2024-02-27T16:00:00.000Z,en,Australia,4567,678,1326
+movie_night,Plot twist nobody saw coming! Mind blown,Plot twist nobody saw coming! Mind blown,0.0,neutral,0.0,40,2024-02-27T22:00:00.000Z,en,UK,3456,456,1327
+pet_parent,Cat learned to open doors. Privacy gone,Cat learned to open doors. Privacy gone,0.0,neutral,0.5,39,2024-02-28T08:00:00.000Z,en,Italy,2345,345,1328
+art_therapy,Painting emotions. Canvas understands me,Painting emotions. Canvas understands me,0.0,neutral,0.0,40,2024-02-28T15:00:00.000Z,en,Spain,3456,567,1329
+code_victory,Algorithm optimization worked! Speed 10x faster,Algorithm optimization worked! Speed 10x faster,0.0,neutral,0.0,47,2024-02-28T12:00:00.000Z,en,Brazil,4567,789,1330
+foodie_fail,Restaurant was Instagram vs reality. Disappointed,Restaurant was Instagram vs reality. Disappointed,-0.75,negative,0.75,49,2024-02-28T19:00:00.000Z,en,USA,1234,234,1331
+crypto_rollercoaster,Portfolio down 50%. HODL or cry?,Portfolio down 50%. HODL or cry?,-0.15555556,negative,0.2888889,32,2024-02-28T10:00:00.000Z,en,Japan,2345,567,1332
+mentor_proud,Mentee got the job! Proud moment,Mentee got the job! Proud moment,0.8,positive,1.0,32,2024-02-28T17:00:00.000Z,en,France,5678,678,1333
+camera_ready,Photography gear arrived! Wallet crying,Photography gear arrived! Wallet crying,-0.2,negative,0.6,39,2024-02-29T09:00:00.000Z,en,Germany,3456,456,1334
+debug_nightmare,Bug was a missing semicolon. 5 hours wasted,Bug was a missing semicolon. 5 hours wasted,-0.2,negative,0.025,43,2024-02-29T23:00:00.000Z,en,India,2345,345,1335
+style_win,Outfit got 100 compliments! Confidence boosted,Outfit got 100 compliments! Confidence boosted,0.0,neutral,0.0,46,2024-02-29T14:00:00.000Z,en,Canada,4567,678,1336
+ocean_love,Beach cleanup organized! 50 volunteers joined,Beach cleanup organized! 50 volunteers joined,0.0,neutral,0.0,45,2024-02-29T07:00:00.000Z,en,Australia,6789,890,1337
+game_over,Permadeath character died. Starting over,Permadeath character died. Starting over,0.0,neutral,0.1,40,2024-02-29T22:00:00.000Z,en,UK,1234,123,1338
+news_breaking,Local hero saves kitten! Faith restored,Local hero saves kitten! Faith restored,0.0,neutral,0.0,39,2024-02-29T18:00:00.000Z,en,USA,5678,789,1339
+mindfulness_works,Anxiety under control. Therapy is powerful,Anxiety under control. Therapy is powerful,0.3,positive,1.0,42,2024-02-29T11:00:00.000Z,en,Brazil,3456,456,1340
+laugh_therapy,Comedy show was healing! Laughter best medicine,Comedy show was healing! Laughter best medicine,1.0,positive,0.3,47,2024-03-01T20:00:00.000Z,en,Spain,2345,345,1341
+adventure_mode,Spontaneous road trip! Best decisions unplanned,Spontaneous road trip! Best decisions unplanned,0.875,positive,0.6,47,2024-03-01T08:00:00.000Z,en,Italy,4567,567,1342
+dj_dreams,First gig booked! DJ career starting,First gig booked! DJ career starting,0.15625,positive,0.21666667,36,2024-03-01T21:00:00.000Z,en,France,5678,789,1343
+privacy_first,Deleted Facebook. Mental health improved,Deleted Facebook. Mental health improved,-0.1,neutral,0.2,40,2024-03-01T10:00:00.000Z,en,Germany,1234,890,1344
+chef_success,Recipe blog monetized! Passive income achieved,Recipe blog monetized! Passive income achieved,0.0,neutral,0.0,46,2024-03-01T15:00:00.000Z,en,Japan,3456,345,1345
+earth_warrior,Zero waste month complete! It's possible,Zero waste month complete! It's possible,-0.025,neutral,0.46666667,40,2024-03-01T12:00:00.000Z,en,India,4567,678,1346
+gamer_sad,Save file corrupted. 100 hours lost,Save file corrupted. 100 hours lost,0.0,neutral,0.0,35,2024-03-01T19:00:00.000Z,en,Canada,234,45,1347
+marathon_ready,Race day tomorrow! Training pays off,Race day tomorrow! Training pays off,0.0,neutral,0.0,36,2024-03-02T17:00:00.000Z,en,USA,6789,890,1348
+film_review,Sequel better than original! Rare win,Sequel better than original! Rare win,0.5171875,positive,0.6375,37,2024-03-02T20:00:00.000Z,en,Australia,3456,567,1349
+dog_hero,Doggo alerted us to fire! Life saver,Doggo alerted us to fire! Life saver,0.0,neutral,0.0,36,2024-03-02T23:00:00.000Z,en,UK,7890,1234,1350
+creative_flow,Art commission completed! Client thrilled,Art commission completed! Client thrilled,0.6,positive,0.7,41,2024-03-02T14:00:00.000Z,en,Brazil,2345,345,1351
+tech_win,App hit 1 million downloads! Celebration time,App hit 1 million downloads! Celebration time,0.0,neutral,0.0,45,2024-03-02T16:00:00.000Z,en,Spain,5678,890,1352
+food_adventure,Tried insects. Actually not bad!,Tried insects. Actually not bad!,0.4375,positive,0.6666667,32,2024-03-02T12:00:00.000Z,en,France,1234,234,1353
+invest_wise,Retirement fund growing! Future secured,Retirement fund growing! Future secured,0.0,neutral,0.125,39,2024-03-02T09:00:00.000Z,en,Germany,4567,678,1354
+teacher_happy,All students passed! Teaching win,All students passed! Teaching win,0.8,positive,0.4,33,2024-03-02T15:00:00.000Z,en,Italy,3456,456,1355
+photo_passion,Aurora borealis captured! Bucket list moment,Aurora borealis captured! Bucket list moment,0.0,neutral,0.0,44,2024-03-03T02:00:00.000Z,en,Canada,8901,1023,1356
+code_proud,Open source contribution accepted! Community love,Open source contribution accepted! Community love,0.25,positive,0.55,49,2024-03-03T11:00:00.000Z,en,Japan,3456,567,1357
+fashion_forward,Started fashion blog! Following dreams,Started fashion blog! Following dreams,0.0,neutral,0.1,38,2024-03-03T13:00:00.000Z,en,USA,2345,234,1358
+planet_healing,Company went carbon neutral! Progress,Company went carbon neutral! Progress,0.0,neutral,0.0,37,2024-03-03T10:00:00.000Z,en,India,5678,789,1359
+gaming_friends,Online friend meetup IRL! Amazing,Online friend meetup IRL! Amazing,0.6,positive,0.9,33,2024-03-03T18:00:00.000Z,en,Australia,4567,567,1360
+calm_mind,Anger management working! Growth feels good,Anger management working! Growth feels good,-0.0875,neutral,0.4,43,2024-03-03T14:00:00.000Z,en,UK,3456,456,1361
+joke_master,Meme went viral! Internet famous,Meme went viral! Internet famous,0.5,positive,1.0,32,2024-03-03T21:00:00.000Z,en,Brazil,6789,678,1362
+wanderlust,Quit job to travel! No regrets,Quit job to travel! No regrets,0.05,neutral,0.2,30,2024-03-03T06:00:00.000Z,en,Spain,3456,890,1363
+music_magic,Album release day! Years of work,Album release day! Years of work,0.0,neutral,0.0,32,2024-03-04T00:00:00.000Z,en,France,5678,789,1364
+hack_prevented,Caught phishing attempt! Stay alert,Caught phishing attempt! Stay alert,0.0,neutral,0.0,35,2024-03-04T11:00:00.000Z,en,Germany,1234,345,1365
+bake_win,Great British Bake Off dreams! Practice time,Great British Bake Off dreams! Practice time,0.4,positive,0.375,44,2024-03-04T16:00:00.000Z,en,Italy,3456,456,1366
+green_living,Compost bin attracting wildlife! Nature wins,Compost bin attracting wildlife! Nature wins,0.3,positive,0.2,44,2024-03-04T08:00:00.000Z,en,Canada,2345,234,1367
+pro_gamer,Streaming career taking off! Viewers growing,Streaming career taking off! Viewers growing,0.0,neutral,0.0,44,2024-03-04T22:00:00.000Z,en,USA,7890,1023,1368
+knowledge_power,PhD defense passed! Dr. title earned,PhD defense passed! Dr. title earned,0.0,neutral,0.0,36,2024-03-04T14:00:00.000Z,en,Japan,5678,890,1369
+movies_forever,Home theater better than cinema! Introvert win,Home theater better than cinema! Introvert win,0.7125,positive,0.45,46,2024-03-04T19:00:00.000Z,en,Australia,3456,567,1370
+best_boy,Dog graduated therapy training! Helping others,Dog graduated therapy training! Helping others,0.0,neutral,0.0,46,2024-03-04T10:00:00.000Z,en,UK,4567,678,1371
+paint_love,Mural commission for city! Dream project,Mural commission for city! Dream project,0.0,neutral,0.0,40,2024-03-05T12:00:00.000Z,en,Brazil,2345,345,1372
+debug_hero,Fixed 10-year-old bug! Legacy code tamed,Fixed 10-year-old bug! Legacy code tamed,0.125,positive,0.2,40,2024-03-05T15:00:00.000Z,en,India,3456,567,1373
+taste_adventure,Michelin star experience! Worth saving for,Michelin star experience! Worth saving for,0.3,positive,0.1,42,2024-03-05T20:00:00.000Z,en,France,5678,789,1374
+money_smart,Debt free finally! Financial freedom,Debt free finally! Financial freedom,0.2,positive,0.4,36,2024-03-05T17:00:00.000Z,en,Spain,4567,678,1375
+learn_always,5 languages spoken! Brain workout,5 languages spoken! Brain workout,0.0,neutral,0.0,33,2024-03-05T09:00:00.000Z,en,Germany,3456,456,1376
+nature_love,Wildlife photography award! Patience rewarded,Wildlife photography award! Patience rewarded,0.0,neutral,0.0,45,2024-03-05T06:00:00.000Z,en,Canada,6789,890,1377
+git_master,Merge conflict free day! Miracles happen,Merge conflict free day! Miracles happen,0.5,positive,0.8,40,2024-03-06T16:00:00.000Z,en,USA,2345,234,1378
+trend_start,Hairstyle going viral! Trendsetter life,Hairstyle going viral! Trendsetter life,0.0,neutral,0.0,39,2024-03-06T14:00:00.000Z,en,Italy,3456,567,1379
+eco_win,Neighborhood recycling program launched! Community power,Neighborhood recycling program launched! Community power,0.0,neutral,0.0,56,2024-03-06T11:00:00.000Z,en,Japan,4567,678,1380
+rage_gaming,Broke controller. Need anger management,Broke controller. Need anger management,-0.7,negative,0.2,39,2024-03-06T23:00:00.000Z,en,Australia,567,89,1381
+breaking_barriers,First in family to graduate! Making history,First in family to graduate! Making history,0.3125,positive,0.33333334,43,2024-03-06T18:00:00.000Z,en,Brazil,7890,1234,1382
+inner_strength,Depression managed. Seeking help works,Depression managed. Seeking help works,0.0,neutral,0.0,38,2024-03-06T09:00:00.000Z,en,UK,3456,456,1383
+humor_wins,Standup special on Netflix! Comedy dreams,Standup special on Netflix! Comedy dreams,0.44642857,positive,0.5714286,41,2024-03-06T21:00:00.000Z,en,France,5678,678,1384
+travel_fail,Missed flight. Adventure begins differently,Missed flight. Adventure begins differently,0.0,neutral,0.6,43,2024-03-07T05:00:00.000Z,en,USA,2345,345,1385
+beat_maker,Produced hit song! Grammy dreams,Produced hit song! Grammy dreams,0.0,neutral,0.0,32,2024-03-07T19:00:00.000Z,en,India,4567,567,1386
+safety_tips,Backup saved everything! Always backup,Backup saved everything! Always backup,0.0,neutral,0.0,38,2024-03-07T12:00:00.000Z,en,Germany,3456,890,1387
+sweet_victory,Baking competition won! Next stop TV,Baking competition won! Next stop TV,0.0,neutral,0.0,36,2024-03-07T16:00:00.000Z,en,Spain,5678,789,1388
+green_thumb,Urban garden feeding community! Growth,Urban garden feeding community! Growth,0.0,neutral,0.0,38,2024-03-07T10:00:00.000Z,en,Canada,3456,456,1389
+team_spirit,Esports team chemistry perfect! Winning streak,Esports team chemistry perfect! Winning streak,0.75,positive,0.875,46,2024-03-07T22:00:00.000Z,en,Italy,4567,678,1390
+brain_power,Chess tournament champion! Strategy wins,Chess tournament champion! Strategy wins,0.3,positive,0.2,40,2024-03-07T14:00:00.000Z,en,Japan,2345,234,1391
+series_addict,Finished series. Post-show depression real,Finished series. Post-show depression real,0.2,positive,0.3,42,2024-03-07T20:00:00.000Z,en,Australia,3456,567,1392
+puppy_love,Foster fail! Keeping all puppies,Foster fail! Keeping all puppies,-0.625,negative,0.3,32,2024-03-08T08:00:00.000Z,en,Brazil,6789,789,1393
+art_sale,Gallery exhibition sold out! Artist validated,Gallery exhibition sold out! Artist validated,0.0,neutral,0.0,45,2024-03-08T17:00:00.000Z,en,UK,4567,567,1394
+code_genius,Invented new algorithm! Patent pending,Invented new algorithm! Patent pending,0.17045455,positive,0.45454547,38,2024-03-08T13:00:00.000Z,en,USA,3456,678,1395
+food_porn,Instagram food actually tasted good! Shocked,Instagram food actually tasted good! Shocked,0.058333334,neutral,0.5,44,2024-03-08T19:00:00.000Z,en,France,2345,345,1396
+side_gig,Freelancing overtook main job! Freedom,Freelancing overtook main job! Freedom,0.20833333,positive,0.33333334,38,2024-03-08T11:00:00.000Z,en,Germany,5678,890,1397
+student_win,Valedictorian speech nailed! Proud moment,Valedictorian speech nailed! Proud moment,0.8,positive,1.0,41,2024-03-08T15:00:00.000Z,en,India,4567,678,1398
+photo_exhibit,First gallery showing! Imposter syndrome real,First gallery showing! Imposter syndrome real,0.25625,positive,0.31666666,45,2024-03-08T18:00:00.000Z,en,Spain,3456,456,1399
+deploy_success,Zero downtime deployment! DevOps win,Zero downtime deployment! DevOps win,0.8,positive,0.4,36,2024-03-09T16:00:00.000Z,en,Canada,2345,234,1400
+style_unique,Created own fashion line! Dreams manifesting,Created own fashion line! Dreams manifesting,0.75,positive,1.0,44,2024-03-09T14:00:00.000Z,en,Italy,4567,678,1401
+ocean_clean,1000kg plastic removed! Ocean warriors,1000kg plastic removed! Ocean warriors,0.0,neutral,0.0,38,2024-03-09T07:00:00.000Z,en,Japan,6789,890,1402
+noob_win,First victory royale! Only took 500 games,First victory royale! Only took 500 games,0.15625,positive,0.6666667,41,2024-03-09T21:00:00.000Z,en,Australia,3456,567,1403
+science_breakthrough,Research paper published! Academia achievement,Research paper published! Academia achievement,0.0,neutral,0.0,46,2024-03-09T12:00:00.000Z,en,Brazil,5678,789,1404
+balance_life,Work-life balance mastered! Happiness up,Work-life balance mastered! Happiness up,0.7,positive,0.2,40,2024-03-09T17:00:00.000Z,en,USA,3456,456,1405
+comedy_life,Heckler became fan! Comedy magic,Heckler became fan! Comedy magic,0.5,positive,1.0,32,2024-03-09T22:00:00.000Z,en,UK,2345,345,1406
+explore_nature,Hidden waterfall discovered! Nature's secrets,Hidden waterfall discovered! Nature's secrets,-0.20833333,negative,0.33333334,45,2024-03-10T10:00:00.000Z,en,France,4567,567,1407
+music_collab,Dream collaboration happening! Pinch me,Dream collaboration happening! Pinch me,0.0,neutral,0.0,39,2024-03-10T20:00:00.000Z,en,Germany,5678,789,1408
+secure_win,Hacker competition won! White hat hero,Hacker competition won! White hat hero,0.0,neutral,0.0,38,2024-03-10T14:00:00.000Z,en,India,3456,890,1409
+cook_master,Gordon Ramsay approved dish! Life made,Gordon Ramsay approved dish! Life made,0.0,neutral,0.0,38,2024-03-10T13:00:00.000Z,en,Spain,6789,789,1410
+plastic_warrior,Beach completely clean! Community triumph,Beach completely clean! Community triumph,0.45833334,positive,0.7,41,2024-03-10T08:00:00.000Z,en,Canada,4567,678,1411
+game_design,Indie game featured! Developer dreams,Indie game featured! Developer dreams,-0.25,negative,0.2,37,2024-03-10T23:00:00.000Z,en,Italy,2345,234,1412
+degree_earned,MBA complete! Next chapter begins,MBA complete! Next chapter begins,0.0625,neutral,0.2,33,2024-03-10T16:00:00.000Z,en,Japan,5678,890,1413
+movie_magic,Short film at Sundance! Hollywood calling,Short film at Sundance! Hollywood calling,0.0,neutral,0.3,41,2024-03-10T19:00:00.000Z,en,USA,3456,456,1414
+rescue_mission,10 dogs adopted today! Shelter hero,10 dogs adopted today! Shelter hero,0.0,neutral,0.0,35,2024-03-11T11:00:00.000Z,en,Brazil,6789,789,1415
+sketch_master,Art style recognized! Signature found,Art style recognized! Signature found,0.0,neutral,0.0,37,2024-03-11T15:00:00.000Z,en,Australia,2345,345,1416
+clean_code,Zero technical debt! Unicorn achieved,Zero technical debt! Unicorn achieved,0.0,neutral,0.1,37,2024-03-11T09:00:00.000Z,en,UK,3456,567,1417
+feast_mode,Food tour complete! 20 restaurants conquered,Food tour complete! 20 restaurants conquered,0.125,positive,0.4,44,2024-03-11T20:00:00.000Z,en,France,4567,678,1418
+portfolio_moon,Crypto millionaire! Still can't believe,Crypto millionaire! Still can't believe,0.0,neutral,0.0,39,2024-03-11T12:00:00.000Z,en,Germany,7890,1234,1419
+wisdom_shared,TED talk went viral! Message spreading,TED talk went viral! Message spreading,0.0,neutral,0.0,38,2024-03-11T17:00:00.000Z,en,India,5678,890,1420
+photo_award,National Geographic published photo! Dream achievement,National Geographic published photo! Dream achievement,0.0,neutral,0.0,54,2024-03-11T08:00:00.000Z,en,Spain,3456,456,1421
+merge_master,Git workflow perfected! Team productivity soared,Git workflow perfected! Team productivity soared,0.0,neutral,0.0,48,2024-03-12T10:00:00.000Z,en,Canada,2345,234,1422
+fashion_icon,Vogue feature! Fashion dreams reality,Vogue feature! Fashion dreams reality,0.0,neutral,0.0,37,2024-03-12T14:00:00.000Z,en,Italy,4567,567,1423
+earth_saved,Solar farm operational! Clean energy winning,Solar farm operational! Clean energy winning,0.43333334,positive,0.725,44,2024-03-12T11:00:00.000Z,en,Japan,5678,789,1424
+champion_gamer,World championship qualified! Training intensifies,World championship qualified! Training intensifies,0.0,neutral,0.0,50,2024-03-12T22:00:00.000Z,en,USA,3456,890,1425
+news_impact,Investigative report changed policy! Journalism matters,Investigative report changed policy! Journalism matters,0.0,neutral,0.0,55,2024-03-12T18:00:00.000Z,en,Brazil,4567,678,1426
+peace_master,Meditation retreat life-changing! New person,Meditation retreat life-changing! New person,0.13636364,positive,0.45454547,44,2024-03-12T06:00:00.000Z,en,Australia,3456,456,1427
+viral_moment,Accidental meme creator! Internet strange,Accidental meme creator! Internet strange,-0.05,neutral,0.15,41,2024-03-12T21:00:00.000Z,en,UK,6789,678,1428
+nomad_dream,Working from Bali! Location independent,Working from Bali! Location independent,0.0,neutral,0.125,39,2024-03-13T10:00:00.000Z,en,France,4567,567,1429
+album_drop,First week sales insane! Music dreams,First week sales insane! Music dreams,-0.375,negative,0.6666667,37,2024-03-13T00:00:00.000Z,en,Germany,5678,789,1430
+privacy_hero,Taught grandparents cybersecurity! Family protected,Taught grandparents cybersecurity! Family protected,0.0,neutral,0.0,51,2024-03-13T15:00:00.000Z,en,India,1234,345,1431
+masterchef,Restaurant opening tomorrow! Years preparation,Restaurant opening tomorrow! Years preparation,0.0,neutral,0.0,46,2024-03-13T19:00:00.000Z,en,Spain,3456,567,1432
+green_city,Neighborhood 100% renewable! Future bright,Neighborhood 100% renewable! Future bright,0.35,positive,0.4625,42,2024-03-13T12:00:00.000Z,en,Canada,4567,678,1433
+elite_player,Pro contract signed! Gaming career official,Pro contract signed! Gaming career official,0.0,neutral,0.0,43,2024-03-13T20:00:00.000Z,en,Italy,2345,234,1434
+straight_A,Perfect GPA maintained! Academic excellence,Perfect GPA maintained! Academic excellence,0.5,positive,0.5,43,2024-03-13T16:00:00.000Z,en,Japan,5678,890,1435
+blockbuster,Movie broke records! Success overwhelming,Movie broke records! Success overwhelming,0.4,positive,0.5,41,2024-03-13T21:00:00.000Z,en,USA,3456,456,1436
+angel_paws,Therapy dog visits started! Spreading joy,Therapy dog visits started! Spreading joy,0.8,positive,0.2,41,2024-03-14T09:00:00.000Z,en,Brazil,6789,789,1437
+gallery_night,Art auction success! Retirement funded,Art auction success! Retirement funded,0.375,positive,0.0,38,2024-03-14T18:00:00.000Z,en,Australia,4567,567,1438
+bug_squashed,Critical vulnerability patched! Security hero,Critical vulnerability patched! Security hero,0.0,neutral,0.8,45,2024-03-14T11:00:00.000Z,en,UK,3456,678,1439
+taste_heaven,Food truck expanding! Brick location,Food truck expanding! Brick location,0.0,neutral,0.0,36,2024-03-14T12:00:00.000Z,en,France,5678,789,1440
+wealth_built,Financial independence at 30! FIRE achieved,Financial independence at 30! FIRE achieved,0.0,neutral,0.0,43,2024-03-14T14:00:00.000Z,en,Germany,4567,890,1441
+inspire_masses,Motivational book bestseller! Helping millions,Motivational book bestseller! Helping millions,0.0,neutral,0.0,46,2024-03-14T10:00:00.000Z,en,India,3456,456,1442
+shutterbug,Time magazine cover shot! Photographer peak,Time magazine cover shot! Photographer peak,0.0,neutral,0.0,43,2024-03-14T07:00:00.000Z,en,Spain,2345,234,1443
+push_perfect,CI/CD pipeline flawless! DevOps mastery,CI/CD pipeline flawless! DevOps mastery,1.0,positive,1.0,39,2024-03-15T15:00:00.000Z,en,Canada,3456,567,1444
+runway_ready,Paris Fashion Week invite! Designer dreams,Paris Fashion Week invite! Designer dreams,0.0,neutral,0.0,42,2024-03-15T17:00:00.000Z,en,Italy,4567,678,1445
+planet_hero,Carbon negative achieved! Leading change,Carbon negative achieved! Leading change,-0.375,negative,0.4,40,2024-03-15T09:00:00.000Z,en,Japan,5678,789,1446
+world_champ,Olympics qualified! Training pays off,Olympics qualified! Training pays off,0.0,neutral,0.0,37,2024-03-15T16:00:00.000Z,en,USA,6789,890,1447
+truth_wins,Whistleblower protected! Justice served,Whistleblower protected! Justice served,0.0,neutral,0.0,39,2024-03-15T13:00:00.000Z,en,Brazil,4567,678,1448
+zen_life,Stress-free living achieved! Balance found,Stress-free living achieved! Balance found,0.0,neutral,0.0,42,2024-03-15T08:00:00.000Z,en,Australia,3456,456,1449
+meme_lord,Meme museum exhibition! Internet culture,Meme museum exhibition! Internet culture,0.0,neutral,0.0,40,2024-03-15T20:00:00.000Z,en,UK,5678,678,1450
+globe_trotter,100 countries visited! World explored,100 countries visited! World explored,0.0,neutral,0.0,37,2024-03-16T11:00:00.000Z,en,France,4567,567,1451
+platinum_record,Album went platinum! Music milestone,Album went platinum! Music milestone,0.0,neutral,0.0,36,2024-03-16T19:00:00.000Z,en,Germany,7890,1234,1452
+firewall_strong,Zero breaches year! Security champion,Zero breaches year! Security champion,0.0,neutral,0.0,37,2024-03-16T14:00:00.000Z,en,India,3456,890,1453
+five_star,Restaurant critic's choice! Culinary success,Restaurant critic's choice! Culinary success,0.15,positive,0.0,44,2024-03-16T21:00:00.000Z,en,Spain,5678,789,1454
+ocean_guardian,Marine sanctuary created! Ocean protected,Marine sanctuary created! Ocean protected,0.0,neutral,0.0,41,2024-03-16T10:00:00.000Z,en,Canada,4567,678,1455
+undefeated,Tournament streak continues! Legend status,Tournament streak continues! Legend status,0.0,neutral,0.0,42,2024-03-16T23:00:00.000Z,en,Italy,3456,456,1456
+phd_done,Dissertation defended! Dr. title official,Dissertation defended! Dr. title official,0.0,neutral,0.0,41,2024-03-16T15:00:00.000Z,en,Japan,5678,890,1457
+oscar_nom,Film nominated! Hollywood recognizes,Film nominated! Hollywood recognizes,0.0,neutral,0.0,36,2024-03-16T18:00:00.000Z,en,USA,6789,789,1458
+shelter_empty,All animals adopted! Miracle day,All animals adopted! Miracle day,0.0,neutral,0.0,32,2024-03-17T12:00:00.000Z,en,Brazil,7890,1234,1459
+portrait_perfect,Celebrity portrait commission! Career highlight,Celebrity portrait commission! Career highlight,0.0,neutral,0.0,47,2024-03-17T14:00:00.000Z,en,Australia,3456,567,1460
+zero_bugs,Code review perfection! Quality champion,Code review perfection! Quality champion,0.0,neutral,0.0,40,2024-03-17T09:00:00.000Z,en,UK,2345,234,1461
+michelin_dream,Three stars achieved! Culinary pinnacle,Three stars achieved! Culinary pinnacle,0.0,neutral,0.0,39,2024-03-17T20:00:00.000Z,en,France,6789,890,1462
+roi_king,Investment 10x return! Strategy validated,Investment 10x return! Strategy validated,0.0,neutral,0.0,41,2024-03-17T11:00:00.000Z,en,Germany,5678,789,1463
+change_maker,Policy reform passed! Activism works,Policy reform passed! Activism works,0.0,neutral,0.0,36,2024-03-17T16:00:00.000Z,en,India,4567,678,1464
+lens_legend,Smithsonian exhibition! Photography immortalized,Smithsonian exhibition! Photography immortalized,0.0,neutral,0.0,48,2024-03-17T18:00:00.000Z,en,Spain,3456,456,1465
+architect_dream,Codebase restructure complete! Clean architecture,Codebase restructure complete! Clean architecture,0.24583334,positive,0.55,49,2024-03-18T10:00:00.000Z,en,Canada,2345,345,1466
+haute_couture,Own label launching! Fashion empire,Own label launching! Fashion empire,0.75,positive,1.0,35,2024-03-18T16:00:00.000Z,en,Italy,4567,678,1467
+carbon_hero,City went carbon neutral! Leadership matters,City went carbon neutral! Leadership matters,0.0,neutral,0.0,44,2024-03-18T13:00:00.000Z,en,Japan,5678,789,1468
+grand_slam,Tournament sweep! Undisputed champion,Tournament sweep! Undisputed champion,0.0,neutral,0.0,37,2024-03-18T22:00:00.000Z,en,USA,6789,890,1469
+pulitzer_hope,Investigation series complete! Impact massive,Investigation series complete! Impact massive,0.0625,neutral,0.7,45,2024-03-18T17:00:00.000Z,en,Brazil,4567,678,1470
+enlightened,Life philosophy developed! Teaching others,Life philosophy developed! Teaching others,0.125,positive,0.3,42,2024-03-18T07:00:00.000Z,en,Australia,3456,456,1471
+viral_king,Every post viral! Algorithm mastered,Every post viral! Algorithm mastered,0.0,neutral,0.0,36,2024-03-18T21:00:00.000Z,en,UK,5678,678,1472
+passport_full,No space left! New passport needed,No space left! New passport needed,0.06818182,neutral,0.22727273,34,2024-03-19T12:00:00.000Z,en,France,4567,567,1473
+grammy_bound,Nomination confirmed! Music recognition,Nomination confirmed! Music recognition,0.5,positive,1.0,39,2024-03-19T20:00:00.000Z,en,Germany,7890,1234,1474
+unhackable,Penetration test passed! Security fortress,Penetration test passed! Security fortress,0.0,neutral,0.0,42,2024-03-19T15:00:00.000Z,en,India,3456,890,1475
+taste_maker,Food trend started! Influencer status,Food trend started! Influencer status,0.0,neutral,0.0,37,2024-03-19T19:00:00.000Z,en,Spain,5678,789,1476
+reef_saved,Coral restoration success! Ocean healing,Coral restoration success! Ocean healing,0.375,positive,0.0,40,2024-03-19T09:00:00.000Z,en,Canada,4567,678,1477
+hall_fame,Inducted officially! Legacy cemented,Inducted officially! Legacy cemented,0.0,neutral,0.0,36,2024-03-19T23:00:00.000Z,en,Italy,3456,456,1478
+nobel_maybe,Research breakthrough! Science advanced,Research breakthrough! Science advanced,0.4,positive,0.6,39,2024-03-19T14:00:00.000Z,en,Japan,5678,890,1479
+box_office,Film number one! Audiences love,Film number one! Audiences love,0.5,positive,0.6,31,2024-03-19T18:00:00.000Z,en,USA,6789,789,1480
+sanctuary_built,Wildlife reserve established! Animals safe,Wildlife reserve established! Animals safe,0.5,positive,0.5,42,2024-03-20T10:00:00.000Z,en,Brazil,7890,1234,1481
+master_work,Magnum opus complete! Artistic peak,Magnum opus complete! Artistic peak,0.22916667,positive,0.7,35,2024-03-20T16:00:00.000Z,en,Australia,3456,567,1482
+unicorn_code,Billion dollar app! Startup unicorn,Billion dollar app! Startup unicorn,0.0,neutral,0.0,35,2024-03-20T11:00:00.000Z,en,UK,4567,678,1483
+cordon_bleu,Cooking school graduated! Chef official,Cooking school graduated! Chef official,0.0,neutral,0.0,39,2024-03-20T15:00:00.000Z,en,France,5678,789,1484
+portfolio_fire,Early retirement achieved! Freedom 40,Early retirement achieved! Freedom 40,0.125,positive,0.3,37,2024-03-20T13:00:00.000Z,en,Germany,6789,890,1485
+revolution_led,Movement started! Change happening,Movement started! Change happening,0.0,neutral,0.0,34,2024-03-20T17:00:00.000Z,en,India,4567,678,1486
+gallery_legend,Permanent collection acquired! Art immortal,Permanent collection acquired! Art immortal,0.0,neutral,0.0,43,2024-03-20T19:00:00.000Z,en,Spain,3456,456,1487
+scale_master,Billion users reached! Platform giant,Billion users reached! Platform giant,0.0,neutral,1.0,37,2024-03-21T12:00:00.000Z,en,Canada,2345,345,1488
+met_gala,Best dressed winner! Fashion peaked,Best dressed winner! Fashion peaked,1.0,positive,0.3,35,2024-03-21T21:00:00.000Z,en,Italy,4567,678,1489
+planet_savior,Rainforest protected! Victory environmental,Rainforest protected! Victory environmental,0.0,neutral,0.0,43,2024-03-21T08:00:00.000Z,en,Japan,5678,789,1490
+olympic_gold,Medal ceremony tears! Dream achieved,Medal ceremony tears! Dream achieved,0.0,neutral,0.0,36,2024-03-21T17:00:00.000Z,en,USA,8901,1234,1491
+justice_served,Corruption exposed! Journalism triumph,Corruption exposed! Journalism triumph,0.0,neutral,0.0,38,2024-03-21T14:00:00.000Z,en,Brazil,5678,890,1492
+nirvana_found,Perfect happiness achieved! Life mastered,Perfect happiness achieved! Life mastered,0.9375,positive,0.6,41,2024-03-21T09:00:00.000Z,en,Australia,3456,456,1493
+trend_god,Every prediction correct! Future seer,Every prediction correct! Future seer,0.0,neutral,0.125,37,2024-03-21T20:00:00.000Z,en,UK,5678,678,1494
+explorer_elite,Everest summited! Mountain conquered,Everest summited! Mountain conquered,0.0,neutral,0.0,36,2024-03-22T06:00:00.000Z,en,France,4567,567,1495
+billboard_one,Chart topper! Music dominance,Chart topper! Music dominance,0.0,neutral,0.0,29,2024-03-22T00:00:00.000Z,en,Germany,7890,1234,1496
+fortress_built,Unhackable system created! Security legend,Unhackable system created! Security legend,0.0,neutral,0.0,42,2024-03-22T16:00:00.000Z,en,India,3456,890,1497
+flavor_genius,Secret recipe revealed! Culinary fame,Secret recipe revealed! Culinary fame,-0.25,negative,0.35,37,2024-03-22T20:00:00.000Z,en,Spain,5678,789,1498
+earth_healed,Desert reforestation complete! Miracle green,Desert reforestation complete! Miracle green,-0.0375,neutral,0.35,44,2024-03-22T11:00:00.000Z,en,Canada,4567,678,1499
+goat_status,Greatest player ever! Records shattered,Greatest player ever! Records shattered,1.0,positive,1.0,39,2024-03-22T22:00:00.000Z,en,Italy,6789,890,1500
+truth_revealed,Documentary changed world! Impact massive,Documentary changed world! Impact massive,0.0,neutral,0.5,41,2024-03-22T18:00:00.000Z,en,Japan,5678,890,1501
+viral_genius,Another million views! Content king,Another million views! Content king,0.0,neutral,0.0,35,2024-03-23T10:00:00.000Z,en,USA,4567,678,1502
+disaster_chef,Kitchen fire alarm again. Ordering takeout,Kitchen fire alarm again. Ordering takeout,0.0,neutral,0.0,42,2024-03-23T19:00:00.000Z,en,Brazil,1234,234,1503
+morning_grind,5am workout complete! Feeling unstoppable 💪,5am workout complete! Feeling unstoppable 💪,0.125,positive,0.4,43,2024-03-23T05:30:00.000Z,en,Australia,3456,456,1504
+code_nightmare,Production down! Emergency fix mode activated,Production down! Emergency fix mode activated,-0.19444445,negative,0.2888889,45,2024-03-23T15:00:00.000Z,en,UK,890,1234,1505
+sunset_chaser,Perfect golden hour captured! Photography bliss 📸,Perfect golden hour captured! Photography bliss 📸,0.6875,positive,0.75,49,2024-03-23T18:00:00.000Z,en,France,5678,789,1506
+gamer_tears,Lost save file after 200 hours. Devastated,Lost save file after 200 hours. Devastated,0.0,neutral,0.0,42,2024-03-23T22:00:00.000Z,en,Germany,2345,567,1507
+eco_victory,Plastic-free shop opened! Community supporting,Plastic-free shop opened! Community supporting,0.25,positive,0.25,46,2024-03-23T11:00:00.000Z,en,India,4567,678,1508
+movie_disappointed,Sequel ruined everything. Why Hollywood why?,Sequel ruined everything. Why Hollywood why?,0.0,neutral,0.0,44,2024-03-23T20:30:00.000Z,en,Canada,1234,345,1509
+fitness_milestone,First pull-up achieved! Progress feels amazing,First pull-up achieved! Progress feels amazing,0.45625,positive,0.6166667,46,2024-03-24T07:00:00.000Z,en,Spain,3456,567,1510
+tech_paranoid,Smart home hacked. Going back to analog,Smart home hacked. Going back to analog,0.10714286,positive,0.32142857,39,2024-03-24T14:00:00.000Z,en,Italy,2345,456,1511
+foodie_discovery,Hidden gem restaurant found! Best meal ever,Hidden gem restaurant found! Best meal ever,0.39583334,positive,0.31666666,43,2024-03-24T12:30:00.000Z,en,Japan,6789,890,1512
+startup_failure,Company shut down. Learning from mistakes,Company shut down. Learning from mistakes,-0.15555556,negative,0.2888889,41,2024-03-24T16:00:00.000Z,en,USA,1234,890,1513
+teacher_joy,Student got full scholarship! Proud teacher moment,Student got full scholarship! Proud teacher moment,0.61875,positive,0.775,50,2024-03-24T15:00:00.000Z,en,Brazil,4567,678,1514
+photo_magic,Northern lights finally captured! Bucket list ✓,Northern lights finally captured! Bucket list ✓,0.0,neutral,1.0,47,2024-03-24T02:00:00.000Z,en,Canada,8901,1234,1515
+dev_victory,App featured by Apple! Dreams coming true,App featured by Apple! Dreams coming true,0.35,positive,0.65,41,2024-03-24T09:00:00.000Z,en,Australia,5678,789,1516
+fashion_fail,Wore pajamas to video call. Camera was on,Wore pajamas to video call. Camera was on,0.0,neutral,0.0,41,2024-03-24T10:30:00.000Z,en,UK,3456,456,1517
+green_warrior,Solar panels working perfectly! Bills dropped 90%,Solar panels working perfectly! Bills dropped 90%,1.0,positive,1.0,49,2024-03-24T13:00:00.000Z,en,France,4567,567,1518
+gaming_addiction,48-hour marathon done. Need sleep badly,48-hour marathon done. Need sleep badly,-0.7,negative,0.6666667,39,2024-03-25T04:00:00.000Z,en,Germany,2345,234,1519
+wellness_win,Anxiety under control! Therapy really works,Anxiety under control! Therapy really works,0.2,positive,0.2,43,2024-03-25T08:00:00.000Z,en,India,3456,456,1520
+comedy_bomb,Standup set bombed hard. Audience silent,Standup set bombed hard. Audience silent,-0.14583333,negative,0.32083333,40,2024-03-25T21:00:00.000Z,en,Spain,567,89,1521
+travel_dream,World tour started! First stop amazing,World tour started! First stop amazing,0.425,positive,0.6166667,38,2024-03-25T06:00:00.000Z,en,Italy,5678,789,1522
+music_milestone,First album finished! Release next month,First album finished! Release next month,0.15625,positive,0.16666667,40,2024-03-25T17:00:00.000Z,en,Japan,4567,678,1523
+security_fail,Password was 'password123'. I know better,Password was 'password123'. I know better,0.5,positive,0.5,41,2024-03-25T11:00:00.000Z,en,USA,1234,234,1524
+baking_success,Sourdough starter alive! Bread heaven,Sourdough starter alive! Bread heaven,0.125,positive,0.4,37,2024-03-25T14:00:00.000Z,en,Brazil,3456,456,1525
+plant_killer,Another succulent dead. Black thumb confirmed,Another succulent dead. Black thumb confirmed,0.011111111,neutral,0.6111111,45,2024-03-25T12:00:00.000Z,en,Canada,2345,345,1526
+gaming_glory,Tournament MVP! Best day ever,Tournament MVP! Best day ever,1.0,positive,0.3,29,2024-03-25T23:00:00.000Z,en,Australia,6789,890,1527
+study_struggle,Failed exam again. Time to change majors,Failed exam again. Time to change majors,-0.5,negative,0.3,40,2024-03-25T16:30:00.000Z,en,UK,1234,123,1528
+movie_perfect,Cinema experience magical! Big screen matters,Cinema experience magical! Big screen matters,0.3125,positive,0.55,45,2024-03-25T20:00:00.000Z,en,France,4567,567,1529
+pet_emergency,Vet bills destroying savings. Pet insurance needed,Vet bills destroying savings. Pet insurance needed,-0.2,negative,0.0,50,2024-03-26T09:00:00.000Z,en,Germany,890,234,1530
+art_breakthrough,Style finally found! Artistic voice emerging,Style finally found! Artistic voice emerging,0.16666667,positive,1.0,44,2024-03-26T15:00:00.000Z,en,India,3456,456,1531
+code_elegance,Refactored to 10 lines! Clean code wins,Refactored to 10 lines! Clean code wins,0.33333334,positive,0.45,39,2024-03-26T11:30:00.000Z,en,Spain,4567,678,1532
+food_poisoning,Restaurant made me sick. Never again,Restaurant made me sick. Never again,-0.71428573,negative,0.85714287,36,2024-03-26T22:00:00.000Z,en,Italy,234,567,1533
+crypto_crashed,Portfolio down 80%. HODLing through tears,Portfolio down 80%. HODLing through tears,-0.15555556,negative,0.2888889,41,2024-03-26T10:00:00.000Z,en,Japan,2345,890,1534
+mentor_meeting,Career advice changed everything! Grateful,Career advice changed everything! Grateful,0.0,neutral,0.0,42,2024-03-26T14:00:00.000Z,en,USA,5678,678,1535
+camera_broken,Dropped new lens. Heart shattered,Dropped new lens. Heart shattered,0.13636364,positive,0.45454547,33,2024-03-26T16:00:00.000Z,en,Brazil,1234,234,1536
+debug_success,6-hour bug hunt victorious! Coffee helped,6-hour bug hunt victorious! Coffee helped,0.0,neutral,0.0,41,2024-03-26T03:00:00.000Z,en,Canada,3456,456,1537
+style_evolution,Wardrobe makeover complete! New me,Wardrobe makeover complete! New me,0.13068181,positive,0.42727274,34,2024-03-26T13:00:00.000Z,en,Australia,4567,567,1538
+ocean_therapy,Beach walk cleared mind. Nature heals,Beach walk cleared mind. Nature heals,0.0,neutral,0.0,37,2024-03-26T07:00:00.000Z,en,UK,3456,345,1539
+rage_quit,Uninstalled game. Mental health first,Uninstalled game. Mental health first,-0.083333336,neutral,0.31111112,37,2024-03-26T23:30:00.000Z,en,France,567,89,1540
+news_shocking,Local corruption exposed! Journalism matters,Local corruption exposed! Journalism matters,0.0,neutral,0.0,44,2024-03-26T18:00:00.000Z,en,Germany,5678,890,1541
+mindful_moment,Meditation breakthrough! Inner peace found,Meditation breakthrough! Inner peace found,0.0,neutral,0.16666667,42,2024-03-26T05:30:00.000Z,en,India,2345,234,1542
+laugh_medicine,Comedy show healed soul! Laughter works,Comedy show healed soul! Laughter works,0.0,neutral,0.0,39,2024-03-26T21:00:00.000Z,en,Spain,4567,567,1543
+adventure_begins,Quit job for dreams! Scary but exciting,Quit job for dreams! Scary but exciting,-0.1,neutral,0.9,39,2024-03-27T10:00:00.000Z,en,Italy,3456,456,1544
+dj_disaster,Laptop crashed mid-set. Crowd understanding,Laptop crashed mid-set. Crowd understanding,0.0,neutral,0.0,43,2024-03-27T22:00:00.000Z,en,Japan,1234,123,1545
+privacy_violated,Data breach victim. Changing everything,Data breach victim. Changing everything,-0.075,neutral,0.05,39,2024-03-27T15:00:00.000Z,en,USA,890,234,1546
+chef_triumph,Restaurant reviewer loved everything! Victory,Restaurant reviewer loved everything! Victory,0.875,positive,0.8,45,2024-03-27T20:00:00.000Z,en,Brazil,5678,789,1547
+earth_healing,100 trees planted! Future looking greener,100 trees planted! Future looking greener,0.0,neutral,0.125,41,2024-03-27T08:00:00.000Z,en,Canada,4567,567,1548
+gamer_community,Guild became real friends! Online family,Guild became real friends! Online family,0.25,positive,0.3,40,2024-03-27T19:00:00.000Z,en,Australia,3456,345,1549
+degree_complete,Graduation day! First in family,Graduation day! First in family,0.25,positive,0.33333334,31,2024-03-27T14:00:00.000Z,en,UK,6789,890,1550
+film_flop,Indie film rejected everywhere. Persevering,Indie film rejected everywhere. Persevering,0.0,neutral,0.0,43,2024-03-27T17:00:00.000Z,en,France,1234,234,1551
+puppy_chaos,New puppy ate couch. Still love him,New puppy ate couch. Still love him,0.3181818,positive,0.5272727,35,2024-03-28T11:00:00.000Z,en,Germany,3456,456,1552
+creative_block,Artist block broken! Inspiration returned,Artist block broken! Inspiration returned,-0.5,negative,0.4,41,2024-03-28T13:00:00.000Z,en,India,2345,345,1553
+tech_savior,Fixed parents' computer! Hero status,Fixed parents' computer! Hero status,0.125,positive,0.2,36,2024-03-28T16:00:00.000Z,en,Spain,4567,678,1554
+food_heaven,Grandma's recipe perfected! Heritage preserved,Grandma's recipe perfected! Heritage preserved,0.0,neutral,0.0,46,2024-03-28T12:00:00.000Z,en,Italy,5678,789,1555
+investment_win,Stock pick 10x! Retirement closer,Stock pick 10x! Retirement closer,0.0,neutral,0.0,33,2024-03-28T09:00:00.000Z,en,Japan,4567,890,1556
+teacher_proud,Class average improved 30%! Methods working,Class average improved 30%! Methods working,-0.1875,negative,0.4,43,2024-03-28T15:30:00.000Z,en,USA,3456,456,1557
+photo_viral,Accidental shot went viral! Fame unexpected,Accidental shot went viral! Fame unexpected,0.1,neutral,1.0,43,2024-03-28T18:00:00.000Z,en,Brazil,6789,789,1558
+code_poetry,Algorithm so elegant! Art meets science,Algorithm so elegant! Art meets science,0.625,positive,1.0,39,2024-03-28T10:00:00.000Z,en,Canada,3456,567,1559
+fashion_forward,Thrift flip featured in magazine! Sustainable style,Thrift flip featured in magazine! Sustainable style,0.0,neutral,0.0,51,2024-03-28T14:00:00.000Z,en,Australia,4567,567,1560
+planet_positive,Carbon footprint negative! Lifestyle changed,Carbon footprint negative! Lifestyle changed,-0.375,negative,0.4,44,2024-03-28T08:00:00.000Z,en,UK,3456,345,1561
+gaming_friends,LAN party like old times! Nostalgia real,LAN party like old times! Nostalgia real,0.1625,positive,0.25,40,2024-03-28T21:00:00.000Z,en,France,2345,234,1562
+breaking_story,Exclusive interview landed! Career milestone,Exclusive interview landed! Career milestone,0.0,neutral,0.0,44,2024-03-28T17:00:00.000Z,en,Germany,5678,890,1563
+zen_achieved,Stress management mastered! Life transformed,Stress management mastered! Life transformed,0.0,neutral,0.0,44,2024-03-28T06:00:00.000Z,en,India,3456,456,1564
+humor_therapy,Dad joke book published! Dreams do come true,Dad joke book published! Dreams do come true,0.35,positive,0.65,44,2024-03-28T19:00:00.000Z,en,Spain,2345,345,1565
+music_magic,Street performance went viral! Discovered,Street performance went viral! Discovered,0.0,neutral,0.0,41,2024-03-29T15:00:00.000Z,en,Japan,5678,789,1567
+hack_attempt,Phishing email caught! Security awareness pays,Phishing email caught! Security awareness pays,0.0,neutral,0.0,46,2024-03-29T13:00:00.000Z,en,USA,1234,890,1568
+bake_off,Competition disaster. Cake collapsed spectacularly,Competition disaster. Cake collapsed spectacularly,0.6,positive,0.9,50,2024-03-29T16:00:00.000Z,en,Brazil,890,123,1569
+green_thumb,Garden producing food! Self-sufficiency growing,Garden producing food! Self-sufficiency growing,0.0,neutral,0.0,47,2024-03-29T08:00:00.000Z,en,Canada,3456,456,1570
+pro_contract,Esports contract signed! Mom finally proud,Esports contract signed! Mom finally proud,0.8,positive,1.0,42,2024-03-29T20:00:00.000Z,en,Australia,6789,890,1571
+knowledge_shared,Tutorial video helping thousands! Impact growing,Tutorial video helping thousands! Impact growing,0.0,neutral,0.0,48,2024-03-29T12:00:00.000Z,en,UK,4567,567,1572
+cinema_magic,Film festival winner! Dreams validated,Film festival winner! Dreams validated,0.0,neutral,0.0,38,2024-03-29T21:00:00.000Z,en,France,5678,678,1573
+best_friend,Dog saved my life today. Forever grateful,Dog saved my life today. Forever grateful,0.0,neutral,0.0,41,2024-03-30T10:00:00.000Z,en,Germany,7890,1234,1574
+paint_passion,Mural completed! Community loves it,Mural completed! Community loves it,0.0,neutral,0.0,35,2024-03-30T14:00:00.000Z,en,India,3456,456,1575
+bug_hunter,Security vulnerability found! Bounty earned,Security vulnerability found! Bounty earned,0.0,neutral,0.0,43,2024-03-30T11:30:00.000Z,en,Spain,2345,345,1576
+taste_explosion,Fusion experiment success! New recipe born,Fusion experiment success! New recipe born,0.2556818,positive,0.22727273,42,2024-03-30T19:00:00.000Z,en,Italy,4567,678,1577
+money_mistake,Impulse buy regret. Budget ruined,Impulse buy regret. Budget ruined,0.0,neutral,0.0,33,2024-03-30T15:00:00.000Z,en,Japan,1234,234,1578
+learn_forever,Online degree completed! Never too late,Online degree completed! Never too late,-0.3,negative,0.6,39,2024-03-30T17:00:00.000Z,en,USA,5678,890,1579
+nature_photographer,Rare species photographed! Patience rewarded,Rare species photographed! Patience rewarded,0.375,positive,0.9,44,2024-03-30T05:00:00.000Z,en,Brazil,6789,789,1580
+git_genius,Merge conflict solver! Team hero,Merge conflict solver! Team hero,0.0,neutral,0.0,32,2024-03-30T16:00:00.000Z,en,Canada,3456,567,1581
+style_statement,Fashion week street style featured! Influencer mode,Fashion week street style featured! Influencer mode,0.0,neutral,0.0,51,2024-03-30T13:00:00.000Z,en,Australia,4567,567,1582
+eco_warrior,Protest successful! Policy changed,Protest successful! Policy changed,0.9375,positive,0.95,34,2024-03-30T18:00:00.000Z,en,UK,5678,678,1583
+noob_victory,First online match won! Celebration time,First online match won! Celebration time,0.3125,positive,0.33333334,40,2024-03-30T22:00:00.000Z,en,France,2345,234,1584
+science_win,Hypothesis proven! Research validated,Hypothesis proven! Research validated,0.0,neutral,0.0,37,2024-03-30T14:30:00.000Z,en,Germany,3456,456,1585
+balance_found,Work-life harmony achieved! Happiness increased,Work-life harmony achieved! Happiness increased,0.7,positive,0.2,47,2024-03-30T09:00:00.000Z,en,India,4567,567,1586
+comedy_career,Netflix special confirmed! Comedy dreams real,Netflix special confirmed! Comedy dreams real,0.35238096,positive,0.6238095,45,2024-03-30T20:00:00.000Z,en,Spain,6789,890,1587
+wander_lust,Visa approved! Adventure awaits,Visa approved! Adventure awaits,0.0,neutral,0.0,31,2024-03-31T10:00:00.000Z,en,Italy,3456,456,1588
+beat_drop,Festival headliner! Career peak reached,Festival headliner! Career peak reached,0.0,neutral,0.0,39,2024-03-31T21:00:00.000Z,en,Japan,5678,789,1589
+security_expert,Company hack prevented! Promotion incoming,Company hack prevented! Promotion incoming,0.0,neutral,0.0,42,2024-03-31T14:00:00.000Z,en,USA,4567,890,1590
+sweet_success,Bakery fully booked! Dream business thriving,Bakery fully booked! Dream business thriving,0.0,neutral,0.0,44,2024-03-31T06:00:00.000Z,en,Brazil,5678,678,1591
+green_future,Neighborhood solar project complete! Community power,Neighborhood solar project complete! Community power,0.125,positive,0.4,52,2024-03-31T11:00:00.000Z,en,Canada,4567,567,1592
+champion_made,Training paid off! Gold medal won,Training paid off! Gold medal won,0.0,neutral,0.0,33,2024-03-31T16:00:00.000Z,en,Australia,7890,1234,1593
+scholar_proud,Research published in Nature! Academic peak,Research published in Nature! Academic peak,0.0,neutral,0.0,43,2024-03-31T13:00:00.000Z,en,UK,5678,890,1594
+series_binged,Finished show. Post-series depression real,Finished show. Post-series depression real,0.2,positive,0.3,42,2024-03-31T23:00:00.000Z,en,France,3456,456,1595
+rescue_hero,Adopted 10th rescue dog! House full love,Adopted 10th rescue dog! House full love,0.425,positive,0.575,40,2024-04-01T09:00:00.000Z,en,Germany,6789,789,1596
+art_recognized,Gallery contract signed! Artist dream real,Gallery contract signed! Artist dream real,0.2,positive,0.3,42,2024-04-01T15:00:00.000Z,en,India,4567,567,1597
+code_beautiful,Pull request perfection! No changes requested,Pull request perfection! No changes requested,0.0,neutral,0.0,45,2024-04-01T12:00:00.000Z,en,Spain,3456,678,1598
+food_fail,Cooking show audition disaster. Practice needed,Cooking show audition disaster. Practice needed,0.0,neutral,0.0,47,2024-04-01T18:00:00.000Z,en,Italy,1234,234,1599
+crypto_moon,Portfolio mooning! Lambo soon?,Portfolio mooning! Lambo soon?,0.0,neutral,0.0,30,2024-04-01T10:00:00.000Z,en,Japan,5678,890,1600
+wisdom_gained,Life lesson learned hard way. Growing,Life lesson learned hard way. Growing,-0.29166666,negative,0.5416667,37,2024-04-01T14:00:00.000Z,en,USA,3456,456,1601
+digital_nomad,Working from paradise beach! WiFi strong coffee stronger ☕🏖️,Working from paradise beach! WiFi strong coffee stronger ☕🏖️,0.43333334,positive,0.73333335,60,2024-04-02T09:00:00.000Z,en,Thailand,4567,678,2001
+fitness_fail,Gym membership unused for 3 months. Money wasted,Gym membership unused for 3 months. Money wasted,-0.2,negative,0.0,48,2024-04-02T07:30:00.000Z,en,USA,234,45,2002
+nature_lover,Sunrise mountain hike completed! Soul refreshed 🌄,Sunrise mountain hike completed! Soul refreshed 🌄,0.0,neutral,0.0,49,2024-04-02T06:00:00.000Z,en,Switzerland,5678,890,2003
+code_wizard,Deployed without testing. Living dangerously,Deployed without testing. Living dangerously,-0.6,negative,0.9,44,2024-04-02T16:00:00.000Z,en,UK,1234,234,2004
+foodie_dreams,Street food tour amazing! Stomach happy wallet empty,Street food tour amazing! Stomach happy wallet empty,0.48333332,positive,0.8,52,2024-04-02T12:30:00.000Z,en,Vietnam,3456,456,2005
+gamer_pro,Ranked top 10 globally! Hard work paying off,Ranked top 10 globally! Hard work paying off,0.104166664,positive,0.5208333,44,2024-04-02T23:00:00.000Z,en,South Korea,6789,1234,2006
+startup_stress,Funding rejected again. Not giving up,Funding rejected again. Not giving up,0.0,neutral,0.0,37,2024-04-02T18:00:00.000Z,en,India,890,123,2007
+teacher_love,Students surprised with appreciation party! Heart full ❤️,Students surprised with appreciation party! Heart full ❤️,0.2375,positive,0.725,57,2024-04-02T15:30:00.000Z,en,Canada,4567,567,2008
+photo_perfect,Golden hour portrait session magical! Clients thrilled,Golden hour portrait session magical! Clients thrilled,0.5083333,positive,0.73333335,54,2024-04-02T17:00:00.000Z,en,Australia,3456,345,2009
+dev_nightmare,Database migration failed. Weekend ruined,Database migration failed. Weekend ruined,-0.5,negative,0.3,41,2024-04-02T20:00:00.000Z,en,Germany,1234,567,2010
+fashion_win,Vintage find at thrift store! Designer piece $10,Vintage find at thrift store! Designer piece $10,0.0,neutral,0.0,48,2024-04-02T14:00:00.000Z,en,France,5678,789,2011
+eco_champion,Beach cleanup 500kg collected! Ocean warriors unite,Beach cleanup 500kg collected! Ocean warriors unite,0.0,neutral,0.0,51,2024-04-02T10:00:00.000Z,en,Brazil,4567,890,2012
+gaming_rage,Internet died during final boss. Rage quit life,Internet died during final boss. Rage quit life,0.0,neutral,1.0,47,2024-04-02T22:30:00.000Z,en,Japan,567,89,2013
+wellness_journey,30 days meditation complete! Mind clearer than ever,30 days meditation complete! Mind clearer than ever,0.125,positive,0.4,51,2024-04-03T06:00:00.000Z,en,USA,3456,456,2014
+comedy_night,Open mic killed! Audience loved every joke 😂,Open mic killed! Audience loved every joke 😂,0.15,positive,0.43333334,44,2024-04-03T21:00:00.000Z,en,UK,2345,345,2015
+travel_fail,Flight cancelled. Airport hotel expensive nightmare,Flight cancelled. Airport hotel expensive nightmare,-0.5,negative,0.7,51,2024-04-03T11:00:00.000Z,en,Spain,1234,234,2016
+music_producer,Beat went viral on TikTok! Phone won't stop,Beat went viral on TikTok! Phone won't stop,0.0,neutral,0.0,43,2024-04-03T19:00:00.000Z,en,Italy,7890,1234,2017
+tech_privacy,Deleted all social media. Freedom feels amazing,Deleted all social media. Freedom feels amazing,0.31666666,positive,0.48333332,47,2024-04-03T10:00:00.000Z,en,Netherlands,2345,345,2018
+chef_disaster,Kitchen fire ruined dinner party. Pizza saved day,Kitchen fire ruined dinner party. Pizza saved day,0.0,neutral,0.0,49,2024-04-03T20:30:00.000Z,en,Mexico,890,123,2019
+green_living,Solar panels installed! Energy independent finally,Solar panels installed! Energy independent finally,0.0,neutral,0.5625,50,2024-04-03T13:00:00.000Z,en,Sweden,4567,567,2020
+esports_win,Tournament prize money! Parents finally understand,Tournament prize money! Parents finally understand,0.0,neutral,1.0,50,2024-04-03T22:00:00.000Z,en,China,5678,890,2021
+study_success,Full scholarship awarded! Dreams becoming reality,Full scholarship awarded! Dreams becoming reality,0.44375,positive,0.7,49,2024-04-03T16:00:00.000Z,en,South Africa,6789,789,2022
+movie_magic,Film premiere tonight! Years of work complete,Film premiere tonight! Years of work complete,0.1,neutral,0.4,45,2024-04-03T18:00:00.000Z,en,USA,3456,456,2023
+pet_chaos,Cat knocked over coffee on laptop. Day ruined,Cat knocked over coffee on laptop. Day ruined,0.0,neutral,0.0,45,2024-04-04T08:30:00.000Z,en,Belgium,1234,234,2024
+art_sale,First painting sold! Artist journey beginning,First painting sold! Artist journey beginning,0.3125,positive,0.33333334,45,2024-04-04T14:00:00.000Z,en,Russia,2345,345,2025
+code_clean,Refactored legacy system. Actually maintainable now,Refactored legacy system. Actually maintainable now,0.0,neutral,0.1,51,2024-04-04T11:00:00.000Z,en,Israel,3456,567,2026
+food_heaven,Mom's recipe recreated perfectly! Childhood memories,Mom's recipe recreated perfectly! Childhood memories,1.0,positive,1.0,52,2024-04-04T19:00:00.000Z,en,India,4567,678,2027
+crypto_loss,Wallet hacked. Life savings gone. Devastated,Wallet hacked. Life savings gone. Devastated,0.0,neutral,0.0,44,2024-04-04T15:00:00.000Z,en,UK,890,1234,2028
+mentor_wisdom,Career advice changed everything! Forever grateful,Career advice changed everything! Forever grateful,0.0,neutral,0.0,50,2024-04-04T17:00:00.000Z,en,Singapore,5678,678,2029
+camera_love,New lens arrived! Bankruptcy worth it,New lens arrived! Bankruptcy worth it,0.23522727,positive,0.27727273,37,2024-04-04T12:00:00.000Z,en,Norway,3456,456,2030
+debug_victory,Bug found after 8 hours! Victory dance time,Bug found after 8 hours! Victory dance time,0.0,neutral,0.0,43,2024-04-04T23:00:00.000Z,en,Poland,2345,234,2031
+style_queen,Fashion week invite received! Dreams coming true,Fashion week invite received! Dreams coming true,0.35,positive,0.65,48,2024-04-04T10:00:00.000Z,en,France,6789,890,2032
+ocean_plastic,Diving revealed horror. Plastic everywhere heartbreaking,Diving revealed horror. Plastic everywhere heartbreaking,0.0,neutral,0.0,56,2024-04-04T07:00:00.000Z,en,Australia,3456,890,2033
+game_over,Account banned unfairly. Years progress lost,Account banned unfairly. Years progress lost,-0.5,negative,1.0,44,2024-04-04T21:00:00.000Z,en,Germany,1234,567,2034
+news_breaking,Corruption scandal exposed! Journalism matters,Corruption scandal exposed! Journalism matters,0.0,neutral,0.0,46,2024-04-04T18:00:00.000Z,en,Argentina,5678,1234,2035
+mindful_living,Phone detox day 7. Actually enjoying life,Phone detox day 7. Actually enjoying life,0.5,positive,0.6,41,2024-04-04T09:00:00.000Z,en,Canada,3456,345,2036
+laugh_therapy,Comedy special filmed! Netflix here I come,Comedy special filmed! Netflix here I come,0.44642857,positive,0.5714286,42,2024-04-04T20:00:00.000Z,en,USA,4567,567,2037
+adventure_time,Backpacking Europe started! First stop magical,Backpacking Europe started! First stop magical,0.375,positive,0.6666667,46,2024-04-05T11:00:00.000Z,en,Czech Republic,5678,678,2038
+dj_life,First festival booking! Dream venue secured,First festival booking! Dream venue secured,0.3125,positive,0.33333334,43,2024-04-05T22:00:00.000Z,en,Netherlands,3456,456,2039
+privacy_win,Caught identity thief! Security measures worked,Caught identity thief! Security measures worked,0.0,neutral,0.0,47,2024-04-05T14:00:00.000Z,en,UK,2345,890,2040
+chef_success,Food truck lines around block! Success tastes sweet,Food truck lines around block! Success tastes sweet,0.325,positive,0.325,51,2024-04-05T12:30:00.000Z,en,USA,6789,789,2041
+earth_day,Community garden thriving! Vegetables for all,Community garden thriving! Vegetables for all,0.0,neutral,0.0,45,2024-04-05T08:00:00.000Z,en,New Zealand,4567,567,2042
+gamer_tears,Speedrun record beaten by 0.1 seconds. Crushed,Speedrun record beaten by 0.1 seconds. Crushed,-0.1,neutral,0.1,46,2024-04-05T23:30:00.000Z,en,Japan,234,45,2043
+fitness_win,Marathon finished! Every step worth it,Marathon finished! Every step worth it,0.3,positive,0.1,38,2024-04-05T16:00:00.000Z,en,Kenya,7890,1234,2044
+film_critic,Movie absolutely terrible. Want refund and time,Movie absolutely terrible. Want refund and time,-1.0,negative,1.0,47,2024-04-05T21:00:00.000Z,en,France,1234,234,2045
+dog_love,Rescue dog finally trusts! Patience rewarded ❤️,Rescue dog finally trusts! Patience rewarded ❤️,0.0,neutral,1.0,47,2024-04-05T10:00:00.000Z,en,Canada,5678,678,2046
+creative_block,Writer's block day 30. Story stuck,Writer's block day 30. Story stuck,0.0,neutral,0.0,34,2024-04-05T15:00:00.000Z,en,Ireland,890,123,2047
+tech_fail,Smart home locked me out. Technology revenge,Smart home locked me out. Technology revenge,0.21428572,positive,0.64285713,44,2024-04-05T17:30:00.000Z,en,USA,2345,567,2048
+food_adventure,Insects actually tasty! Mind changed completely,Insects actually tasty! Mind changed completely,0.05,neutral,0.25,47,2024-04-05T19:00:00.000Z,en,Thailand,3456,456,2049
+invest_smart,Portfolio up 200%! Early retirement possible,Portfolio up 200%! Early retirement possible,0.05,neutral,0.65,44,2024-04-05T09:00:00.000Z,en,Switzerland,5678,890,2050
+teacher_tired,Parent complaints exhausting. Wine needed immediately,Parent complaints exhausting. Wine needed immediately,-0.4,negative,0.5,53,2024-04-05T18:00:00.000Z,en,UK,2345,345,2051
+photo_award,International photography award won! Career made,International photography award won! Career made,0.0,neutral,0.0,48,2024-04-06T14:00:00.000Z,en,Brazil,6789,890,2052
+code_horror,Inherited codebase nightmare. No documentation anywhere,Inherited codebase nightmare. No documentation anywhere,0.0,neutral,0.0,55,2024-04-06T11:00:00.000Z,en,India,1234,234,2053
+fashion_disaster,Outfit malfunction on stage. Video viral,Outfit malfunction on stage. Video viral,0.0,neutral,0.0,40,2024-04-06T20:00:00.000Z,en,Italy,567,89,2054
+planet_first,Carbon negative achieved! Lifestyle completely changed,Carbon negative achieved! Lifestyle completely changed,-0.1375,negative,0.4,54,2024-04-06T07:00:00.000Z,en,Denmark,4567,678,2055
+gaming_addict,Forgot to eat for 12 hours. Help needed,Forgot to eat for 12 hours. Help needed,0.0,neutral,0.0,39,2024-04-06T23:00:00.000Z,en,South Korea,2345,234,2056
+zen_master,Anger management working! Road rage gone,Anger management working! Road rage gone,-0.875,negative,0.2,40,2024-04-06T16:00:00.000Z,en,USA,3456,456,2057
+comedy_gold,Joke went viral! Meme status achieved,Joke went viral! Meme status achieved,0.0,neutral,0.0,37,2024-04-06T21:00:00.000Z,en,Australia,5678,678,2058
+travel_love,50th country visited! Passport full,50th country visited! Passport full,0.35,positive,0.55,35,2024-04-06T10:00:00.000Z,en,UAE,4567,567,2059
+music_dream,Record label signing! Mom crying happy tears,Record label signing! Mom crying happy tears,0.3,positive,0.8,44,2024-04-06T19:00:00.000Z,en,UK,7890,1234,2060
+security_alert,Password breach notification. Changing everything again,Password breach notification. Changing everything again,0.0,neutral,0.0,55,2024-04-06T13:00:00.000Z,en,Germany,1234,890,2061
+bake_perfect,Wedding cake success! 200 guests impressed,Wedding cake success! 200 guests impressed,0.6875,positive,0.5,42,2024-04-06T17:00:00.000Z,en,France,5678,789,2062
+green_hero,Invented plastic alternative! Patent pending,Invented plastic alternative! Patent pending,0.0,neutral,0.0,44,2024-04-06T15:00:00.000Z,en,Japan,6789,1234,2063
+pro_player,Signed by top team! Dreams reality,Signed by top team! Dreams reality,0.625,positive,0.5,34,2024-04-06T22:00:00.000Z,en,USA,4567,678,2064
+study_night,Exam tomorrow. Coffee IV needed,Exam tomorrow. Coffee IV needed,0.0,neutral,0.0,31,2024-04-06T02:00:00.000Z,en,India,2345,345,2065
+movie_tears,Ending destroyed me. Therapy needed,Ending destroyed me. Therapy needed,0.0,neutral,0.0,35,2024-04-06T20:30:00.000Z,en,Canada,3456,456,2066
+pet_hero,Dog detected cancer early! Life saved,Dog detected cancer early! Life saved,0.125,positive,0.3,37,2024-04-07T09:00:00.000Z,en,Australia,8901,1234,2067
+art_therapy,Painting healed depression. Colors save lives,Painting healed depression. Colors save lives,0.0,neutral,0.0,45,2024-04-07T15:00:00.000Z,en,Spain,4567,567,2068
+bug_free,Code worked first try! Suspicious,Code worked first try! Suspicious,0.3125,positive,0.33333334,33,2024-04-07T14:00:00.000Z,en,Brazil,3456,678,2069
+taste_heaven,Perfect pasta achieved! Italian grandmother approved,Perfect pasta achieved! Italian grandmother approved,0.5,positive,0.5,52,2024-04-07T19:00:00.000Z,en,Italy,5678,789,2070
+money_gone,Scammed online. Expensive lesson learned,Scammed online. Expensive lesson learned,-0.5,negative,0.7,40,2024-04-07T11:00:00.000Z,en,UK,890,234,2071
+learn_win,Language fluency achieved! Brain expanded,Language fluency achieved! Brain expanded,0.0,neutral,0.0,41,2024-04-07T16:00:00.000Z,en,China,3456,456,2072
+nature_peace,Forest bathing changed life. Stress gone,Forest bathing changed life. Stress gone,0.0,neutral,0.0,40,2024-04-07T06:00:00.000Z,en,Japan,4567,567,2073
+git_master,Resolved merge conflict peacefully. Growth,Resolved merge conflict peacefully. Growth,0.25,positive,0.5,42,2024-04-07T10:00:00.000Z,en,USA,2345,234,2074
+style_icon,Street style photographed! Influencer beginning,Street style photographed! Influencer beginning,0.0,neutral,0.0,47,2024-04-07T13:00:00.000Z,en,France,5678,678,2075
+eco_warrior,Protest worked! Company policy changed,Protest worked! Company policy changed,0.0,neutral,0.0,38,2024-04-07T18:00:00.000Z,en,Germany,4567,890,2076
+noob_fail,Tutorial boss killed me 50 times. Uninstalling,Tutorial boss killed me 50 times. Uninstalling,-0.2,negative,0.0,46,2024-04-07T22:00:00.000Z,en,Canada,234,45,2077
+science_win,Experiment successful! Hypothesis confirmed,Experiment successful! Hypothesis confirmed,0.66875,positive,0.975,43,2024-04-07T12:00:00.000Z,en,India,3456,567,2078
+balance_life,Boundaries set! Happiness increased 100%,Boundaries set! Happiness increased 100%,0.7,positive,0.2,40,2024-04-07T17:00:00.000Z,en,Australia,4567,678,2079
+comedy_bomb,Audience walked out. Rock bottom hit,Audience walked out. Rock bottom hit,0.0,neutral,0.0,36,2024-04-07T21:30:00.000Z,en,UK,567,89,2080
+wander_more,Spontaneous flight booked! Adventure calls,Spontaneous flight booked! Adventure calls,0.75,positive,0.9,42,2024-04-08T08:00:00.000Z,en,Spain,3456,456,2081
+beat_maker,Collaboration with idol! Pinch me,Collaboration with idol! Pinch me,0.0,neutral,0.0,33,2024-04-08T20:00:00.000Z,en,USA,5678,789,2082
+secure_life,VPN saved me! Privacy protected,VPN saved me! Privacy protected,0.0,neutral,0.0,31,2024-04-08T14:00:00.000Z,en,Russia,1234,890,2083
+sweet_tooth,Dessert before dinner. Adult privileges,Dessert before dinner. Adult privileges,0.1,neutral,0.3,39,2024-04-08T19:00:00.000Z,en,Brazil,2345,345,2084
+plant_based,Vegan month complete! Feeling amazing,Vegan month complete! Feeling amazing,0.3625,positive,0.65,37,2024-04-08T12:00:00.000Z,en,Netherlands,4567,567,2085
+team_work,Squad finally assembled! Victory incoming,Squad finally assembled! Victory incoming,0.0,neutral,1.0,41,2024-04-08T23:00:00.000Z,en,South Korea,3456,678,2086
+knowledge_power,PhD defense passed! Doctor title earned,PhD defense passed! Doctor title earned,0.0,neutral,0.0,39,2024-04-08T15:00:00.000Z,en,Germany,6789,890,2087
+series_end,Show cancelled on cliffhanger. Petition started,Show cancelled on cliffhanger. Petition started,0.0,neutral,0.0,47,2024-04-08T21:00:00.000Z,en,USA,2345,456,2088
+rescue_day,Kitten saved from tree! Hero moment,Kitten saved from tree! Hero moment,0.0,neutral,0.0,35,2024-04-08T10:00:00.000Z,en,Canada,5678,678,2089
+create_joy,Art installation unveiled! Community loves,Art installation unveiled! Community loves,0.0,neutral,0.0,42,2024-04-08T17:00:00.000Z,en,France,3456,567,2090
+debug_pain,Semicolon missing. 4 hours wasted,Semicolon missing. 4 hours wasted,-0.2,negative,0.025,33,2024-04-08T23:30:00.000Z,en,India,1234,234,2091
+food_win,Recipe went viral! Cookbook possible,Recipe went viral! Cookbook possible,0.0,neutral,1.0,36,2024-04-08T13:00:00.000Z,en,Italy,4567,678,2092
+crypto_rich,Early investment paid! Millionaire status,Early investment paid! Millionaire status,0.125,positive,0.3,41,2024-04-08T09:00:00.000Z,en,Japan,7890,1234,2093
+mentor_thanks,Guidance changed career! Forever grateful,Guidance changed career! Forever grateful,0.0,neutral,0.0,41,2024-04-08T16:00:00.000Z,en,Australia,4567,567,2094
+camera_ready,Equipment upgrade complete! Professional level,Equipment upgrade complete! Professional level,0.1125,positive,0.25,46,2024-04-08T11:00:00.000Z,en,UK,3456,456,2095
+code_art,Algorithm creates beauty! Tech meets art,Algorithm creates beauty! Tech meets art,0.0,neutral,0.0,40,2024-04-09T14:00:00.000Z,en,USA,3456,567,2096
+fashion_week,Runway debut success! Designer dreams,Runway debut success! Designer dreams,0.375,positive,0.0,37,2024-04-09T20:00:00.000Z,en,France,5678,789,2097
+ocean_love,Whale watching magical! Bucket list checked,Whale watching magical! Bucket list checked,0.625,positive,1.0,43,2024-04-09T08:00:00.000Z,en,Canada,6789,890,2098
+rage_quit,Controller through window. Anger management needed,Controller through window. Anger management needed,-0.7,negative,0.2,50,2024-04-09T22:30:00.000Z,en,Germany,567,89,2099
+health_win,Blood work perfect! Lifestyle changes worked,Blood work perfect! Lifestyle changes worked,1.0,positive,1.0,44,2024-04-09T10:00:00.000Z,en,India,3456,456,2100
+book_done,Manuscript complete! Publishing journey begins,Manuscript complete! Publishing journey begins,0.125,positive,0.4,46,2024-04-09T15:00:00.000Z,en,UK,4567,567,2101
+coffee_art,Latte art competition won! Barista champion,Latte art competition won! Barista champion,0.0,neutral,0.0,43,2024-04-09T07:00:00.000Z,en,Australia,3456,345,2102
+sports_fail,Team relegated. Season disaster complete,Team relegated. Season disaster complete,0.1,neutral,0.4,40,2024-04-09T21:00:00.000Z,en,Spain,1234,234,2103
+travel_bug,One-way ticket purchased! Nomad life,One-way ticket purchased! Nomad life,0.0,neutral,0.0,36,2024-04-09T12:00:00.000Z,en,Thailand,5678,678,2104
+music_tour,World tour announced! Living dream,World tour announced! Living dream,0.0,neutral,0.0,34,2024-04-09T18:00:00.000Z,en,USA,7890,1234,2105
+hack_fail,Phishing email clicked. Everything compromised,Phishing email clicked. Everything compromised,0.0,neutral,0.0,46,2024-04-09T16:00:00.000Z,en,Brazil,890,567,2106
+bake_love,Grandmother's recipe book found! Treasure discovered,Grandmother's recipe book found! Treasure discovered,0.0,neutral,0.0,52,2024-04-09T14:00:00.000Z,en,Italy,4567,678,2107
+earth_win,Zero waste year complete! Possible confirmed,Zero waste year complete! Possible confirmed,0.08125,neutral,0.6,44,2024-04-09T09:00:00.000Z,en,Canada,5678,789,2108
+gamer_life,16-hour stream complete! Viewers generous,16-hour stream complete! Viewers generous,0.125,positive,0.4,41,2024-04-10T02:00:00.000Z,en,Japan,3456,567,2109
+exam_pass,Bar exam passed! Lawyer dreams real,Bar exam passed! Lawyer dreams real,0.2,positive,0.3,35,2024-04-10T17:00:00.000Z,en,USA,6789,890,2110
+movie_night,Theater to myself! Introvert paradise,Theater to myself! Introvert paradise,0.0,neutral,0.0,37,2024-04-10T20:00:00.000Z,en,UK,2345,345,2111
+puppy_trouble,Shoes destroyed again. Love costs money,Shoes destroyed again. Love costs money,0.5,positive,0.6,39,2024-04-10T08:00:00.000Z,en,Germany,3456,456,2112
+art_flow,Creative block gone! Inspiration everywhere,Creative block gone! Inspiration everywhere,0.625,positive,1.0,43,2024-04-10T13:00:00.000Z,en,France,4567,567,2113
+tech_upgrade,Finally upgraded from Windows XP. Welcome 2024,Finally upgraded from Windows XP. Welcome 2024,0.4,positive,0.95,46,2024-04-10T11:00:00.000Z,en,India,2345,234,2114
+food_love,Taco Tuesday perfection! Life complete,Taco Tuesday perfection! Life complete,0.1,neutral,0.4,38,2024-04-10T19:00:00.000Z,en,Mexico,5678,678,2115
+invest_fail,Stock crashed 90%. Retirement delayed,Stock crashed 90%. Retirement delayed,0.0,neutral,0.0,37,2024-04-10T15:00:00.000Z,en,Australia,1234,890,2116
+teach_joy,Student became teacher! Circle complete,Student became teacher! Circle complete,0.1,neutral,0.4,39,2024-04-10T16:00:00.000Z,en,Canada,4567,678,2117
+photo_nature,Lightning captured perfectly! Once lifetime shot,Lightning captured perfectly! Once lifetime shot,1.0,positive,1.0,48,2024-04-10T21:00:00.000Z,en,USA,6789,789,2118
+code_review,PR approved without changes! Miracle day,PR approved without changes! Miracle day,0.0,neutral,0.0,40,2024-04-10T14:00:00.000Z,en,UK,3456,567,2119
+fashion_fail,Wore same outfit as boss. Awkward day,Wore same outfit as boss. Awkward day,-0.3,negative,0.5625,37,2024-04-10T09:30:00.000Z,en,Japan,1234,234,2120
+planet_hope,Coral reef recovering! Conservation works,Coral reef recovering! Conservation works,0.0,neutral,0.0,41,2024-04-10T07:00:00.000Z,en,Australia,5678,890,2121
+gaming_pro,Sponsorship deal signed! Career official,Sponsorship deal signed! Career official,0.0,neutral,0.0,40,2024-04-10T22:00:00.000Z,en,South Korea,4567,678,2122
+peace_found,Meditation retreat transformative! New person,Meditation retreat transformative! New person,0.13636364,positive,0.45454547,45,2024-04-10T05:30:00.000Z,en,India,3456,456,2123
+humor_win,Stand-up special sold out! Comedy validation,Stand-up special sold out! Comedy validation,0.44642857,positive,0.5714286,44,2024-04-10T20:00:00.000Z,en,USA,5678,678,2124
+explore_earth,Antarctica reached! 7 continents complete,Antarctica reached! 7 continents complete,0.1,neutral,0.4,41,2024-04-11T12:00:00.000Z,en,Argentina,7890,1234,2125
+dj_dream,Tomorrowland booking confirmed! Peak reached,Tomorrowland booking confirmed! Peak reached,0.5,positive,1.0,44,2024-04-11T23:00:00.000Z,en,Belgium,5678,789,2126
+privacy_gone,Doxxed online. Moving houses now,Doxxed online. Moving houses now,0.0,neutral,0.0,32,2024-04-11T15:00:00.000Z,en,UK,890,234,2127
+chef_win,Michelin star awarded! Tears flowing,Michelin star awarded! Tears flowing,0.0,neutral,0.0,36,2024-04-11T20:00:00.000Z,en,France,6789,890,2128
+green_tech,Electric car best decision! Goodbye gas,Electric car best decision! Goodbye gas,1.0,positive,0.3,39,2024-04-11T10:00:00.000Z,en,Norway,4567,567,2129
+noob_pride,Finally beat first level! Gaming begins,Finally beat first level! Gaming begins,0.15625,positive,0.6666667,39,2024-04-11T21:00:00.000Z,en,Brazil,2345,345,2130
+research_win,Grant approved! Project funded fully,Grant approved! Project funded fully,0.0,neutral,0.0,36,2024-04-11T14:00:00.000Z,en,Canada,5678,678,2131
+film_flop,Movie bombed hard. Director career questionable,Movie bombed hard. Director career questionable,-0.39583334,negative,0.7708333,47,2024-04-11T19:00:00.000Z,en,USA,1234,234,2132
+cat_wisdom,Cat chose me! Life complete,Cat chose me! Life complete,0.1,neutral,0.4,27,2024-04-11T08:00:00.000Z,en,Japan,4567,567,2133
+creative_high,Inspiration overflowing! Best work yet,Inspiration overflowing! Best work yet,1.0,positive,0.3,38,2024-04-11T16:00:00.000Z,en,Italy,3456,456,2134
+bug_hunt,Memory leak found! Promotion worthy,Memory leak found! Promotion worthy,0.33333334,positive,1.0,35,2024-04-11T17:30:00.000Z,en,Germany,3456,678,2135
+taste_test,Food poisoning from fancy restaurant. Ironic,Food poisoning from fancy restaurant. Ironic,0.2,positive,0.9,44,2024-04-11T22:00:00.000Z,en,UK,890,123,2136
+wealth_gap,Billionaire neighbor. Motivation increased,Billionaire neighbor. Motivation increased,0.0,neutral,0.0,42,2024-04-11T11:00:00.000Z,en,USA,2345,456,2137
+mentor_proud,Mentee surpassed teacher! Legacy secured,Mentee surpassed teacher! Legacy secured,0.0,neutral,0.0,40,2024-04-11T13:00:00.000Z,en,India,4567,678,2138
+photo_fame,Viral photo changed life! Overnight fame,Viral photo changed life! Overnight fame,0.0,neutral,0.0,40,2024-04-12T09:00:00.000Z,en,Australia,7890,1234,2139
+deploy_fail,Friday deployment disaster. Weekend gone,Friday deployment disaster. Weekend gone,0.0,neutral,0.0,40,2024-04-12T18:00:00.000Z,en,Canada,1234,567,2140
+style_unique,Fashion trendsetter confirmed! Copycats everywhere,Fashion trendsetter confirmed! Copycats everywhere,0.5,positive,1.0,50,2024-04-12T14:00:00.000Z,en,France,5678,789,2141
+ocean_sad,Reef bleaching witnessed. Heartbreaking reality,Reef bleaching witnessed. Heartbreaking reality,0.0,neutral,0.0,47,2024-04-12T11:00:00.000Z,en,Australia,3456,890,2142
+game_life,Gaming setup complete! Streaming ready,Gaming setup complete! Streaming ready,0.1625,positive,0.45,38,2024-04-12T20:00:00.000Z,en,USA,4567,678,2143
+news_impact,Article changed law! Journalism power,Article changed law! Journalism power,0.0,neutral,0.0,37,2024-04-12T17:00:00.000Z,en,UK,5678,1234,2144
+calm_achieved,Anxiety conquered! Tools working perfectly,Anxiety conquered! Tools working perfectly,1.0,positive,1.0,42,2024-04-12T08:00:00.000Z,en,Spain,3456,456,2145
+joke_fail,Comedy set bombed. Silence deafening,Comedy set bombed. Silence deafening,0.0,neutral,0.0,36,2024-04-12T21:30:00.000Z,en,Germany,567,89,2146
+adventure_start,Round world sailing begun! Dream launched,Round world sailing begun! Dream launched,-0.25,negative,0.4,41,2024-04-12T06:00:00.000Z,en,New Zealand,6789,890,2147
+producer_win,Grammy nomination! Mom proud finally,Grammy nomination! Mom proud finally,0.4,positive,1.0,36,2024-04-12T19:00:00.000Z,en,USA,5678,789,2148
+data_breach,Personal info leaked. Identity theft fear,Personal info leaked. Identity theft fear,0.0,neutral,0.3,41,2024-04-12T15:00:00.000Z,en,India,890,234,2149
+culinary_joy,Perfect souffle achieved! Chef goals,Perfect souffle achieved! Chef goals,1.0,positive,1.0,36,2024-04-12T13:00:00.000Z,en,France,4567,567,2150
+eco_future,Carbon negative home built! Future ready,Carbon negative home built! Future ready,-0.058333334,neutral,0.34166667,40,2024-04-12T10:00:00.000Z,en,Canada,5678,678,2151
+elite_gamer,World championship won! Legend status,World championship won! Legend status,0.0,neutral,0.0,37,2024-04-12T23:00:00.000Z,en,South Korea,8901,1234,2152
+degree_done,MBA graduated top class! Doors opening,MBA graduated top class! Doors opening,0.625,positive,0.5,38,2024-04-12T16:00:00.000Z,en,USA,6789,890,2153
+cinema_empty,Movie theater closing. Childhood memories gone,Movie theater closing. Childhood memories gone,0.0,neutral,0.0,46,2024-04-12T20:30:00.000Z,en,UK,2345,456,2154
+dog_genius,Dog learned 50 tricks! Viral videos,Dog learned 50 tricks! Viral videos,0.0,neutral,0.0,35,2024-04-13T09:00:00.000Z,en,Brazil,5678,678,2155
+paint_sold,Art auction record! Retirement funded,Art auction record! Retirement funded,0.0,neutral,0.0,37,2024-04-13T18:00:00.000Z,en,Italy,4567,789,2156
+code_zen,Perfect code review! Imposter syndrome defeated,Perfect code review! Imposter syndrome defeated,1.0,positive,1.0,47,2024-04-13T11:00:00.000Z,en,Japan,3456,567,2157
+feast_fail,Dinner party disaster. Guests left hungry,Dinner party disaster. Guests left hungry,0.0,neutral,0.0,41,2024-04-13T20:00:00.000Z,en,Germany,1234,234,2158
+money_freedom,Student loans paid! Debt free finally,Student loans paid! Debt free finally,0.2,positive,0.9,37,2024-04-13T14:00:00.000Z,en,Canada,5678,890,2159
+wisdom_shared,TED talk viral! Message spreading globally,TED talk viral! Message spreading globally,0.0,neutral,0.0,42,2024-04-13T16:00:00.000Z,en,USA,6789,1234,2160
+lens_master,National Geographic cover! Photographer dream,National Geographic cover! Photographer dream,0.0,neutral,0.0,45,2024-04-13T08:00:00.000Z,en,Australia,7890,1234,2161
+git_fail,Force pushed to main. Team hates me,Force pushed to main. Team hates me,0.16666667,positive,0.33333334,35,2024-04-13T17:00:00.000Z,en,UK,890,234,2162
+fashion_icon,Vogue photoshoot! Supermodel feels,Vogue photoshoot! Supermodel feels,0.0,neutral,0.0,34,2024-04-13T15:00:00.000Z,en,France,5678,789,2163
+save_ocean,Ocean cleanup invention working! Planet healing,Ocean cleanup invention working! Planet healing,0.0,neutral,0.0,47,2024-04-13T10:00:00.000Z,en,Netherlands,6789,890,2164
+rage_real,Keyboard smashed. Anger issues confirmed,Keyboard smashed. Anger issues confirmed,-0.15,negative,0.6,40,2024-04-13T22:30:00.000Z,en,USA,567,89,2165
+transform_body,100 pounds lost! Life reclaimed,100 pounds lost! Life reclaimed,0.0,neutral,0.0,31,2024-04-13T06:00:00.000Z,en,UK,7890,1234,2166
+movie_magic,Independent film winning awards! Hollywood calling,Independent film winning awards! Hollywood calling,0.3125,positive,0.4375,50,2024-04-13T21:00:00.000Z,en,Canada,4567,678,2167
+adopt_love,Shelter dog chosen us! Family complete,Shelter dog chosen us! Family complete,0.1,neutral,0.4,38,2024-04-14T11:00:00.000Z,en,Spain,5678,789,2168
+art_block,Creativity gone 6 months. Career questioning,Creativity gone 6 months. Career questioning,0.0,neutral,0.0,44,2024-04-14T14:00:00.000Z,en,Brazil,1234,234,2169
+hack_hero,White hat hacker hired! Good guys win,White hat hacker hired! Good guys win,0.5,positive,0.33333334,37,2024-04-14T12:00:00.000Z,en,India,3456,567,2170
+taste_journey,World food tour complete! Palate educated,World food tour complete! Palate educated,0.125,positive,0.4,41,2024-04-14T19:00:00.000Z,en,Italy,4567,678,2171
+portfolio_gold,Investments doubled! Retirement at 45,Investments doubled! Retirement at 45,0.0,neutral,0.0,37,2024-04-14T09:00:00.000Z,en,Switzerland,5678,890,2172
+teach_inspire,Student thanked me. Teaching worthwhile,Student thanked me. Teaching worthwhile,0.5,positive,0.5,39,2024-04-14T15:00:00.000Z,en,Australia,4567,567,2173
+capture_moment,Wedding photography perfection! Couples thrilled,Wedding photography perfection! Couples thrilled,0.6,positive,0.7,48,2024-04-14T17:00:00.000Z,en,USA,5678,678,2174
+debug_master,Solved impossible bug! Legendary status,Solved impossible bug! Legendary status,0.083333336,neutral,1.0,39,2024-04-14T23:00:00.000Z,en,Germany,3456,456,2175
+fashion_sustainable,Eco clothing line launched! Planet fashion,Eco clothing line launched! Planet fashion,0.0,neutral,0.0,42,2024-04-14T13:00:00.000Z,en,France,4567,678,2176
+ocean_explorer,New species discovered! Science history,New species discovered! Science history,0.17045455,positive,0.45454547,39,2024-04-14T07:00:00.000Z,en,Australia,7890,1234,2177
+noob_victory,First kill achieved! Only took 100 deaths,First kill achieved! Only took 100 deaths,0.15625,positive,0.6666667,41,2024-04-14T21:00:00.000Z,en,UK,2345,345,2178
+publish_success,Bestseller list reached! Author validated,Bestseller list reached! Author validated,0.0,neutral,0.0,41,2024-04-14T18:00:00.000Z,en,USA,6789,890,2179
+coffee_perfection,Home brew beats cafes! Money saved,Home brew beats cafes! Money saved,0.0,neutral,0.0,34,2024-04-14T08:00:00.000Z,en,Japan,3456,456,2180
+sports_glory,Olympic qualifier! Training justified,Olympic qualifier! Training justified,0.4,positive,0.9,37,2024-04-14T16:00:00.000Z,en,Canada,5678,789,2181
+travel_wisdom,Lost passport adventure! Story gained,Lost passport adventure! Story gained,0.0,neutral,0.0,37,2024-04-14T10:00:00.000Z,en,Thailand,2345,345,2182
+music_legacy,Album went platinum! Legacy secured,Album went platinum! Legacy secured,0.0,neutral,0.0,35,2024-04-14T20:00:00.000Z,en,USA,7890,1234,2183
+privacy_valued,Off grid living! Peace found,Off grid living! Peace found,0.0,neutral,0.0,28,2024-04-14T12:00:00.000Z,en,Canada,3456,456,2184
+cook_master,Iron Chef audition passed! TV ready,Iron Chef audition passed! TV ready,0.2,positive,0.5,35,2024-04-14T19:30:00.000Z,en,Japan,5678,678,2185
+green_city,Mayor adopted all proposals! City transforming,Mayor adopted all proposals! City transforming,0.0,neutral,0.0,46,2024-04-14T11:00:00.000Z,en,Germany,4567,890,2186
+world_champ,Esports world title! $1M prize,Esports world title! $1M prize,0.0,neutral,0.0,30,2024-04-14T23:30:00.000Z,en,South Korea,8901,1234,2187
+phd_complete,Thesis defended! Dr. dreams real,Thesis defended! Dr. dreams real,0.2,positive,0.3,32,2024-04-14T14:30:00.000Z,en,UK,6789,890,2188
+movie_disaster,Walked out halfway. Time precious,Walked out halfway. Time precious,0.5,positive,1.0,33,2024-04-14T21:30:00.000Z,en,France,1234,234,2189
+rescue_angel,100th animal saved! Shelter hero,100th animal saved! Shelter hero,0.0,neutral,0.0,32,2024-04-15T09:00:00.000Z,en,USA,7890,1234,2190
+sketch_famous,Art style recognized globally! Brand built,Art style recognized globally! Brand built,0.0,neutral,0.0,42,2024-04-15T14:00:00.000Z,en,Brazil,4567,678,2191
+code_poetry,Algorithm published in journal! Academic coder,Algorithm published in journal! Academic coder,0.0,neutral,0.0,46,2024-04-15T11:00:00.000Z,en,India,3456,567,2192
+food_empire,Restaurant chain started! Entrepreneur life,Restaurant chain started! Entrepreneur life,0.0,neutral,0.0,43,2024-04-15T20:00:00.000Z,en,Italy,5678,789,2193
+bankrupt_fear,Business failing. Stress overwhelming,Business failing. Stress overwhelming,0.5,positive,1.0,37,2024-04-15T16:00:00.000Z,en,USA,890,234,2194
+language_master,Polyglot achievement! 10 languages fluent,Polyglot achievement! 10 languages fluent,0.0,neutral,0.0,41,2024-04-15T13:00:00.000Z,en,Spain,4567,678,2195
+photo_exhibit,Smithsonian exhibition! Life goal achieved,Smithsonian exhibition! Life goal achieved,0.0,neutral,0.0,42,2024-04-15T18:00:00.000Z,en,USA,6789,890,2196
+merge_disaster,Deleted production branch. Updating resume,Deleted production branch. Updating resume,0.0,neutral,0.0,42,2024-04-15T17:30:00.000Z,en,UK,567,89,2197
+style_setter,Fashion week sensation! Trendsetter confirmed,Fashion week sensation! Trendsetter confirmed,0.4,positive,1.0,45,2024-04-15T15:00:00.000Z,en,France,5678,789,2198
+earth_saved,Rainforest purchase complete! Preservation win,Rainforest purchase complete! Preservation win,0.4625,positive,0.4,46,2024-04-15T10:00:00.000Z,en,Brazil,7890,1234,2199
+legendary_gamer,Hall of fame inducted! Gaming immortal,Hall of fame inducted! Gaming immortal,0.0,neutral,0.0,38,2024-04-15T23:00:00.000Z,en,Japan,8901,1234,2200
+morning_runner,5K personal best! Running addiction real 🏃‍♂️,5K personal best! Running addiction real 🏃‍♂️,0.4,positive,0.3,45,2024-04-16T06:00:00.000Z,en,Singapore,4567,678,2201
+code_disaster,Deleted wrong database. Career over,Deleted wrong database. Career over,-0.5,negative,0.9,35,2024-04-16T15:00:00.000Z,en,USA,890,1234,2202
+sunset_lover,Beach sunset therapy working! Soul healing 🌅,Beach sunset therapy working! Soul healing 🌅,0.0,neutral,0.0,44,2024-04-16T19:00:00.000Z,en,Portugal,5678,890,2203
+gaming_noob,Finally understood game mechanics! Progress,Finally understood game mechanics! Progress,-0.25,negative,0.7,43,2024-04-16T22:00:00.000Z,en,Poland,2345,345,2204
+chef_dreams,Culinary school acceptance! Future chef,Culinary school acceptance! Future chef,0.0,neutral,0.0625,39,2024-04-16T14:00:00.000Z,en,France,6789,789,2205
+tech_paranoia,AI taking over. Preparing bunker,AI taking over. Preparing bunker,0.0,neutral,0.0,32,2024-04-16T11:00:00.000Z,en,UK,1234,234,2206
+nature_heals,Mountain air cured depression! Nature wins,Mountain air cured depression! Nature wins,0.3,positive,0.2,42,2024-04-16T08:00:00.000Z,en,Switzerland,4567,567,2207
+student_life,Thesis submitted! Freedom tastes sweet,Thesis submitted! Freedom tastes sweet,0.35,positive,0.65,38,2024-04-16T16:00:00.000Z,en,Germany,3456,456,2208
+photo_fail,Memory card corrupted. Wedding photos gone,Memory card corrupted. Wedding photos gone,0.0,neutral,0.0,42,2024-04-16T20:00:00.000Z,en,India,567,89,2209
+foodie_win,Secret recipe discovered! Restaurant quality,Secret recipe discovered! Restaurant quality,-0.5,negative,0.7,44,2024-04-16T12:30:00.000Z,en,Japan,5678,678,2210
+startup_journey,First customer acquired! Business beginning,First customer acquired! Business beginning,0.3125,positive,0.33333334,43,2024-04-16T10:00:00.000Z,en,Canada,3456,345,2211
+fashion_love,Vintage Chanel found! Thrifting pays,Vintage Chanel found! Thrifting pays,0.0,neutral,0.0,36,2024-04-16T13:00:00.000Z,en,USA,4567,567,2212
+eco_lifestyle,Zero waste month successful! Habits changed,Zero waste month successful! Habits changed,0.36875,positive,0.475,43,2024-04-16T09:00:00.000Z,en,Australia,3456,456,2213
+gamer_rage,Teammate threw match. Uninstalling forever,Teammate threw match. Uninstalling forever,0.0,neutral,0.0,42,2024-04-16T23:30:00.000Z,en,Brazil,234,45,2214
+wellness_win,Meditation streak 100 days! Mind clear,Meditation streak 100 days! Mind clear,0.1,positive,0.38333333,38,2024-04-17T07:00:00.000Z,en,UK,4567,678,2215
+comedy_success,Netflix wants special! Dreams reality,Netflix wants special! Dreams reality,0.3232143,positive,0.33571428,37,2024-04-17T21:00:00.000Z,en,USA,6789,890,2216
+travel_disaster,Luggage lost again. Airlines worst,Luggage lost again. Airlines worst,-1.0,negative,1.0,34,2024-04-17T11:00:00.000Z,en,Spain,1234,234,2217
+music_joy,First vinyl pressed! Touching history,First vinyl pressed! Touching history,0.40625,positive,0.41666666,37,2024-04-17T18:00:00.000Z,en,Netherlands,5678,789,2218
+privacy_invaded,Stalker found address. Police involved,Stalker found address. Police involved,0.0,neutral,0.0,38,2024-04-17T15:00:00.000Z,en,France,890,567,2219
+baking_therapy,Stress baking works! Kitchen heaven,Stress baking works! Kitchen heaven,0.0,neutral,0.0,35,2024-04-17T14:00:00.000Z,en,Italy,3456,456,2220
+green_warrior,Plastic cleanup organized! 100 volunteers,Plastic cleanup organized! 100 volunteers,0.0,neutral,0.0,41,2024-04-17T10:00:00.000Z,en,Kenya,4567,890,2221
+esports_life,Contract renewed! Another year pro,Contract renewed! Another year pro,0.0,neutral,0.0,34,2024-04-17T22:00:00.000Z,en,South Korea,5678,678,2222
+study_win,Scholarship received! Education funded,Scholarship received! Education funded,0.0,neutral,0.0,38,2024-04-17T16:00:00.000Z,en,India,6789,789,2223
+movie_love,Indie film changed perspective! Art matters,Indie film changed perspective! Art matters,0.0,neutral,0.0,43,2024-04-17T20:00:00.000Z,en,Canada,3456,456,2224
+pet_trouble,Vet bills bankrupting. Insurance needed,Vet bills bankrupting. Insurance needed,0.0,neutral,0.0,39,2024-04-17T12:00:00.000Z,en,USA,1234,234,2225
+art_recognition,Gallery wants exhibition! Artist validated,Gallery wants exhibition! Artist validated,0.25,positive,0.1,42,2024-04-17T17:00:00.000Z,en,Brazil,4567,567,2226
+code_elegance,Refactoring complete! Code beautiful,Refactoring complete! Code beautiful,0.4875,positive,0.7,36,2024-04-17T13:00:00.000Z,en,Germany,3456,678,2227
+food_heaven,Perfect pizza achieved! Italy impressed,Perfect pizza achieved! Italy impressed,1.0,positive,1.0,39,2024-04-17T19:30:00.000Z,en,Italy,5678,789,2228
+crypto_pain,Scam coin bought. Savings gone,Scam coin bought. Savings gone,0.0,neutral,0.0,30,2024-04-17T09:00:00.000Z,en,UK,890,123,2229
+mentor_found,Life coach changing everything! Growth,Life coach changing everything! Growth,0.0,neutral,0.0,38,2024-04-17T08:00:00.000Z,en,Australia,4567,678,2230
+camera_upgrade,Full frame finally! Photography leveled,Full frame finally! Photography leveled,0.175,positive,0.775,39,2024-04-17T14:30:00.000Z,en,Japan,3456,456,2231
+debug_hell,Bug reproducing randomly. Sanity lost,Bug reproducing randomly. Sanity lost,-0.5,negative,0.5,37,2024-04-17T23:00:00.000Z,en,USA,1234,234,2232
+style_evolution,Personal style found! Confidence soaring,Personal style found! Confidence soaring,0.0,neutral,0.3,40,2024-04-17T10:30:00.000Z,en,France,5678,678,2233
+ocean_calling,Sailing lessons started! Ocean dreams,Sailing lessons started! Ocean dreams,0.0,neutral,0.0,37,2024-04-17T08:30:00.000Z,en,Greece,3456,345,2234
+rage_moment,Broke monitor. Anger expensive,Broke monitor. Anger expensive,-0.6,negative,0.45,30,2024-04-17T22:30:00.000Z,en,Germany,567,89,2235
+fitness_journey,Abs finally visible! Dedication works,Abs finally visible! Dedication works,0.0,neutral,1.0,37,2024-04-18T06:00:00.000Z,en,Brazil,6789,890,2236
+film_dream,Sundance acceptance! Filmmaker legitimized,Sundance acceptance! Filmmaker legitimized,0.0,neutral,0.0,42,2024-04-18T18:00:00.000Z,en,USA,5678,789,2237
+dog_wisdom,Rescue dog teaching patience. Love grows,Rescue dog teaching patience. Love grows,0.5,positive,0.6,40,2024-04-18T10:00:00.000Z,en,Canada,4567,567,2238
+creative_explosion,Ideas overflowing! Best phase ever,Ideas overflowing! Best phase ever,1.0,positive,0.3,34,2024-04-18T15:00:00.000Z,en,India,3456,456,2239
+tech_nightmare,Ransomware hit. Everything encrypted,Ransomware hit. Everything encrypted,0.0,neutral,0.0,36,2024-04-18T14:00:00.000Z,en,UK,890,234,2240
+food_discovery,Street vendor changed life! Flavor heaven,Street vendor changed life! Flavor heaven,0.0,neutral,0.0,41,2024-04-18T12:00:00.000Z,en,Thailand,5678,678,2241
+invest_genius,Called market top! Profits secured,Called market top! Profits secured,0.625,positive,0.5,34,2024-04-18T09:00:00.000Z,en,Singapore,4567,890,2242
+teacher_reward,Former student thanking! Impact confirmed,Former student thanking! Impact confirmed,0.2,positive,0.5,41,2024-04-18T16:00:00.000Z,en,Spain,3456,456,2243
+photo_magic,Aurora captured perfectly! Patience rewarded,Aurora captured perfectly! Patience rewarded,1.0,positive,1.0,44,2024-04-18T02:00:00.000Z,en,Iceland,7890,1234,2244
+code_master,Open source maintaining! Community hero,Open source maintaining! Community hero,0.0,neutral,0.5,39,2024-04-18T11:00:00.000Z,en,Germany,3456,567,2245
+fashion_eco,Sustainable brand launching! Earth fashion,Sustainable brand launching! Earth fashion,0.0,neutral,0.0,42,2024-04-18T13:00:00.000Z,en,France,4567,678,2246
+planet_cry,Glacier melting witnessed. Action needed,Glacier melting witnessed. Action needed,0.1,neutral,0.1,40,2024-04-18T07:00:00.000Z,en,Norway,3456,890,2247
+gaming_glory,Tournament MVP! Skill recognized,Tournament MVP! Skill recognized,0.0,neutral,0.0,32,2024-04-18T23:00:00.000Z,en,USA,5678,789,2248
+zen_life,Stress gone completely! Balance found,Stress gone completely! Balance found,0.125,positive,0.4,37,2024-04-18T05:30:00.000Z,en,Japan,3456,456,2249
+comedy_timing,Punchline landed perfectly! Crowd roaring,Punchline landed perfectly! Crowd roaring,1.0,positive,1.0,41,2024-04-18T21:00:00.000Z,en,UK,5678,678,2250
+wander_soul,Nomad year 2 starting! Freedom continues,Nomad year 2 starting! Freedom continues,0.0,neutral,0.1,40,2024-04-18T12:00:00.000Z,en,Brazil,4567,567,2251
+music_soul,Album touching hearts! Messages pouring,Album touching hearts! Messages pouring,0.625,positive,0.5,39,2024-04-18T19:00:00.000Z,en,Canada,6789,890,2252
+security_hero,Prevented major breach! Bonus incoming,Prevented major breach! Bonus incoming,0.078125,neutral,0.5,38,2024-04-18T17:00:00.000Z,en,USA,3456,890,2253
+bake_master,Croissant perfection achieved! French approved,Croissant perfection achieved! French approved,0.0,neutral,0.0,46,2024-04-18T08:00:00.000Z,en,France,5678,789,2254
+earth_hope,Reforestation project funded! Trees winning,Reforestation project funded! Trees winning,0.5,positive,0.75,43,2024-04-18T10:00:00.000Z,en,India,4567,678,2255
+pro_streamer,Twitch partner achieved! Career made,Twitch partner achieved! Career made,0.0,neutral,0.0,36,2024-04-18T22:00:00.000Z,en,Germany,5678,789,2256
+study_done,Finals crushed! Summer freedom,Finals crushed! Summer freedom,-0.125,negative,0.1,30,2024-04-18T15:30:00.000Z,en,Australia,3456,456,2257
+movie_tears,Documentary life-changing. Perspective shifted,Documentary life-changing. Perspective shifted,0.0,neutral,0.0,46,2024-04-18T20:30:00.000Z,en,Canada,4567,567,2258
+cat_love,Foster fail #5. No regrets,Foster fail #5. No regrets,-0.225,negative,0.25,26,2024-04-19T09:00:00.000Z,en,USA,6789,789,2259
+art_flows,Creative drought over! Masterpiece brewing,Creative drought over! Masterpiece brewing,0.625,positive,1.0,42,2024-04-19T14:00:00.000Z,en,Italy,3456,456,2260
+bug_squash,Production fixed! Hero moment,Production fixed! Hero moment,0.125,positive,0.2,29,2024-04-19T16:00:00.000Z,en,UK,3456,678,2261
+taste_adventure,Michelin experience disappointing. Overrated,Michelin experience disappointing. Overrated,-0.6,negative,0.7,44,2024-04-19T20:00:00.000Z,en,France,1234,234,2262
+money_stress,Rent increased 40%. Moving necessary,Rent increased 40%. Moving necessary,0.0,neutral,1.0,36,2024-04-19T11:00:00.000Z,en,USA,890,567,2263
+learn_daily,Skill #10 acquired! Renaissance person,Skill #10 acquired! Renaissance person,0.0,neutral,0.0,38,2024-04-19T17:00:00.000Z,en,India,4567,678,2264
+nature_bliss,Camping under stars! Phone off,Camping under stars! Phone off,0.0,neutral,0.0,30,2024-04-19T21:00:00.000Z,en,New Zealand,3456,345,2265
+git_wizard,Commit history beautiful! Team impressed,Commit history beautiful! Team impressed,1.0,positive,1.0,40,2024-04-19T10:00:00.000Z,en,Germany,2345,234,2266
+style_found,Signature look developed! Brand building,Signature look developed! Brand building,0.125,positive,0.3,40,2024-04-19T13:00:00.000Z,en,Japan,5678,678,2267
+eco_win,Plastic-free year! Lifestyle permanent,Plastic-free year! Lifestyle permanent,0.0,neutral,0.0,38,2024-04-19T08:00:00.000Z,en,Canada,4567,890,2268
+noob_learning,Tutorial helpful! Actually improving,Tutorial helpful! Actually improving,0.0,neutral,0.1,36,2024-04-19T22:00:00.000Z,en,Brazil,2345,345,2269
+research_published,Nature publication! Career peak,Nature publication! Career peak,0.0,neutral,0.0,31,2024-04-19T15:00:00.000Z,en,UK,6789,1234,2270
+balance_mastered,Life priorities straight! Happiness found,Life priorities straight! Happiness found,0.475,positive,0.3,41,2024-04-19T07:00:00.000Z,en,Australia,4567,567,2271
+comedy_special,Hour recorded! Streaming soon,Hour recorded! Streaming soon,0.0,neutral,0.0,29,2024-04-19T21:30:00.000Z,en,USA,5678,678,2272
+explore_world,Country #75 visited! Wanderlust satisfied,Country #75 visited! Wanderlust satisfied,0.5,positive,1.0,41,2024-04-19T12:00:00.000Z,en,Spain,4567,567,2273
+beat_produced,Chart topper produced! Platinum potential,Chart topper produced! Platinum potential,0.0,neutral,1.0,41,2024-04-19T18:00:00.000Z,en,USA,6789,890,2274
+privacy_lost,Identity stolen. Nightmare beginning,Identity stolen. Nightmare beginning,0.0,neutral,0.0,36,2024-04-19T14:00:00.000Z,en,India,890,234,2275
+chef_glory,Restaurant reviewed 5 stars! Success,Restaurant reviewed 5 stars! Success,0.3,positive,0.0,36,2024-04-19T19:30:00.000Z,en,Italy,5678,789,2276
+green_impact,Carbon offset achieved! Guilt reduced,Carbon offset achieved! Guilt reduced,0.0,neutral,0.0,37,2024-04-19T09:00:00.000Z,en,Germany,3456,456,2277
+champion_born,First place secured! Trophy shining,First place secured! Trophy shining,0.3125,positive,0.33333334,35,2024-04-19T23:00:00.000Z,en,France,4567,678,2278
+knowledge_quest,Library card best investment! Learning,Library card best investment! Learning,1.0,positive,0.3,38,2024-04-19T16:30:00.000Z,en,Canada,3456,345,2279
+series_perfect,Binge complete. Life empty now,Binge complete. Life empty now,0.0,neutral,0.45,30,2024-04-19T22:30:00.000Z,en,UK,2345,456,2280
+rescue_love,Foster dog adopted! Happy ending,Foster dog adopted! Happy ending,0.8,positive,1.0,32,2024-04-20T10:00:00.000Z,en,USA,6789,789,2281
+create_magic,Inspiration striking daily! Zone entered,Inspiration striking daily! Zone entered,0.25,positive,0.5,40,2024-04-20T14:00:00.000Z,en,Brazil,3456,567,2282
+debug_win,Race condition solved! Sleep restored,Race condition solved! Sleep restored,0.0,neutral,0.0,37,2024-04-20T11:30:00.000Z,en,Japan,3456,678,2283
+food_fail,Food poisoning ruined vacation. Hotel nightmare,Food poisoning ruined vacation. Hotel nightmare,0.0,neutral,0.0,47,2024-04-20T22:00:00.000Z,en,Mexico,1234,234,2284
+crypto_moon,Early investment 100x! Retirement possible,Early investment 100x! Retirement possible,0.0625,neutral,0.65,42,2024-04-20T09:00:00.000Z,en,Singapore,7890,1234,2285
+mentor_grateful,Advice changed life! Paying forward,Advice changed life! Paying forward,0.0,neutral,0.0,35,2024-04-20T16:00:00.000Z,en,Australia,4567,567,2286
+photo_exhibition,Solo show opening! Dreams manifesting,Solo show opening! Dreams manifesting,0.0,neutral,0.0,37,2024-04-20T19:00:00.000Z,en,France,5678,678,2287
+code_nightmare,Spaghetti code inherited. Job reconsidering,Spaghetti code inherited. Job reconsidering,0.0,neutral,0.0,43,2024-04-20T15:00:00.000Z,en,USA,1234,234,2288
+fashion_statement,Runway debut success! Model material,Runway debut success! Model material,0.375,positive,0.0,36,2024-04-20T20:00:00.000Z,en,Italy,5678,789,2289
+ocean_love,Dolphin encounter magical! Bucket list,Dolphin encounter magical! Bucket list,0.625,positive,1.0,38,2024-04-20T08:00:00.000Z,en,Australia,6789,890,2290
+game_addiction,Playing 20 hours daily. Help needed,Playing 20 hours daily. Help needed,0.0,neutral,0.0,35,2024-04-20T04:00:00.000Z,en,South Korea,234,45,2291
+health_victory,Cancer-free confirmed! Life precious,Cancer-free confirmed! Life precious,0.5,positive,1.0,36,2024-04-20T14:00:00.000Z,en,USA,8901,1234,2292
+book_published,Amazon bestseller! Author dreams,Amazon bestseller! Author dreams,0.0,neutral,0.0,32,2024-04-20T17:00:00.000Z,en,UK,5678,789,2293
+coffee_obsession,Espresso machine arrived! Cafe closed,Espresso machine arrived! Cafe closed,-0.1,neutral,0.1,37,2024-04-20T07:00:00.000Z,en,Germany,3456,456,2294
+sports_heartbreak,Final lost overtime. Devastation complete,Final lost overtime. Devastation complete,0.05,neutral,0.7,41,2024-04-20T23:00:00.000Z,en,Brazil,2345,567,2295
+travel_heaven,Paradise found! Never leaving,Paradise found! Never leaving,0.0,neutral,0.0,29,2024-04-20T12:00:00.000Z,en,Maldives,5678,678,2296
+music_history,Grammy won! Speech prepared,Grammy won! Speech prepared,0.0,neutral,0.0,27,2024-04-20T21:00:00.000Z,en,USA,7890,1234,2297
+hack_prevented,Security training worked! Attack stopped,Security training worked! Attack stopped,0.0,neutral,0.0,40,2024-04-20T13:00:00.000Z,en,India,3456,890,2298
+bake_joy,Bakery line wrapped building! Success,Bakery line wrapped building! Success,0.3,positive,0.0,37,2024-04-20T06:00:00.000Z,en,France,6789,789,2299
+earth_warriors,Climate protest successful! Policy changed,Climate protest successful! Policy changed,0.9375,positive,0.95,42,2024-04-20T18:00:00.000Z,en,Canada,5678,890,2300
+gaming_retirement,Going pro at 40! Age irrelevant,Going pro at 40! Age irrelevant,-0.5,negative,1.0,31,2024-04-20T22:30:00.000Z,en,Japan,4567,678,2301
+exam_relief,Medical boards passed! Doctor official,Medical boards passed! Doctor official,0.0,neutral,0.0,38,2024-04-21T16:00:00.000Z,en,USA,6789,890,2302
+movie_disappointment,Franchise ruined. Childhood destroyed,Franchise ruined. Childhood destroyed,0.0,neutral,0.0,37,2024-04-21T20:00:00.000Z,en,UK,1234,234,2303
+puppy_parent,8 weeks old adopted! Chaos beginning,8 weeks old adopted! Chaos beginning,0.125,positive,0.2,36,2024-04-21T09:00:00.000Z,en,Australia,5678,678,2304
+art_success,Commission waitlist full! Booked solid,Commission waitlist full! Booked solid,0.21875,positive,0.325,38,2024-04-21T15:00:00.000Z,en,Spain,4567,567,2305
+tech_genius,Algorithm breakthrough! Patent filed,Algorithm breakthrough! Patent filed,0.0,neutral,0.0,36,2024-04-21T11:00:00.000Z,en,Germany,3456,678,2306
+food_obsession,Ramen perfected! Japan approves,Ramen perfected! Japan approves,0.0,neutral,0.0,31,2024-04-21T12:30:00.000Z,en,Japan,5678,789,2307
+broke_student,Ramen budget month 3. Graduation needed,Ramen budget month 3. Graduation needed,0.0,neutral,0.0,39,2024-04-21T18:00:00.000Z,en,USA,890,123,2308
+teacher_impact,Student's success letter! Purpose confirmed,Student's success letter! Purpose confirmed,0.3875,positive,0.5,43,2024-04-21T14:00:00.000Z,en,Canada,4567,678,2309
+photo_viral,Accidental meme created! Internet famous,Accidental meme created! Internet famous,0.5,positive,1.0,40,2024-04-21T17:00:00.000Z,en,Brazil,7890,1234,2310
+code_beauty,Elegant solution found! Art achieved,Elegant solution found! Art achieved,0.625,positive,1.0,36,2024-04-21T10:00:00.000Z,en,India,3456,567,2311
+fashion_disaster,Wardrobe malfunction live TV. Viral wrong,Wardrobe malfunction live TV. Viral wrong,-0.18181819,negative,0.7,41,2024-04-21T21:00:00.000Z,en,France,234,567,2312
+planet_healing,Coral restoration working! Hope rising,Coral restoration working! Hope rising,0.0,neutral,0.0,38,2024-04-21T07:00:00.000Z,en,Australia,5678,890,2313
+gamer_champion,World record set! History made,World record set! History made,0.0,neutral,0.0,30,2024-04-21T23:00:00.000Z,en,USA,6789,890,2314
+mindfulness_works,Anxiety defeated! Tools mastered,Anxiety defeated! Tools mastered,0.0,neutral,0.0,32,2024-04-21T08:00:00.000Z,en,UK,3456,456,2315
+humor_healing,Laughter yoga instructor! Joy spreading,Laughter yoga instructor! Joy spreading,0.8,positive,0.2,39,2024-04-21T11:30:00.000Z,en,India,4567,567,2316
+adventure_calling,Antarctica booked! Continents completing,Antarctica booked! Continents completing,0.0,neutral,0.0,40,2024-04-21T13:00:00.000Z,en,Argentina,5678,678,2317
+dj_touring,World tour announced! Dreams real,World tour announced! Dreams real,0.2,positive,0.3,33,2024-04-21T22:00:00.000Z,en,Netherlands,6789,890,2318
+data_loss,Backup failed. Years gone,Backup failed. Years gone,-0.5,negative,0.3,25,2024-04-21T16:30:00.000Z,en,Germany,890,234,2319
+chef_michelin,Star awarded! Peak reached,Star awarded! Peak reached,0.0,neutral,0.0,26,2024-04-21T20:30:00.000Z,en,France,7890,1234,2320
+eco_innovation,Plastic alternative invented! World changing,Plastic alternative invented! World changing,0.0,neutral,0.0,44,2024-04-21T15:30:00.000Z,en,Japan,6789,1234,2321
+team_victory,Championship won! Dynasty beginning,Championship won! Dynasty beginning,0.0,neutral,0.0,35,2024-04-21T19:00:00.000Z,en,USA,5678,789,2322
+phd_struggle,Thesis rejected again. Perseverance tested,Thesis rejected again. Perseverance tested,0.0,neutral,0.0,42,2024-04-21T17:30:00.000Z,en,Canada,1234,234,2323
+movie_masterpiece,Independent film perfection! Oscar worthy,Independent film perfection! Oscar worthy,0.16666667,positive,0.5625,41,2024-04-21T21:30:00.000Z,en,UK,4567,567,2324
+cat_adopted,Senior cat chosen! Love unlimited,Senior cat chosen! Love unlimited,0.5,positive,0.6,33,2024-04-22T10:00:00.000Z,en,Brazil,5678,678,2325
+creative_peak,Best work ever! Flow state,Best work ever! Flow state,1.0,positive,0.3,26,2024-04-22T14:00:00.000Z,en,Italy,3456,456,2326
+bug_impossible,Heisenbug haunting me. Sanity questioned,Heisenbug haunting me. Sanity questioned,0.0,neutral,0.0,40,2024-04-22T23:00:00.000Z,en,USA,1234,234,2327
+taste_explosion,Food truck discovery! New favorite,Food truck discovery! New favorite,0.3181818,positive,0.72727275,34,2024-04-22T13:00:00.000Z,en,Mexico,4567,567,2328
+portfolio_crash,Investments tanked. Retirement postponed,Investments tanked. Retirement postponed,0.0,neutral,0.0,40,2024-04-22T09:00:00.000Z,en,UK,890,567,2329
+wisdom_earned,Life lesson learned hard. Growing,Life lesson learned hard. Growing,-0.29166666,negative,0.5416667,33,2024-04-22T16:00:00.000Z,en,Australia,3456,456,2330
+photo_dreams,National Geographic published! Career peak,National Geographic published! Career peak,0.0,neutral,0.0,42,2024-04-22T08:00:00.000Z,en,India,7890,1234,2331
+deploy_smooth,Zero downtime achieved! DevOps win,Zero downtime achieved! DevOps win,0.8,positive,0.4,34,2024-04-22T15:00:00.000Z,en,Germany,3456,678,2332
+style_influencer,Million followers reached! Influence real,Million followers reached! Influence real,0.2,positive,0.3,41,2024-04-22T12:00:00.000Z,en,France,6789,890,2333
+ocean_guardian,Cleanup crew 1000 strong! Change happening,Cleanup crew 1000 strong! Change happening,0.5416667,positive,0.73333335,42,2024-04-22T07:00:00.000Z,en,Brazil,5678,890,2334
+rage_quit,Deleted account. Peace chosen,Deleted account. Peace chosen,0.0,neutral,0.0,29,2024-04-22T22:30:00.000Z,en,Japan,234,45,2335
+fitness_transformation,Before/after viral! Inspiring others,Before/after viral! Inspiring others,0.5,positive,1.0,36,2024-04-22T06:00:00.000Z,en,USA,8901,1234,2336
+film_festival,Grand prize won! Hollywood calling,Grand prize won! Hollywood calling,0.625,positive,1.0,34,2024-04-22T20:00:00.000Z,en,Canada,5678,789,2337
+best_boy,Service dog certified! Life changing,Service dog certified! Life changing,0.0,neutral,0.0,36,2024-04-22T11:00:00.000Z,en,UK,4567,567,2338
+paint_masterpiece,Museum acquisition! Legacy secured,Museum acquisition! Legacy secured,0.0,neutral,0.0,34,2024-04-22T17:00:00.000Z,en,Spain,5678,678,2339
+code_wizard,Framework created! Community adopting,Framework created! Community adopting,0.0,neutral,0.0,37,2024-04-22T14:30:00.000Z,en,USA,4567,890,2340
+feast_disaster,Dinner party fire! Pizza ordered,Dinner party fire! Pizza ordered,0.0,neutral,0.0,32,2024-04-22T19:30:00.000Z,en,Italy,1234,234,2341
+crypto_educator,Course launched! Scams preventing,Course launched! Scams preventing,0.0,neutral,0.0,33,2024-04-22T10:00:00.000Z,en,Singapore,3456,567,2342
+mentor_legacy,100 students mentored! Impact multiplied,100 students mentored! Impact multiplied,0.0,neutral,0.0,40,2024-04-22T18:00:00.000Z,en,India,5678,678,2343
+camera_stolen,Equipment theft. Dreams paused,Equipment theft. Dreams paused,0.0,neutral,0.0,30,2024-04-22T21:00:00.000Z,en,Brazil,890,234,2344
+debug_genius,Impossible bug solved! Legend status,Impossible bug solved! Legend status,-0.8333333,negative,1.0,36,2024-04-22T16:30:00.000Z,en,Germany,3456,678,2345
+fashion_empire,Brand stores opening! Empire building,Brand stores opening! Empire building,0.0,neutral,0.0,37,2024-04-22T13:30:00.000Z,en,France,6789,890,2346
+earth_changing,Ocean plastic collector working! Planet winning,Ocean plastic collector working! Planet winning,0.5,positive,0.75,47,2024-04-22T09:30:00.000Z,en,Netherlands,7890,1234,2347
+gaming_legend,Hall of fame youngest! Record set,Hall of fame youngest! Record set,0.0,neutral,0.0,33,2024-04-22T23:30:00.000Z,en,South Korea,8901,1234,2348
+peace_achieved,Therapy graduation! Mental health victory,Therapy graduation! Mental health victory,-0.1,neutral,0.2,41,2024-04-22T08:30:00.000Z,en,USA,4567,567,2349
+comedy_tour,50 cities booked! Dream tour,50 cities booked! Dream tour,0.0,neutral,0.0,28,2024-04-22T20:30:00.000Z,en,UK,5678,678,2350
+nomad_paradise,Perfect spot found! Never leaving,Perfect spot found! Never leaving,1.0,positive,1.0,33,2024-04-23T10:00:00.000Z,en,Thailand,4567,567,2351
+music_touching,Fan letter crying. Impact real,Fan letter crying. Impact real,0.0,neutral,0.45,30,2024-04-23T19:00:00.000Z,en,Canada,5678,678,2352
+security_breach,Company hacked. Damage massive,Company hacked. Damage massive,0.0,neutral,1.0,30,2024-04-23T15:00:00.000Z,en,USA,890,1234,2353
+bake_empire,Franchise offers pouring! Empire rising,Franchise offers pouring! Empire rising,0.125,positive,0.0,39,2024-04-23T06:00:00.000Z,en,France,6789,789,2354
+green_future,City adopted all proposals! Change leader,City adopted all proposals! Change leader,0.0,neutral,0.0,41,2024-04-23T11:00:00.000Z,en,Australia,5678,890,2355
+esports_coach,Team transformed! Champions created,Team transformed! Champions created,0.0,neutral,0.0,35,2024-04-23T21:00:00.000Z,en,Germany,4567,678,2356
+scholar_proud,Research changing field! Legacy building,Research changing field! Legacy building,0.0,neutral,0.0,40,2024-04-23T14:00:00.000Z,en,UK,6789,1234,2357
+movie_bomb,Budget wasted. Critics destroying,Budget wasted. Critics destroying,-0.2,negative,0.0,33,2024-04-23T20:00:00.000Z,en,USA,1234,234,2358
+adoption_day,Family complete! Hearts full,Family complete! Hearts full,0.2375,positive,0.475,28,2024-04-23T12:00:00.000Z,en,Canada,7890,1234,2359
+art_block,Creativity vanished. Career questioning,Creativity vanished. Career questioning,0.0,neutral,0.0,39,2024-04-23T16:00:00.000Z,en,Brazil,890,123,2360
+hack_master,Bug bounty millionaire! Skills paying,Bug bounty millionaire! Skills paying,0.0,neutral,0.0,37,2024-04-23T13:00:00.000Z,en,India,5678,890,2361
+taste_memory,Grandma's recipe found! Heritage preserved,Grandma's recipe found! Heritage preserved,0.0,neutral,0.0,42,2024-04-23T19:00:00.000Z,en,Italy,4567,567,2362
+fortune_made,IPO successful! Billionaire status,IPO successful! Billionaire status,0.9375,positive,0.95,34,2024-04-23T09:00:00.000Z,en,USA,8901,1234,2363
+teach_forever,Retirement refused! Passion continuing,Retirement refused! Passion continuing,0.0,neutral,0.0,38,2024-04-23T15:30:00.000Z,en,Japan,3456,456,2364
+lens_broken,Equipment destroyed. Starting over,Equipment destroyed. Starting over,0.0,neutral,0.1,34,2024-04-23T17:00:00.000Z,en,Germany,890,234,2365
+code_poetry,Algorithm published academically! Recognition,Algorithm published academically! Recognition,0.0,neutral,0.0,45,2024-04-23T10:30:00.000Z,en,France,3456,567,2366
+fashion_failure,Collection flopped. Redesigning everything,Collection flopped. Redesigning everything,0.0,neutral,0.0,42,2024-04-23T18:00:00.000Z,en,Spain,1234,234,2367
+ocean_healed,Reef recovering! Efforts working,Reef recovering! Efforts working,0.0,neutral,0.0,32,2024-04-23T07:00:00.000Z,en,Australia,5678,890,2368
+champion_made,Underdog victory! Dreams possible,Underdog victory! Dreams possible,0.0,neutral,1.0,33,2024-04-23T22:00:00.000Z,en,Brazil,6789,890,2369
+research_breakthrough,Cancer treatment promising! Hope delivered,Cancer treatment promising! Hope delivered,0.25,positive,0.5,42,2024-04-23T16:30:00.000Z,en,USA,7890,1234,2370
+film_genius,Cannes winner! Validation complete,Cannes winner! Validation complete,0.1,neutral,0.4,34,2024-04-23T21:30:00.000Z,en,France,5678,789,2371
+rescue_hero,100 animals saved! Mission continuing,100 animals saved! Mission continuing,0.0,neutral,0.0,37,2024-04-24T09:00:00.000Z,en,Canada,6789,789,2372
+creative_genius,Masterpiece unveiled! Critics amazed,Masterpiece unveiled! Critics amazed,0.0,neutral,0.0,36,2024-04-24T17:00:00.000Z,en,UK,4567,567,2373
+tech_disaster,Server room flooded. Data gone,Server room flooded. Data gone,0.0,neutral,0.0,30,2024-04-24T14:00:00.000Z,en,India,890,234,2374
+food_paradise,Perfect meal discovered! Life peaked,Perfect meal discovered! Life peaked,1.0,positive,1.0,36,2024-04-24T19:00:00.000Z,en,Japan,5678,678,2375
+money_problems,Debt crushing. Help needed,Debt crushing. Help needed,0.4,positive,0.9,26,2024-04-24T11:00:00.000Z,en,USA,567,89,2376
+learn_anything,Skill 20 mastered! Polymath status,Skill 20 mastered! Polymath status,0.0,neutral,0.0,34,2024-04-24T16:00:00.000Z,en,Germany,4567,678,2377
+nature_church,Forest healing soul! Therapy free,Forest healing soul! Therapy free,0.4,positive,0.8,33,2024-04-24T06:00:00.000Z,en,Canada,3456,345,2378
+git_love,Perfect commit history! Satisfaction,Perfect commit history! Satisfaction,1.0,positive,1.0,36,2024-04-24T10:00:00.000Z,en,Brazil,2345,234,2379
+style_copied,Trendsetter confirmed! Copycats everywhere,Trendsetter confirmed! Copycats everywhere,0.5,positive,1.0,42,2024-04-24T13:00:00.000Z,en,France,5678,789,2380
+eco_champion,Plastic-free city achieved! Model created,Plastic-free city achieved! Model created,0.0,neutral,0.0,41,2024-04-24T08:00:00.000Z,en,Australia,6789,890,2381
+gaming_addict,Relationship lost to gaming. Wake-up call,Relationship lost to gaming. Wake-up call,0.0,neutral,0.0,41,2024-04-24T22:00:00.000Z,en,UK,234,45,2382
+science_nobel,Nomination received! Peak achievement,Nomination received! Peak achievement,0.0,neutral,0.0,37,2024-04-24T15:00:00.000Z,en,Sweden,8901,1234,2383
+balance_guru,Life optimized! Happiness formula,Life optimized! Happiness formula,0.7,positive,0.2,33,2024-04-24T17:30:00.000Z,en,USA,4567,567,2384
+comedy_gold,Special went viral! Tours selling,Special went viral! Tours selling,0.44642857,positive,0.5714286,33,2024-04-24T21:00:00.000Z,en,Canada,5678,678,2385
+wanderer_home,Travel fatigue. Home appreciated,Travel fatigue. Home appreciated,0.2,positive,0.1,32,2024-04-24T12:00:00.000Z,en,Spain,3456,456,2386
+beat_platinum,Production went platinum! Success,Production went platinum! Success,0.3,positive,0.0,33,2024-04-24T20:00:00.000Z,en,USA,6789,890,2387
+privacy_paranoid,Living off-grid. Peace found,Living off-grid. Peace found,0.0,neutral,0.0,28,2024-04-24T09:30:00.000Z,en,Canada,2345,345,2388
+masterchef_dream,TV show offer! Celebrity chef,TV show offer! Celebrity chef,0.0,neutral,0.0,29,2024-04-24T18:30:00.000Z,en,Italy,5678,789,2389
+planet_savior,Innovation saving oceans! Impact massive,Innovation saving oceans! Impact massive,0.0,neutral,1.0,40,2024-04-24T14:30:00.000Z,en,Japan,7890,1234,2390
+world_champion,Olympics gold! Dream achieved,Olympics gold! Dream achieved,0.0,neutral,0.0,29,2024-04-24T16:30:00.000Z,en,USA,8901,1234,2391
+truth_journalist,Scandal exposed! Democracy protected,Scandal exposed! Democracy protected,0.0,neutral,0.0,36,2024-04-24T19:30:00.000Z,en,UK,5678,1234,2392
+enlightenment_found,Spiritual awakening! Life transformed,Spiritual awakening! Life transformed,0.0,neutral,0.13333334,37,2024-04-24T05:00:00.000Z,en,India,3456,456,2393
+viral_sensation,Overnight fame! Life changed,Overnight fame! Life changed,0.0,neutral,0.0,28,2024-04-24T21:30:00.000Z,en,Brazil,7890,1234,2394
+passport_stamps,Country 100 visited! World seen,Country 100 visited! World seen,0.0,neutral,0.0,31,2024-04-25T11:00:00.000Z,en,Australia,5678,678,2395
+music_legend,Lifetime achievement award! Legacy secured,Lifetime achievement award! Legacy secured,0.0,neutral,0.0,42,2024-04-25T20:00:00.000Z,en,USA,6789,890,2396
+firewall_hero,Nation-state attack stopped! Hero status,Nation-state attack stopped! Hero status,0.0,neutral,0.0,40,2024-04-25T14:00:00.000Z,en,Israel,4567,890,2397
+feast_king,Food empire built! Restaurants everywhere,Food empire built! Restaurants everywhere,0.0,neutral,0.0,41,2024-04-25T19:00:00.000Z,en,France,5678,789,2398
+earth_restored,Ecosystem thriving! Work validated,Ecosystem thriving! Work validated,0.0,neutral,0.0,34,2024-04-25T07:00:00.000Z,en,Brazil,6789,890,2399
+gaming_retired,Pro career ending. Next chapter,Pro career ending. Next chapter,0.0,neutral,0.0,31,2024-04-25T23:00:00.000Z,en,South Korea,4567,678,2400
+legacy_built,Foundation established! Giving back,Foundation established! Giving back,0.0,neutral,0.0,35,2024-04-25T16:00:00.000Z,en,USA,7890,1234,2401
+ocean_researcher,New species discovered in deep sea! Science wins 🐠,New species discovered in deep sea! Science wins 🐠,0.14545454,positive,0.35151514,50,2024-04-26T08:00:00.000Z,en,Norway,6789,890,2402
+code_struggling,Merge conflict nightmare. Git hates me today,Merge conflict nightmare. Git hates me today,0.0,neutral,0.0,44,2024-04-26T15:30:00.000Z,en,India,1234,234,2403
+sunset_photographer,Perfect golden hour at beach! Nature's art 🌅,Perfect golden hour at beach! Nature's art 🌅,0.6875,positive,0.75,44,2024-04-26T18:00:00.000Z,en,Australia,4567,567,2404
+gaming_champion,Tournament finals tomorrow! Nervous but ready,Tournament finals tomorrow! Nervous but ready,0.2,positive,0.5,45,2024-04-26T22:00:00.000Z,en,South Korea,3456,456,2405
+foodie_heaven,Street tacos changed my life! Mexico wins 🌮,Street tacos changed my life! Mexico wins 🌮,0.3,positive,0.2,43,2024-04-26T13:00:00.000Z,en,Mexico,5678,678,2406
+startup_success,Series A funding closed! Dreams becoming reality 🚀,Series A funding closed! Dreams becoming reality 🚀,0.1625,positive,0.475,50,2024-04-26T16:00:00.000Z,en,USA,7890,1234,2407
+tech_innovator,AI breakthrough at lab today! This changes everything for healthcare 🚀,AI breakthrough at lab today! This changes everything for healthcare 🚀,0.0,neutral,0.0,70,2024-04-26T14:30:00.000Z,en,Switzerland,5678,789,2408
